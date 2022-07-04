@@ -1,0 +1,2544 @@
+,MCC,MNC,alpha-2,destination,operator_name,network_name,status
+0,289,67,GE-AB,Abkhazia,Aquafon JSC,Aquafon,Operational
+1,289,88,GE-AB,Abkhazia,A-Mobile LLSC,A-Mobile,Operational
+2,412,01,AF,Afghanistan,Afghan Wireless Communication Company,AWCC,Operational
+3,412,20,AF,Afghanistan,Telecom Development Company Afghanistan Ltd.,Roshan,Operational
+4,412,40,AF,Afghanistan,MTN Group,MTN,Operational
+5,412,50,AF,Afghanistan,Etisalat Afghanistan,Etisalat,Operational
+6,412,55,AF,Afghanistan,WASEL Afghanistan,WASEL,Operational
+7,412,80,AF,Afghanistan,Afghan Telecom,Salaam,Operational
+8,412,88,AF,Afghanistan,Afghan Telecom,Salaam,Operational
+9,276,01,AL,Albania,One Telecommunications,ONE,Operational
+10,276,02,AL,Albania,Vodafone Albania,Vodafone,Operational
+11,276,03,AL,Albania,Albtelecom,ALBtelecom,Operational
+12,276,04,AL,Albania,Plus Communication,Plus Communication,Not operational
+13,603,01,DZ,Algeria,Algérie Télécom,Mobilis,Operational
+14,603,02,DZ,Algeria,Optimum Telecom,Djezzy,Operational
+15,603,03,DZ,Algeria,Wataniya Telecom Algérie,Ooredoo,Operational
+16,603,07,DZ,Algeria,Algérie Télécom,AT,Operational
+17,603,09,DZ,Algeria,Algérie Télécom,AT,Operational
+18,603,21,DZ,Algeria,Anesrif,ANESRIF,Ongoing
+19,544,780,AS,American Samoa,American Samoa Telecommunications,ASTCA,Operational
+20,544,11,AS,American Samoa,Bluesky,Bluesky,Operational
+21,213,03,AD,Andorra,Andorra Telecom,"Som, Mobiland",Operational
+22,631,02,AO,Angola,UNITEL S.a.r.l.,UNITEL,Operational
+23,631,04,AO,Angola,MOVICEL Telecommunications S.A.,MOVICEL,Operational
+24,631,05,AO,Angola,Africell,,Operational
+25,365,010,AI,Anguilla,Digicel,,Operational
+26,365,840,AI,Anguilla,Cable & Wireless,FLOW,Operational
+27,344,030,AG,Antigua and Barbuda,Antigua Public Utilities Authority,APUA,Operational
+28,344,050,AG,Antigua and Barbuda,Antigua Wireless Ventures Limited,Digicel,Operational
+29,344,920,AG,Antigua and Barbuda,Cable & Wireless Caribbean Cellular (Antigua) Limited,FLOW,Operational
+30,344,930,AG,Antigua and Barbuda,AT&T Wireless,,Unknown
+31,722,010,AR,Argentina,Telefónica Móviles Argentina S.A.,Movistar,Operational
+32,722,020,AR,Argentina,NII Holdings,Nextel,Operational
+33,722,034,AR,Argentina,Telecom Personal S.A.,Personal,Operational
+34,722,040,AR,Argentina,TE.SA.M Argentina S.A.,Globalstar,Operational
+35,722,070,AR,Argentina,Telefónica Móviles Argentina S.A.,Movistar,Operational
+36,722,310,AR,Argentina,AMX Argentina S.A.,Claro,Operational
+37,722,320,AR,Argentina,AMX Argentina S.A.,Claro,Operational
+38,722,330,AR,Argentina,AMX Argentina S.A.,Claro,Operational
+39,722,341,AR,Argentina,Telecom Personal S.A.,Personal,Operational
+40,722,350,AR,Argentina,Hutchison Telecommunications Argentina S.A.,PORT-HABLE,Not operational
+41,283,01,AM,Armenia,Veon Armenia CJSC,Beeline,Operational
+42,283,04,AM,Armenia,Karabakh Telecom,Karabakh Telecom,Operational
+43,283,05,AM,Armenia,K Telecom CJSC,VivaCell-MTS,Operational
+44,283,10,AM,Armenia,Ucom LLC,Ucom,Operational
+45,363,01,AW,Aruba,Servicio di Telecomunicacion di Aruba,SETAR,Operational
+46,363,02,AW,Aruba,Digicel Aruba,Digicel,Operational
+47,505,01,AU,Australia,Telstra Corporation Limited,Telstra,Operational
+48,505,02,AU,Australia,Singtel Optus Pty Ltd,Optus,Operational
+49,505,03,AU,Australia,Vodafone Hutchison Australia Pty Ltd,Vodafone,Operational
+50,505,04,AU,Australia,Department of Defence,,Operational
+51,505,05,AU,Australia,,Ozitel,Not operational
+52,505,06,AU,Australia,Vodafone Hutchison Australia Pty Ltd,3,Not operational
+53,505,07,AU,Australia,Vodafone Network Pty Ltd,Vodafone,Unknown
+54,505,08,AU,Australia,One.Tel Limited,One.Tel,Not operational
+55,505,09,AU,Australia,,Airnet,Not operational
+56,505,10,AU,Australia,Norfolk Telecom,Norfolk Is.,Operational
+57,505,11,AU,Australia,Telstra Corporation Limited,Telstra,Unknown
+58,505,12,AU,Australia,Vodafone Hutchison Australia Pty Ltd,3,Not operational
+59,505,13,AU,Australia,Transport for NSW,RailCorp,Operational
+60,505,14,AU,Australia,TPG Telecom,AAPT,Operational
+61,505,15,AU,Australia,,3GIS,Not operational
+62,505,16,AU,Australia,Victorian Rail Track,VicTrack,Operational
+63,505,17,AU,Australia,Optus,,Operational
+64,505,18,AU,Australia,Pactel International Pty Ltd,Pactel,Not operational
+65,505,19,AU,Australia,Lycamobile Pty Ltd,Lycamobile,Operational
+66,505,20,AU,Australia,Ausgrid Corporation,,Unknown
+67,505,21,AU,Australia,Queensland Rail,,Unknown
+68,505,22,AU,Australia,iiNet,,Unknown
+69,505,23,AU,Australia,Challenge Networks Pty Ltd ,,Operational
+70,505,24,AU,Australia,Advanced Communications Technologies Pty Ltd,,Unknown
+71,505,25,AU,Australia,Pilbara Iron,,Unknown
+72,505,26,AU,Australia,Dialogue Communications Pty Ltd,,Unknown
+73,505,27,AU,Australia,Nexium Telecommunications,,Unknown
+74,505,28,AU,Australia,RCOM International Pty Ltd,,Unknown
+75,505,30,AU,Australia,Compatel Limited,,Unknown
+76,505,31,AU,Australia,BHP,,Unknown
+77,505,32,AU,Australia,Thales Australia,,Unknown
+78,505,33,AU,Australia,CLX Networks Pty Ltd,,Unknown
+79,505,34,AU,Australia,Santos Limited,,Unknown
+80,505,35,AU,Australia,MessageBird Pty Ltd,,Unknown
+81,505,36,AU,Australia,Optus Mobile Pty Ltd,Optus,Unknown
+82,505,37,AU,Australia,Yancoal Australia Ltd,,Unknown
+83,505,38,AU,Australia,Truphone Pty Ltd,Truphone,Operational
+84,505,39,AU,Australia,Telstra Corporation Ltd.,Telstra,Unknown
+85,505,40,AU,Australia,CITIC Pacific Mining,,Unknown
+86,505,41,AU,Australia,Aqura Technologies Pty,,Unknown
+87,505,42,AU,Australia,Groote Eylandt Mining Company Pty Ltd,GEMCO,Unknown
+88,505,43,AU,Australia,Arrow Energy Pty Ltd,,Unknown
+89,505,44,AU,Australia,Roy Hill,,Unknown
+90,505,45,AU,Australia,Clermont,,Unknown
+91,505,46,AU,Australia,AngloGold Ashanti,,Unknown
+92,505,47,AU,Australia,Woodside Energy Limited,,Unknown
+93,505,48,AU,Australia,Titan ICT Pty Ltd,,Unknown
+94,505,49,AU,Australia,Field Solutions Group Pty Ltd,,Unknown
+95,505,50,AU,Australia,Pivotel Group Pty Ltd,,Operational
+96,505,51,AU,Australia,Fortescue Metals Group,,Unknown
+97,505,52,AU,Australia,OptiTel Australia,,Operational
+98,505,53,AU,Australia,Shell Australia,,Unknown
+99,505,54,AU,Australia,Nokia,,Unknown
+100,505,61,AU,Australia,Commtel Network Solutions Pty Ltd,CommTel NS,Implement / Design
+101,505,62,AU,Australia,National Broadband Network,NBN,Operational
+102,505,68,AU,Australia,National Broadband Network,NBN,Operational
+103,505,71,AU,Australia,Telstra Corporation Limited,Telstra,Operational
+104,505,72,AU,Australia,Telstra Corporation Limited,Telstra,Operational
+105,505,88,AU,Australia,Pivotel Group Pty Ltd,,Operational
+106,505,90,AU,Australia,Singtel Optus Proprietary Ltd,Optus,Operational
+107,505,99,AU,Australia,One.Tel,One.Tel,Not operational
+108,232,01,AT,Austria,A1 Telekom Austria,A1.net,Operational
+109,232,02,AT,Austria,A1 Telekom Austria,,Reserved
+110,232,03,AT,Austria,T-Mobile Austria GmbH,Magenta,Operational
+111,232,04,AT,Austria,T-Mobile Austria GmbH,Magenta,Unknown
+112,232,05,AT,Austria,Hutchison Drei Austria,3,Operational
+113,232,06,AT,Austria,Orange Austria GmbH,Orange AT,Not operational
+114,232,07,AT,Austria,T-Mobile Austria,Magenta-T,Operational
+115,232,08,AT,Austria,Lycamobile Austria,Lycamobile,Operational
+116,232,09,AT,Austria,A1 Telekom Austria,Tele2Mobil,Operational
+117,232,10,AT,Austria,Hutchison Drei Austria,3,Operational
+118,232,11,AT,Austria,A1 Telekom Austria,bob,Operational
+119,232,12,AT,Austria,A1 Telekom Austria,yesss!,Operational
+120,232,13,AT,Austria,T-Mobile Austria GmbH,Magenta,Operational
+121,232,14,AT,Austria,Hutchison Drei Austria,,Reserved
+122,232,15,AT,Austria,Mundio Mobile Austria,Vectone Mobile,Operational
+123,232,16,AT,Austria,Hutchison Drei Austria,,Reserved
+124,232,17,AT,Austria,MASS Response Service GmbH,,Unknown
+125,232,18,AT,Austria,smartspace GmbH,,Unknown
+126,232,19,AT,Austria,Hutchison Drei Austria,,Unknown
+127,232,20,AT,Austria,MTEL Austrija GmbH,m:tel,Operational
+128,232,21,AT,Austria,"Salzburg AG für Energie, Verkehr und Telekommunikation",,Unknown
+129,232,22,AT,Austria,Plintron Austria Limited,,Unknown
+130,232,23,AT,Austria,T-Mobile Austria GmbH,Magenta,Not operational
+131,232,24,AT,Austria,Smartel Services GmbH,,Not operational
+132,232,25,AT,Austria,Holding Graz Kommunale Dienstleistungen GmbH,,Unknown
+133,232,26,AT,Austria,LIWEST Kabelmedien GmbH,,Unknown
+134,232,27,AT,Austria,TISMI B.V.,,Unknown
+135,232,91,AT,Austria,ÖBB,GSM-R A,Operational
+136,232,92,AT,Austria,ArgoNET GmbH,ArgoNET,Operational
+137,400,01,AZ,Azerbaijan,,Azercell,Operational
+138,400,02,AZ,Azerbaijan,,Bakcell,Operational
+139,400,03,AZ,Azerbaijan,CATEL,FONEX,Operational
+140,400,04,AZ,Azerbaijan,Azerfon,Nar Mobile,Operational
+141,400,05,AZ,Azerbaijan,Special State Protection Service of the Republic of Azerbaijan,,Unknown
+142,400,06,AZ,Azerbaijan,Nakhtel,Naxtel,Operational
+143,364,39,BS,Bahamas,The Bahamas Telecommunications Company Ltd (BaTelCo),BTC,Operational
+144,364,49,BS,Bahamas,Cable Bahamas Ltd,Aliv,Operational
+145,426,01,BH,Bahrain,Bahrain Telecommunications Company,Batelco,Operational
+146,426,02,BH,Bahrain,Zain Bahrain,zain BH,Operational
+147,426,03,BH,Bahrain,Civil Aviation Authority,,Unknown
+148,426,04,BH,Bahrain,STC Bahrain,STC,Operational
+149,426,05,BH,Bahrain,Bahrain Telecommunications Company,Batelco,Operational
+150,470,01,BD,Bangladesh,Grameenphone Ltd.,Grameenphone,Operational
+151,470,02,BD,Bangladesh,Axiata Bangladesh Ltd.,Robi,Operational
+152,470,03,BD,Bangladesh,Banglalink Digital Communications Ltd.,Banglalink,Operational
+153,470,04,BD,Bangladesh,Teletalk Bangladesh Limited,TeleTalk,Operational
+154,470,05,BD,Bangladesh,Pacific Bangladesh Telecom Limited,Citycell,Not Operational
+155,470,07,BD,Bangladesh,Bharti Airtel Bangladesh Ltd.,Airtel,Operational
+156,470,09,BD,Bangladesh,Bangladesh Internet Exchange Limited (BIEL),ollo,Not operational
+157,470,10,BD,Bangladesh,Banglalion Communications Ltd.,Banglalion,Operational
+158,342,600,BB,Barbados,LIME (formerly known as Cable & Wireless),FLOW,Operational
+159,342,646,BB,Barbados,KW Telecommunications Inc.,,Not operational
+160,342,750,BB,Barbados,Digicel (Barbados) Limited,Digicel,Operational
+161,342,800,BB,Barbados,Ozone Wireless Inc.,Ozone,Not operational
+162,342,820,BB,Barbados,Neptune Communications Inc.,,Not operational
+163,257,01,BY,Belarus,A1 Belarus,A1,Operational
+164,257,02,BY,Belarus,Mobile TeleSystems,MTS,Operational
+165,257,03,BY,Belarus,BelCel,DIALLOG,Not operational
+166,257,04,BY,Belarus,Belarusian Telecommunications Network,life:),Operational
+167,257,05,BY,Belarus,Beltelecom,byfly,Not operational
+168,257,06,BY,Belarus,Belorussian Cloud Technologies,beCloud,Operational
+169,206,00,BE,Belgium,Belgacom Mobile,Proximus,Not operational
+170,206,01,BE,Belgium,Belgacom Mobile,Proximus,Operational
+171,206,02,BE,Belgium,Infrabel,,Operational
+172,206,03,BE,Belgium,Citymesh NV,Citymesh Connect,Operational
+173,206,04,BE,Belgium,Proximus,MWingz,Planned
+174,206,05,BE,Belgium,Telenet,Telenet,Operational
+175,206,06,BE,Belgium,Lycamobile sprl,Lycamobile,Operational
+176,206,07,BE,Belgium,Mundio Mobile Belgium nv,Vectone Mobile,Reserved
+177,206,08,BE,Belgium,Nethys,VOO,Operational
+178,206,09,BE,Belgium,Voxbone mobile,Voxbone,Not operational
+179,206,10,BE,Belgium,Orange S.A.,Orange Belgium,Operational
+180,206,11,BE,Belgium,L-Mobi Mobile,L-mobi,Not operational
+181,206,15,BE,Belgium,Elephant Talk Communications Schweiz GmbH,,Not operational
+182,206,16,BE,Belgium,NextGen Mobile Ltd.,,Not operational
+183,206,20,BE,Belgium,Telenet,Base,Operational
+184,206,22,BE,Belgium,FEBO Telecom,Febo.mobi,Not operational
+185,206,25,BE,Belgium,Dense Air Belgium SPRL,,Unknown
+186,206,28,BE,Belgium,BICS,,Unknown
+187,206,29,BE,Belgium,TISMI,,Not operational
+188,206,30,BE,Belgium,Unleashed NV,Mobile Vikings,Operational
+189,206,33,BE,Belgium,Ericsson NV,,Not operational
+190,206,34,BE,Belgium,Dense Air Belgium SPRL,,Unknown
+191,206,40,BE,Belgium,JOIN Experience (Belgium),JOIN,Not operational
+192,206,50,BE,Belgium,IP Nexia,,Not operational
+193,206,71,BE,Belgium,test,,Not operational
+194,206,72,BE,Belgium,test,,Not operational
+195,206,73,BE,Belgium,test,,Not operational
+196,206,74,BE,Belgium,test,,Not operational
+197,206,99,BE,Belgium,e-BO Enterprises,,Not operational
+198,206,77,BE,Belgium,Proximus Luxembourg S.A.,,Unknown
+199,206,99,BE,Belgium,Orange Communications Luxembourg S.A.,,Unknown
+200,702,67,BZ,Belize,Belize Telemedia Limited,DigiCell,Operational
+201,702,68,BZ,Belize,International Telecommunications Ltd.,INTELCO,Not operational
+202,702,69,BZ,Belize,Speednet,SMART,Operational
+203,702,99,BZ,Belize,Speednet,SMART,Operational
+204,616,01,BJ,Benin,Benin Telecoms Mobile,Libercom,Operational
+205,616,02,BJ,Benin,Telecel Benin,Moov,Operational
+206,616,03,BJ,Benin,Spacetel Benin,MTN,Operational
+207,616,04,BJ,Benin,Bell Benin Communications,BBCOM,Operational
+208,616,05,BJ,Benin,Glo Communication Benin,Glo,Not operational
+209,350,59,BM,Bermuda,,Cellular One,Operational
+210,350,050,BM,Bermuda,,Digicel Bermuda,Operational
+211,350,00,BM,Bermuda,Bermuda Digital Communications Ltd.,One,Operational
+212,350,007,BM,Bermuda,Paradise Mobile,,Not operational
+213,350,01,BM,Bermuda,Telecommunications (Bermuda & West Indies) Ltd,Digicel Bermuda,Reserved
+214,350,02,BM,Bermuda,M3 Wireless,Mobility,Operational
+215,350,05,BM,Bermuda,Telecom Networks,,Unknown
+216,350,11,BM,Bermuda,Deltronics,,Unknown
+217,350,15,BM,Bermuda,FKB Net Ltd.,,Unknown
+218,402,11,BT,Bhutan,Bhutan Telecom,B-Mobile,Operational
+219,402,17,BT,Bhutan,Bhutan Telecom,B-Mobile,Unknown
+220,402,77,BT,Bhutan,Tashi InfoComm Limited,TashiCell,Operational
+221,736,01,BO,Bolivia,Nuevatel PCS De Bolivia SA,Viva,Operational
+222,736,02,BO,Bolivia,Entel SA,Entel,Operational
+223,736,03,BO,Bolivia,Telefónica Celular De Bolivia S.A,Tigo,Operational
+224,362,31,BQ/CW/SX,Former Netherlands Antilles,Eutel N.V.,,Unknown
+225,362,33,BQ/CW/SX,Former Netherlands Antilles,WICC N.V.,,Unknown
+226,362,51,BQ/CW/SX,Former Netherlands Antilles,Telcell N.V.,Telcell,Operational
+227,362,54,BQ/CW/SX,Former Netherlands Antilles,East Caribbean Cellular,ECC,Operational
+228,362,59,BQ/CW/SX,Former Netherlands Antilles,Liberty Latin America,FLOW,Operational
+229,362,60,BQ/CW/SX,Former Netherlands Antilles,Liberty Latin America,FLOW,Operational
+230,362,63,BQ/CW/SX,Former Netherlands Antilles,CSC N.V.,,Unknown
+231,362,68,BQ/CW/SX,Former Netherlands Antilles,Curaçao Telecom N.V.,Digicel,Operational
+232,362,69,BQ/CW/SX,Former Netherlands Antilles,Curaçao Telecom N.V.,Digicel,Operational
+233,362,74,BQ/CW/SX,Former Netherlands Antilles,PCS N.V.,,Unknown
+234,362,76,BQ/CW/SX,Former Netherlands Antilles,Antiliano Por N.V.,Digicel,Operational
+235,362,78,BQ/CW/SX,Former Netherlands Antilles,Telefonia Bonairiano N.V.,Telbo,Operational
+236,362,91,BQ/CW/SX,Former Netherlands Antilles,Liberty Latin America,FLOW,Operational
+237,362,94,BQ/CW/SX,Former Netherlands Antilles,Bòbò Frus N.V.,Bayòs,Operational
+238,362,95,BQ/CW/SX,Former Netherlands Antilles,E.O.C.G. Wireless,MIO,Not operational
+239,218,03,BA,Bosnia and Herzegovina,Public Enterprise Croatian Telecom Ltd.,HT-ERONET,Operational
+240,218,05,BA,Bosnia and Herzegovina,RS Telecommunications JSC Banja Luka,m:tel ,Operational
+241,218,90,BA,Bosnia and Herzegovina,BH Telecom,BH Mobile,Operational
+242,652,01,BW,Botswana,Mascom Wireless (Pty) Limited,Mascom,Operational
+243,652,02,BW,Botswana,Orange (Botswana) Pty Limited,Orange,Operational
+244,652,04,BW,Botswana,Botswana Telecommunications Corporation,beMobile,Operational
+245,724,00,BR,Brazil,"NII Holdings, Inc.",Nextel,Not Operational
+246,724,01,BR,Brazil,SISTEER DO BRASIL TELECOMUNICAÇÔES,,Unknown
+247,724,02,BR,Brazil,Telecom Italia Mobile,TIM,Operational
+248,724,03,BR,Brazil,Telecom Italia Mobile,TIM,Operational
+249,724,04,BR,Brazil,Telecom Italia Mobile,TIM,Operational
+250,724,05,BR,Brazil,Claro,Claro,Operational
+251,724,06,BR,Brazil,Telefônica Brasil,Vivo,Operational
+252,724,10,BR,Brazil,Telefônica Brasil,Vivo,Operational
+253,724,11,BR,Brazil,Telefônica Brasil,Vivo,Operational
+254,724,12,BR,Brazil,Claro,Claro,Unknown
+255,724,15,BR,Brazil,Sercomtel Celular,Sercomtel,Operational
+256,724,16,BR,Brazil,Brasil Telecom GSM,Brasil Telecom GSM,Not operational
+257,724,17,BR,Brazil,[pt] ,Surf Telecom,Operational
+258,724,18,BR,Brazil,Vodafone,datora,Operational
+259,724,21,BR,Brazil,Ligue Telecom,LIGUE,Operational
+260,724,23,BR,Brazil,Telefônica Brasil,Vivo,Operational
+261,724,24,BR,Brazil,Amazonia Celular,,Unknown
+262,724,28,BR,Brazil,,No name,Operational
+263,724,30,BR,Brazil,TNL PCS Oi,Oi,Unknown
+264,724,31,BR,Brazil,TNL PCS Oi,Oi,Operational
+265,724,32,BR,Brazil,Algar Telecom S.A.,Algar Telecom,Operational
+266,724,33,BR,Brazil,Algar Telecom S.A.,Algar Telecom,Operational
+267,724,34,BR,Brazil,Algar Telecom S.A.,Algar Telecom,Operational
+268,724,35,BR,Brazil,Telcom Telecomunicações,,Unknown
+269,724,36,BR,Brazil,Options Telecomunicações,,Unknown
+270,724,37,BR,Brazil,Unicel,aeiou,Not operational
+271,724,38,BR,Brazil,Claro,Claro,Operational
+272,724,39,BR,Brazil,"NII Holdings, Inc.",Nextel,Operational
+273,724,54,BR,Brazil,PORTO SEGURO TELECOMUNICAÇÔES,Conecta,Operational
+274,724,99,BR,Brazil,,Local,Operational
+275,995,01,IO,British Indian Ocean Territory,ICO Satellite Management,ICO,Not operational
+276,995,02,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+277,995,03,IO,British Indian Ocean Territory,,Iridium,Operational
+278,995,04,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+279,995,05,IO,British Indian Ocean Territory,Thuraya,,Operational
+280,995,06,IO,British Indian Ocean Territory,Thuraya,,Operational
+281,995,07,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+282,995,08,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+283,995,09,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+284,995,10,IO,British Indian Ocean Territory,,ACeS,Not operational
+285,995,11,IO,British Indian Ocean Territory,,Inmarsat,Operational
+286,995,12,IO,British Indian Ocean Territory,Telenor Maritime AS,Telenor,Operational
+287,995,13,IO,British Indian Ocean Territory,BebbiCell AG,GSM.AQ,Operational
+288,995,14,IO,British Indian Ocean Territory,AeroMobile AS,AeroMobile,Operational
+289,995,15,IO,British Indian Ocean Territory,OnAir Switzerland Sarl,OnAir,Operational
+290,995,16,IO,British Indian Ocean Territory,"Cisco Systems, Inc.",Cisco Jasper,Operational
+291,995,17,IO,British Indian Ocean Territory,JT Group Limited,Navitas,Not operational
+292,995,18,IO,British Indian Ocean Territory,AT&T Mobility,Cellular @Sea,Operational
+293,995,19,IO,British Indian Ocean Territory,Monaco Telecom,Epic,Operational
+294,995,20,IO,British Indian Ocean Territory,Intermatica,,Unknown
+295,995,21,IO,British Indian Ocean Territory,Wins Limited,,Operational
+296,995,22,IO,British Indian Ocean Territory,MediaLincc Ltd,,Unknown
+297,995,23,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+298,995,24,IO,British Indian Ocean Territory,Voxbone,iNum,Unknown
+299,995,25,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+300,995,26,IO,British Indian Ocean Territory,Telecom Italia Mobile,TIM@sea,Operational
+301,995,27,IO,British Indian Ocean Territory,Monaco Telecom,OnMarine,Operational
+302,995,28,IO,British Indian Ocean Territory,GDSP (Vodafone's Global Data Service Platform),Vodafone,Operational
+303,995,29,IO,British Indian Ocean Territory,,Telenor,Not operational
+304,995,30,IO,British Indian Ocean Territory,Unassigned,,Returned spare
+305,995,31,IO,British Indian Ocean Territory,Orange S.A.,Orange,Operational
+306,995,32,IO,British Indian Ocean Territory,MegaFon,Sky High,Operational
+307,995,33,IO,British Indian Ocean Territory,Smart Communications,,Not operational
+308,995,34,IO,British Indian Ocean Territory,tyntec,,Unknown
+309,995,35,IO,British Indian Ocean Territory,Globecomm Network Services,,Operational
+310,995,36,IO,British Indian Ocean Territory,Azerfon,,Operational
+311,995,37,IO,British Indian Ocean Territory,Transatel,,Operational
+312,995,38,IO,British Indian Ocean Territory,Multiregional TransitTelecom,,Operational
+313,995,39,IO,British Indian Ocean Territory,MTX Connect Ltd,,Operational
+314,995,40,IO,British Indian Ocean Territory,Deutsche Telekom,1NCE ,Operational
+315,995,41,IO,British Indian Ocean Territory,One Network B.V.,,Operational
+316,995,42,IO,British Indian Ocean Territory,DCN Hub ehf,,Unknown
+317,995,43,IO,British Indian Ocean Territory,EMnify GmbH,,Operational
+318,995,44,IO,British Indian Ocean Territory,AT&T Inc.,,Unknown
+319,995,45,IO,British Indian Ocean Territory,Advanced Wireless Network Company Limited,,Unknown
+320,995,46,IO,British Indian Ocean Territory,Telecom26 AG,,Operational
+321,995,47,IO,British Indian Ocean Territory,Ooredoo,,Not operational
+322,995,48,IO,British Indian Ocean Territory,Communication for Devices in Sweden AB,Com4,Unknown
+323,995,49,IO,British Indian Ocean Territory,Mobile Telecommunications Company K.S.C.P.,Zain,Unknown
+324,995,50,IO,British Indian Ocean Territory,EchoStar Mobile,,Unknown
+325,995,51,IO,British Indian Ocean Territory,VisionNG,,Not operational
+326,995,52,IO,British Indian Ocean Territory,Manx Telecom,,Unknown
+327,995,53,IO,British Indian Ocean Territory,Inmarsat,European Aviation Network,Operational
+328,995,54,IO,British Indian Ocean Territory,Teleena Holding B.V.,,Unknown
+329,995,55,IO,British Indian Ocean Territory,Beezz Communication Solutions Ltd.,,Unknown
+330,995,56,IO,British Indian Ocean Territory,European Telecommunications Standards Institute,ETSI,Unknown
+331,995,57,IO,British Indian Ocean Territory,SAP,,Not operational
+332,995,58,IO,British Indian Ocean Territory,Belgacom ICS,BICS,Unknown
+333,995,59,IO,British Indian Ocean Territory,MessageBird B.V.,,Unknown
+334,995,60,IO,British Indian Ocean Territory,OneWeb,,Unknown
+335,995,61,IO,British Indian Ocean Territory,MTN Management Services,,Unknown
+336,995,62,IO,British Indian Ocean Territory,Twilio,,Operational
+337,995,63,IO,British Indian Ocean Territory,GloTel B.V.,,Not operational
+338,995,64,IO,British Indian Ocean Territory,Syniverse Technologies,,Unknown
+339,995,65,IO,British Indian Ocean Territory,Plintron Global Technology Solutions Pty Ltd,,Unknown
+340,995,66,IO,British Indian Ocean Territory,Limitless Mobile LLC,,Operational
+341,995,67,IO,British Indian Ocean Territory,1NCE GmbH,,Operational
+342,995,68,IO,British Indian Ocean Territory,Maersk Line,,Unknown
+343,995,69,IO,British Indian Ocean Territory,Legos,,Unknown
+344,995,70,IO,British Indian Ocean Territory,Clementvale Baltic OÜ,,Not operational
+345,995,71,IO,British Indian Ocean Territory,Tampnet AS,,Unknown
+346,995,72,IO,British Indian Ocean Territory,Tele2,,Unknown
+347,995,73,IO,British Indian Ocean Territory,Cubic Telecom Limited,,Unknown
+348,995,74,IO,British Indian Ocean Territory,Etisalat,,Unknown
+349,995,75,IO,British Indian Ocean Territory,Podsystem Ltd.,,Operational
+350,995,76,IO,British Indian Ocean Territory,A1 Telekom Austria,,Unknown
+351,995,77,IO,British Indian Ocean Territory,Bouygues Telecom,,Unknown
+352,995,78,IO,British Indian Ocean Territory,Telecom Italia Sparkle S.p.A.,,Unknown
+353,995,79,IO,British Indian Ocean Territory,Nokia Corporation,,Unknown
+354,995,80,IO,British Indian Ocean Territory,Flo Live Limited,,Operational
+355,995,81,IO,British Indian Ocean Territory,Airnity SAS,,Unknown
+356,995,82,IO,British Indian Ocean Territory,Eseye Limited,,Unknown
+357,995,83,IO,British Indian Ocean Territory,iBasis,,Unknown
+358,995,84,IO,British Indian Ocean Territory,"Telefónica Móviles España, S.A. Unipersonal",,Unknown
+359,995,85,IO,British Indian Ocean Territory,Telefónica Germany GmbH & Co. OHG,,Unknown
+360,995,86,IO,British Indian Ocean Territory,BJT Partners SAS,,Unknown
+361,995,87,IO,British Indian Ocean Territory,"Cisco Systems, Inc.",,Unknown
+362,995,88,IO,British Indian Ocean Territory,UN Office for the Coordination of Humanitarian Affairs (OCHA),,Not operational
+363,995,89,IO,British Indian Ocean Territory,DIDWW Ireland Limited,,Operational
+364,995,90,IO,British Indian Ocean Territory,Truphone,,Operational
+365,995,91,IO,British Indian Ocean Territory,World Mobile Group Limited,,Unknown
+366,995,92,IO,British Indian Ocean Territory,Phonegroup SA,,Unknown
+367,995,93,IO,British Indian Ocean Territory,SkyFive AG,,Unknown
+368,995,01,IO,British Indian Ocean Territory,MulteFire,,Operational
+369,995,01,IO,British Indian Ocean Territory,World's Global Telecom,,Not operational
+370,995,02,IO,British Indian Ocean Territory,Orange S.A.,5G Croco,Unknown
+371,995,03,IO,British Indian Ocean Territory,Halys SAS,,Not operational
+372,348,170,VG,British Virgin Islands,Cable & Wireless,FLOW,Operational
+373,348,370,VG,British Virgin Islands,BVI Cable TV Ltd,,Unknown
+374,348,570,VG,British Virgin Islands,Caribbean Cellular Telephone,CCT Boatphone,Operational
+375,348,770,VG,British Virgin Islands,Digicel (BVI) Limited,Digicel,Operational
+376,528,01,BN,Brunei,Telekom Brunei,TelBru,Unknown
+377,528,02,BN,Brunei,Progresif Cellular,PCSB,Operational
+378,528,03,BN,Brunei,Unified National Networks Sdn Bhd,UNN,Unknown
+379,528,11,BN,Brunei,Data Stream Technology Sdn Bhd,DST,Operational
+380,284,01,BG,Bulgaria,A1 Bulgaria,A1 BG,Operational
+381,284,03,BG,Bulgaria,BTC,Vivacom,Operational
+382,284,05,BG,Bulgaria,Telenor (Bulgaria),Telenor,Operational
+383,284,07,BG,Bulgaria,НАЦИОНАЛНА КОМПАНИЯ ЖЕЛЕЗОПЪТНА ИНФРАСТРУКТУРА,НКЖИ,Operational
+384,284,09,BG,Bulgaria,COMPATEL LIMITED,,Not operational
+385,284,11,BG,Bulgaria,Bulsatcom,,Operational
+386,284,13,BG,Bulgaria,Ti.com JSC,Ти.ком,Operational
+387,613,01,BF,Burkina Faso,Onatel,Telmob,Operational
+388,613,02,BF,Burkina Faso,Orange Burkina Faso,Orange,Operational
+389,613,03,BF,Burkina Faso,Telecel Faso SA,Telecel Faso,Operational
+390,642,01,BI,Burundi,Econet Wireless,econet Leo,Operational
+391,642,02,BI,Burundi,VTEL MEA,Tempo,Not operational
+392,642,03,BI,Burundi,Onatel,Onatel,Operational
+393,642,07,BI,Burundi,LACELL SU,Smart Mobile,Operational
+394,642,08,BI,Burundi,Viettel,Lumitel,Operational
+395,642,82,BI,Burundi,Econet Wireless,econet Leo,Operational
+396,456,01,KH,Cambodia,CamGSM,Cellcard,Operational
+397,456,02,KH,Cambodia,Smart Axiata Co. Ltd,Smart,Operational
+398,456,03,KH,Cambodia,Cambodia Advance Communications Co. Ltd,qb,Not Operational
+399,456,04,KH,Cambodia,Cambodia Advance Communications Co. Ltd,qb,Not Operational
+400,456,05,KH,Cambodia,Smart Axiata Co. Ltd,Smart,Operational
+401,456,06,KH,Cambodia,Smart Axiata Co. Ltd,Smart,Operational
+402,456,08,KH,Cambodia,Viettel,Metfone,Operational
+403,456,09,KH,Cambodia,Viettel,Metfone,Operational
+404,456,11,KH,Cambodia,SEATEL Cambodia,SEATEL,Operational
+405,456,18,KH,Cambodia,The Royal Group,Cellcard,Operational
+406,624,01,CM,Cameroon,Mobile Telephone Network Cameroon Ltd,MTN Cameroon,Operational
+407,624,02,CM,Cameroon,Orange Cameroun S.A.,Orange,Operational
+408,624,03,CM,Cameroon,Camtel,Camtel,Operational
+409,624,04,CM,Cameroon,Viettel,Nexttel,Operational
+410,302,100,CA,Canada,Data on Tap Inc.,dotmobile,Unknown
+411,302,130,CA,Canada,Xplornet Communications,Xplornet,Operational
+412,302,131,CA,Canada,Xplornet Communications,Xplornet,Operational
+413,302,150,CA,Canada,Cogeco Connexion Inc.,,Unknown
+414,302,220,CA,Canada,Telus Mobility,Koodo Mobile,Operational
+415,302,221,CA,Canada,Telus Mobility,Telus,Unknown
+416,302,222,CA,Canada,Telus Mobility,Telus,Unknown
+417,302,250,CA,Canada,ALO Mobile Inc.,ALO,Unknown
+418,302,270,CA,Canada,Bragg Communications,EastLink,Operational
+419,302,290,CA,Canada,Airtel Wireless,Airtel Wireless,Operational
+420,302,300,CA,Canada,Ecotel inc.,ECOTEL,Operational
+421,302,310,CA,Canada,Ecotel inc.,ECOTEL,Operational
+422,302,320,CA,Canada,Rogers Communications,Rogers Wireless,Operational
+423,302,330,CA,Canada,Blue Canada Wireless Inc.,,Not operational
+424,302,340,CA,Canada,Execulink,Execulink,Operational
+425,302,350,CA,Canada,Naskapi,,Unknown
+426,302,360,CA,Canada,Telus Mobility,MiKe,Not operational
+427,302,361,CA,Canada,Telus Mobility,Telus,Not operational
+428,302,370,CA,Canada,Fido Solutions,Fido,Operational
+429,302,380,CA,Canada,Keewaytinook Okimakanak Mobile,Keewaytinook Mobile,Operational
+430,302,390,CA,Canada,Dryden Mobility,DMTS,Not operational
+431,302,420,CA,Canada,A.B.C. Allen Business Communications Ltd.,ABC,Operational
+432,302,480,CA,Canada,SSi Connexions,Qiniq,Operational
+433,302,490,CA,Canada,Shaw Communications,Freedom Mobile,Operational
+434,302,491,CA,Canada,Shaw Communications,Freedom Mobile,Unknown
+435,302,500,CA,Canada,Videotron,Videotron,Operational
+436,302,510,CA,Canada,Videotron,Videotron,Operational
+437,302,520,CA,Canada,Videotron,Videotron,Unknown
+438,302,530,CA,Canada,Keewaytinook Okimakanak Mobile,Keewaytinook Mobile,Operational
+439,302,540,CA,Canada,Rovvr Communications Inc.,,Unknown
+440,302,550,CA,Canada,Star Solutions International Inc.,,Unknown
+441,302,560,CA,Canada,Lynx Mobility,Lynx Mobility,Not operational
+442,302,570,CA,Canada,LightSquared,LightSquared,Unknown
+443,302,590,CA,Canada,Quadro Communications Co-op,Quadro Mobility,Operational
+444,302,600,CA,Canada,Iristel,,Unknown
+445,302,610,CA,Canada,Bell Mobility,Bell Mobility,Operational
+446,302,620,CA,Canada,ICE Wireless,ICE Wireless,Operational
+447,302,630,CA,Canada,Bell Aliant,Aliant Mobility,Unknown
+448,302,640,CA,Canada,Bell Mobility,Bell,Not operational
+449,302,650,CA,Canada,Thunder Bay Telephone,TBaytel,Operational
+450,302,652,CA,Canada,BC Tel Mobility (Telus),,Not operational
+451,302,653,CA,Canada,Telus Mobility,Telus,Not operational
+452,302,655,CA,Canada,Bell MTS,MTS,Not operational
+453,302,656,CA,Canada,Thunder Bay Telephone,TBay,Not operational
+454,302,657,CA,Canada,Telus Mobility,Telus,Not operational
+455,302,660,CA,Canada,Bell MTS,MTS,Operational
+456,302,670,CA,Canada,CityWest,CityTel Mobility,Unknown
+457,302,680,CA,Canada,SaskTel Mobility,SaskTel,Operational
+458,302,681,CA,Canada,SaskTel Mobility,SaskTel,Unknown
+459,302,690,CA,Canada,Bell Mobility,Bell,Operational
+460,302,701,CA,Canada,MB Tel Mobility,,Not operational
+461,302,702,CA,Canada,MT&T Mobility (Aliant),,Not operational
+462,302,703,CA,Canada,New Tel Mobility (Aliant),,Not operational
+463,302,710,CA,Canada,,Globalstar,Operational
+464,302,720,CA,Canada,Rogers Communications,Rogers Wireless,Operational
+465,302,721,CA,Canada,Rogers Communications,Rogers Wireless,Unknown
+466,302,730,CA,Canada,TerreStar Networks,TerreStar Solutions,Unknown
+467,302,740,CA,Canada,Shaw Communications,Shaw Telecom,Not operational
+468,302,750,CA,Canada,SaskTel Mobility,SaskTel,Unknown
+469,302,760,CA,Canada,Telus Mobility,Public Mobile,Operational
+470,302,770,CA,Canada,TNW Wireless Inc.,TNW Wireless,Operational
+471,302,780,CA,Canada,SaskTel Mobility,SaskTel,Operational
+472,302,781,CA,Canada,SaskTel Mobility,SaskTel,Unknown
+473,302,790,CA,Canada,NetSet Communications,,Operational
+474,302,820,CA,Canada,Rogers Communications,Rogers Wireless,Unknown
+475,302,860,CA,Canada,Telus Mobility,Telus,Unknown
+476,302,880,CA,Canada,"Shared Telus, Bell, and SaskTel",Bell,Operational
+477,302,910,CA,Canada,Halton Regional Police Service,,Unknown
+478,302,920,CA,Canada,Rogers Communications,Rogers Wireless,Not operational
+479,302,940,CA,Canada,Wightman Telecom,Wightman Mobility,Operational
+480,302,990,CA,Canada,Ericsson Canada,,Unknown
+481,302,991,CA,Canada,Halton Regional Police Service,,Unknown
+482,302,996,CA,Canada,Powertech Labs,,Unknown
+483,302,997,CA,Canada,Powertech Labs,,Not operational
+484,302,998,CA,Canada,Institut de Recherche d’Hydro-Québec,,Unknown
+485,625,01,CV,Cape Verde,"CVMóvel, S.A.",CVMOVEL,Operational
+486,625,02,CV,Cape Verde,"UNITEL T+ TELECOMUNICACÕES, S.A.",T+,Operational
+487,346,05,KY,Cayman Islands,Digicel Cayman Ltd.,Digicel,Operational
+488,346,001,KY,Cayman Islands,WestTel Ltd.,Logic,Operational
+489,346,140,KY,Cayman Islands,Cable & Wireless (Cayman Islands) Limited,FLOW,Operational
+490,346,050,KY,Cayman Islands,Digicel Cayman Ltd.,Digicel,Reserved
+491,623,01,CF,Central African Republic,Atlantique Telecom Centrafrique SA,Moov,Operational
+492,623,02,CF,Central African Republic,Telecel Centrafrique,TC,Operational
+493,623,03,CF,Central African Republic,Orange RCA,Orange,Operational
+494,623,04,CF,Central African Republic,Azur RCA,Azur,Operational
+495,622,01,TD,Chad,Bharti Airtel SA,Airtel,Operational
+496,622,02,TD,Chad,SotelTchad,Tawali,Operational
+497,622,03,TD,Chad,Millicom,Tigo,Operational
+498,622,07,TD,Chad,SotelTchad,Salam,Operational
+499,730,01,CL,Chile,Entel Telefonía Móvil S.A.,entel,Operational
+500,730,02,CL,Chile,Telefónica Móvil de Chile,Movistar,Operational
+501,730,03,CL,Chile,Claro Chile S.A.,CLARO CL,Operational
+502,730,04,CL,Chile,Novator Partners,WOM,Operational
+503,730,05,CL,Chile,Multikom S.A.,,Unknown
+504,730,06,CL,Chile,Blue Two Chile S.A.,Telsur,Operational
+505,730,07,CL,Chile,Telefónica Móvil de Chile,Movistar,Unknown
+506,730,08,CL,Chile,VTR S.A.,VTR Móvil,Operational
+507,730,09,CL,Chile,Novator Partners,WOM,Operational
+508,730,10,CL,Chile,Entel Telefonía Móvil S.A.,entel,Operational
+509,730,11,CL,Chile,Celupago S.A.,,Unknown
+510,730,12,CL,Chile,Telestar Móvil S.A.,Colo-Colo,Operational
+511,730,13,CL,Chile,Tribe Mobile Chile SPA,Virgin Mobile,Operational
+512,730,14,CL,Chile,Netline Telefónica Móvil Ltda,,Unknown
+513,730,15,CL,Chile,Cibeles Telecom S.A.,,Unknown
+514,730,16,CL,Chile,Nomade Telecomunicaciones S.A.,,Unknown
+515,730,17,CL,Chile,COMPATEL Chile Limitada,,Unknown
+516,730,18,CL,Chile,Empresas Bunker S.A.,,Unknown
+517,730,19,CL,Chile,Sociedad Falabella Móvil SPA,móvil Falabella,Operational
+518,730,20,CL,Chile,Inversiones Santa Fe Limitada,,Unknown
+519,730,22,CL,Chile,Cellplus SpA,,Unknown
+520,730,23,CL,Chile,Claro Servicios Empresariales S. A.,,Unknown
+521,730,26,CL,Chile,WILL S.A.,,Unknown
+522,730,27,CL,Chile,Cibeles Telecom S.A.,,Unknown
+523,730,99,CL,Chile,WILL Telefonía,Will,Operational
+524,460,00,CN,China,China Mobile,China Mobile,Operational
+525,460,01,CN,China,China Unicom,China Unicom,Operational
+526,460,02,CN,China,China Mobile,China Mobile,Not operational
+527,460,03,CN,China,China Telecom,China Telecom,Operational
+528,460,04,CN,China,Global Star Satellite,China Mobile,Unknown
+529,460,05,CN,China,China Telecom,China Telecom,Not operational
+530,460,06,CN,China,China Unicom,China Unicom,Not operational
+531,460,07,CN,China,China Mobile,China Mobile,Not operational
+532,460,08,CN,China,China Mobile,China Mobile,Unknown
+533,460,09,CN,China,China Unicom,China Unicom,Operational
+534,460,11,CN,China,China Telecom,China Telecom,Operational
+535,460,20,CN,China,China Tietong,China Tietong,Operational
+536,461,,CN,China,,,
+537,732,001,CO,Colombia,Colombia Telecomunicaciones S.A. ESP,Movistar,Operational
+538,732,002,CO,Colombia,Edatel S.A. ESP,Edatel,Unknown
+539,732,003,CO,Colombia,LLEIDA S.A.S.,,Unknown
+540,732,004,CO,Colombia,COMPATEL COLOMBIA SAS,,Unknown
+541,732,020,CO,Colombia,Une EPM Telecomunicaciones S.A. E.S.P.,Tigo,Operational
+542,732,099,CO,Colombia,Empresas Municipales de Cali,EMCALI,Operational
+543,732,101,CO,Colombia,Comunicacion Celular S.A. (Comcel),Claro,Operational
+544,732,102,CO,Colombia,Bellsouth Colombia,,Not operational
+545,732,103,CO,Colombia,Colombia Móvil,Tigo,Operational
+546,732,111,CO,Colombia,Colombia Móvil,Tigo,Operational
+547,732,123,CO,Colombia,Colombia Telecomunicaciones S.A. ESP,Movistar,Operational
+548,732,130,CO,Colombia,Avantel S.A.S,AVANTEL,Operational
+549,732,142,CO,Colombia,Une EPM Telecomunicaciones S.A. E.S.P.,,Unknown
+550,732,154,CO,Colombia,Virgin Mobile Colombia,Virgin Mobile,Operational
+551,732,165,CO,Colombia,Colombia Móvil,,Unknown
+552,732,176,CO,Colombia,DirecTV Colombia Ltda,,Operational
+553,732,187,CO,Colombia,Empresa de Telecomunicaciones de Bogotá,eTb,Operational
+554,732,199,CO,Colombia,SUMA Movil SAS,,Unknown
+555,732,208,CO,Colombia,UFF Movil SAS,,Not operational
+556,732,210,CO,Colombia,Hablame Colombia SAS ESP,,Unknown
+557,732,220,CO,Colombia,Libre Tecnologias SAS,,Unknown
+558,732,230,CO,Colombia,Setroc Mobile Group SAS,,Unknown
+559,732,240,CO,Colombia,Logistica Flash Colombia SAS,,Operational
+560,732,360,CO,Colombia,Partners Telecom Colombia SAS,WOM,Operational
+561,732,666,CO,Colombia,Comunicacion Celular S.A. (Comcel),Claro,Not operational
+562,654,01,KM,Comoros,Comores Telecom,HURI,Operational
+563,654,02,KM,Comoros,Telecom Malagasy (Telma),TELCO SA,Operational
+564,629,01,CG,Congo,Celtel Congo,Airtel,Operational
+565,629,07,CG,Congo,Warid Telecom,Airtel,Operational
+566,629,10,CG,Congo,MTN CONGO S.A,Libertis Telecom,Operational
+567,548,01,CK,Cook Islands,Telecom Cook Islands,Vodafone,Operational
+568,712,01,CR,Costa Rica,Instituto Costarricense de Electricidad,Kölbi ICE,Operational
+569,712,02,CR,Costa Rica,Instituto Costarricense de Electricidad,Kölbi ICE,Operational
+570,712,03,CR,Costa Rica,Claro CR Telecomunicaciones,Claro,Operational
+571,712,04,CR,Costa Rica,Liberty Latin America,Liberty,Operational
+572,712,20,CR,Costa Rica,Virtualis S.A.,fullmóvil,Not operational
+573,219,01,HR,Croatia,T-Hrvatski Telekom,HT HR,Operational
+574,219,02,HR,Croatia,Telemach,,Operational
+575,219,04,HR,Croatia,NTH Mobile d.o.o.,,Unknown
+576,219,10,HR,Croatia,A1 Hrvatska,A1 HR,Operational
+577,219,12,HR,Croatia,TELE FOCUS d.o.o.,,Unknown
+578,219,20,HR,Croatia,T-Hrvatski Telekom,T-Mobile HR,Unknown
+579,368,01,CU,Cuba,"Empresa de Telecomunicaciones de Cuba, SA",CUBACEL,Operational
+580,280,01,CY,Cyprus,Cyprus Telecommunications Authority,Cytamobile-Vodafone,Operational
+581,280,02,CY,Cyprus,Cyprus Telecommunications Authority,Cytamobile-Vodafone,Unknown
+582,280,10,CY,Cyprus,Monaco Telecom,Epic,Operational
+583,280,20,CY,Cyprus,PrimeTel PLC,PrimeTel,Operational
+584,280,22,CY,Cyprus,Lemontel Ltd,lemontel,Operational
+585,280,23,CY,Cyprus,Mundio Mobile Cyprus Ltd.,Vectone Mobile,Not operational
+586,230,01,CZ,Czech Republic,T-Mobile Czech Republic,T-Mobile,Operational
+587,230,02,CZ,Czech Republic,O2 Czech Republic,O2,Operational
+588,230,03,CZ,Czech Republic,Vodafone Czech Republic,Vodafone,Operational
+589,230,04,CZ,Czech Republic,Nordic Telecom s.r.o.,,Operational
+590,230,05,CZ,Czech Republic,PODA a.s.,,Operational
+591,230,06,CZ,Czech Republic,Nordic Telecom 5G a.s.,,Operational
+592,230,07,CZ,Czech Republic,T-Mobile Czech Republic,T-Mobile,Operational
+593,230,08,CZ,Czech Republic,Compatel s.r.o.,,Unknown
+594,230,09,CZ,Czech Republic,"Uniphone, s.r.o.",Unimobile,Unknown
+595,230,98,CZ,Czech Republic,"Správa železniční dopravní cesty, s.o.",,Operational
+596,230,99,CZ,Czech Republic,Vodafone Czech Republic,Vodafone,Not operational
+597,630,01,CD,Democratic Republic of the Congo,Vodacom Congo RDC sprl,Vodacom,Operational
+598,630,02,CD,Democratic Republic of the Congo,Airtel sprl,Airtel,Operational
+599,630,05,CD,Democratic Republic of the Congo,Supercell SPRL,Supercell,Operational
+600,630,86,CD,Democratic Republic of the Congo,Orange RDC sarl,Orange RDC,Operational
+601,630,88,CD,Democratic Republic of the Congo,Yozma Timeturns sprl,YTT,Not operational
+602,630,89,CD,Democratic Republic of the Congo,Orange RDC sarl,Orange RDC,Operational
+603,630,90,CD,Democratic Republic of the Congo,Africell RDC sprl,Africell,Operational
+604,238,01,DK,Denmark,TDC A/S,TDC,Operational
+605,238,02,DK,Denmark,Telenor Denmark,Telenor,Operational
+606,238,03,DK,Denmark,Syniverse Technologies,,Unknown
+607,238,04,DK,Denmark,Nexcon.io ApS,,Unknown
+608,238,05,DK,Denmark,Dansk Beredskabskommunikation A/S,TetraNet,Operational
+609,238,06,DK,Denmark,Hi3G Denmark ApS,3,Operational
+610,238,07,DK,Denmark,Mundio Mobile (Denmark) Limited,Vectone Mobile,Not operational
+611,238,08,DK,Denmark,Voxbone mobile,Voxbone,Operational
+612,238,09,DK,Denmark,Dansk Beredskabskommunikation A/S,SINE,Operational
+613,238,10,DK,Denmark,TDC A/S,TDC,Operational
+614,238,11,DK,Denmark,Dansk Beredskabskommunikation A/S,SINE,Operational
+615,238,12,DK,Denmark,Lycamobile Denmark Ltd,Lycamobile,Operational
+616,238,13,DK,Denmark,Compatel Limited,,Unknown
+617,238,14,DK,Denmark,Monty UK Global Limited,,Unknown
+618,238,15,DK,Denmark,Cibicom,Net 1,Operational
+619,238,16,DK,Denmark,Tismi B.V.,,Unknown
+620,238,17,DK,Denmark,Gotanet AB,,Unknown
+621,238,18,DK,Denmark,Cubic Telecom,,Unknown
+622,238,20,DK,Denmark,Telia,Telia,Operational
+623,238,23,DK,Denmark,Banedanmark,GSM-R DK,Operational
+624,238,25,DK,Denmark,SMS Provider Corp.,Viahub,Unknown
+625,238,28,DK,Denmark,LINK Mobile A/S,,Unknown
+626,238,30,DK,Denmark,Interactive digital media GmbH,,Unknown
+627,238,40,DK,Denmark,Ericsson,,Not operational
+628,238,42,DK,Denmark,Greenwave Mobile IoT ApS,Wavely,Operational
+629,238,43,DK,Denmark,MobiWeb Limited,,Not operational
+630,238,66,DK,Denmark,TT-Netværket P/S,,Operational
+631,238,73,DK,Denmark,Onomondo,,Unknown
+632,238,77,DK,Denmark,Telenor Denmark,Telenor,Not operational
+633,238,88,DK,Denmark,Cobira ApS,,Unknown
+634,238,96,DK,Denmark,Telia Danmark,Telia,Unknown
+635,638,01,DJ,Djibouti,Djibouti Telecom,Evatis,Operational
+636,366,020,DM,Dominica,Digicel Group Limited,Digicel,Operational
+637,366,110,DM,Dominica,Cable &  Wireless,FLOW,Operational
+638,370,01,DO,Dominican Republic,Altice Group,Altice,Operational
+639,370,02,DO,Dominican Republic,Compañía Dominicana de Teléfonos,Claro,Operational
+640,370,03,DO,Dominican Republic,Altice Group,Altice,Operational
+641,370,04,DO,Dominican Republic,"Trilogy Dominicana, S.A.",Viva,Operational
+642,370,05,DO,Dominican Republic,"WIND Telecom, S.A",Wind,Operational
+643,514,01,TL,East Timor,PT Telekomunikasi Indonesia International,Telkomcel,Operational
+644,514,02,TL,East Timor,Timor Telecom,TT,Operational
+645,514,03,TL,East Timor,Viettel Timor-Leste,Telemor,Operational
+646,740,00,EC,Ecuador,Otecel S.A.,Movistar,Operational
+647,740,01,EC,Ecuador,CONECEL S.A.,Claro,Operational
+648,740,02,EC,Ecuador,Corporación Nacional de Telecomunicaciones (CNT EP),CNT Mobile,Operational
+649,740,03,EC,Ecuador,Otecel S.A.,Tuenti,Operational
+650,602,01,EG,Egypt,Orange Egypt,Orange,Operational
+651,602,02,EG,Egypt,Vodafone Egypt,Vodafone,Operational
+652,602,03,EG,Egypt,Etisalat Egypt,Etisalat,Operational
+653,602,04,EG,Egypt,Telecom Egypt,WE,Operational
+654,706,01,SV,El Salvador,"CTE Telecom Personal, S.A. de C.V.",Claro,Operational
+655,706,02,SV,El Salvador,"Digicel, S.A. de C.V.",Digicel,Operational
+656,706,03,SV,El Salvador,Telemovil El Salvador S.A.,Tigo,Operational
+657,706,04,SV,El Salvador,Telefónica Móviles El Salvador,Movistar,Operational
+658,706,05,SV,El Salvador,"INTELFON, S.A. de C.V.",RED,Operational
+659,627,01,GQ,Equatorial Guinea,GETESA,Orange GQ,Operational
+660,627,03,GQ,Equatorial Guinea,Green Com S.A.,Muni,Operational
+661,657,01,ER,Eritrea,Eritrea Telecommunications Services Corporation,Eritel,Operational
+662,248,01,EE,Estonia,Telia Eesti,Telia,Operational
+663,248,02,EE,Estonia,Elisa Eesti,Elisa,Operational
+664,248,03,EE,Estonia,Tele2 Eesti,Tele2,Operational
+665,248,04,EE,Estonia,OY Top Connect,Top Connect,Operational
+666,248,05,EE,Estonia,CSC Telecom Estonia OÜ,CSC Telecom,Operational
+667,248,06,EE,Estonia,Progroup Holding,,Not operational
+668,248,07,EE,Estonia,Televõrgu AS,Kou,Not operational
+669,248,08,EE,Estonia,VIVEX OU,VIVEX,Not operational
+670,248,09,EE,Estonia,Bravo Telecom,,Not operational
+671,248,10,EE,Estonia,Telcotrade OÜ,,Not operational
+672,248,11,EE,Estonia,UAB Raystorm,,Unknown
+673,248,12,EE,Estonia,Ntel Solutions OÜ,,Unknown
+674,248,13,EE,Estonia,Telia Eesti AS,,Unknown
+675,248,14,EE,Estonia,Estonian Crafts OÜ,,Unknown
+676,248,15,EE,Estonia,Premium Net International S.R.L. Eesti filiaal,,Not operational
+677,248,16,EE,Estonia,SmartTel Plus OÜ,dzinga,Operational
+678,248,17,EE,Estonia,Baltergo OÜ,,Unknown
+679,248,18,EE,Estonia,Cloud Communications OÜ,,Unknown
+680,248,19,EE,Estonia,OkTelecom OÜ,,Unknown
+681,248,20,EE,Estonia,DOTT Telecom OÜ,,Operational
+682,248,21,EE,Estonia,Tismi B.V.,,Unknown
+683,248,22,EE,Estonia,M2MConnect OÜ,,Unknown
+684,248,24,EE,Estonia,Novametro OÜ,,Unknown
+685,248,25,EE,Estonia,Eurofed OÜ,,Unknown
+686,248,26,EE,Estonia,IT-Decision Telecom OÜ,,Operational
+687,248,71,EE,Estonia,Siseministeerium (Ministry of Interior),,Unknown
+688,636,01,ET,Ethiopia,Ethio Telecom,MTN,Operational
+689,750,001,FK,Falkland Islands,Sure South Atlantic Ltd.,Sure,Operational
+690,288,01,FO,Faroe Islands,Føroya Tele,Føroya Tele,Operational
+691,288,02,FO,Faroe Islands,Nema,Hey,Operational
+692,288,03,FO,Faroe Islands,Tosa Sp/F,TOSA,Operational
+693,542,01,FJ,Fiji,Vodafone Fiji,Vodafone,Operational
+694,542,02,FJ,Fiji,Digicel Fiji,Digicel,Operational
+695,542,03,FJ,Fiji,Telecom Fiji Ltd,TFL,Operational
+696,244,03,FI,Finland,DNA Oy,DNA,Operational
+697,244,04,FI,Finland,DNA Oy,DNA,Unknown
+698,244,05,FI,Finland,Elisa Oyj,Elisa,Operational
+699,244,06,FI,Finland,Elisa Oyj,Elisa,Not operational
+700,244,07,FI,Finland,Nokia Solutions and Networks Oy,Nokia,Operational
+701,244,08,FI,Finland,Nokia Solutions and Networks Oy,Nokia,Unknown
+702,244,09,FI,Finland,Nokia Solutions and Networks Oy,,Unknown
+703,244,10,FI,Finland,Traficom,,Unknown
+704,244,11,FI,Finland,Traficom,,Unknown
+705,244,12,FI,Finland,DNA Oy,DNA,Operational
+706,244,13,FI,Finland,DNA Oy,DNA,Not operational
+707,244,14,FI,Finland,Ålands Telekommunikation Ab,Ålcom,Operational
+708,244,15,FI,Finland,Telit Wireless Solutions GmbH,,Unknown
+709,244,16,FI,Finland,Digita Oy,,Unknown
+710,244,17,FI,Finland,Liikennevirasto,,Operational
+711,244,19,FI,Finland,Nettia Oy,,Operational
+712,244,20,FI,Finland,Elisa Oyj,,Unknown
+713,244,21,FI,Finland,Elisa Oyj,Elisa-,Operational
+714,244,22,FI,Finland,EXFO,,Not operational
+715,244,23,FI,Finland,EXFO,,Not operational
+716,244,24,FI,Finland,Nord Connect UAB,,Unknown
+717,244,25,FI,Finland,Fortum Power and Heat Oy,,Unknown
+718,244,26,FI,Finland,Compatel Ltd,Compatel,Operational
+719,244,27,FI,Finland,Teknologian tutkimuskeskus VTT Oy,,Not operational
+720,244,28,FI,Finland,Teknologian tutkimuskeskus VTT Oy,,Not operational
+721,244,29,FI,Finland,Teknologian tutkimuskeskus VTT Oy,,Not operational
+722,244,30,FI,Finland,Teknologian tutkimuskeskus VTT Oy,,Not operational
+723,244,31,FI,Finland,Teknologian tutkimuskeskus VTT Oy,,Not operational
+724,244,32,FI,Finland,Voxbone SA,Voxbone,Operational
+725,244,33,FI,Finland,Suomen Turvallisuusverkko Oy,VIRVE,Operational
+726,244,34,FI,Finland,Bittium Wireless Oy,Bittium Wireless,Operational
+727,244,35,FI,Finland,Edzcom,,Operational
+728,244,36,FI,Finland,Telia Finland Oyj / Suomen Yhteisverkko Oy,Telia,Operational
+729,244,37,FI,Finland,Tismi BV,Tismi,Operational
+730,244,38,FI,Finland,Nokia Solutions and Networks Oy,,Unknown
+731,244,39,FI,Finland,Nokia Solutions and Networks Oy,,Not operational
+732,244,40,FI,Finland,Nokia Solutions and Networks Oy,,Unknown
+733,244,41,FI,Finland,Nokia Solutions and Networks Oy,,Not operational
+734,244,42,FI,Finland,SMS Provider Corp.,,Unknown
+735,244,43,FI,Finland,Telavox AB / Telavox Oy,,Unknown
+736,244,44,FI,Finland,Turun ammattikorkeakoulu Oy,,Not operational
+737,244,45,FI,Finland,Suomen Turvallisuusverkko Oy,,Unknown
+738,244,46,FI,Finland,Suomen Turvallisuusverkko Oy,,Unknown
+739,244,47,FI,Finland,Suomen Turvallisuusverkko Oy,,Unknown
+740,244,50,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+741,244,51,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+742,244,52,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+743,244,53,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+744,244,54,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+745,244,55,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+746,244,56,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+747,244,57,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+748,244,58,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+749,244,59,FI,Finland,Aalto-korkeakoulusäätiö sr,,Not operational
+750,244,91,FI,Finland,Telia Finland Oyj,Telia,Operational
+751,244,92,FI,Finland,TeliaSonera Finland Oyj,Sonera,Not operational
+752,244,95,FI,Finland,Säteilyturvakeskus,,Unknown
+753,244,99,FI,Finland,Oy L M Ericsson Ab,,Not operational
+754,208,01,FR,France,Orange S.A.,Orange,Operational
+755,208,02,FR,France,Orange S.A.,Orange,Operational
+756,208,03,FR,France,MobiquiThings,MobiquiThings,Operational
+757,208,04,FR,France,Societe d'ingenierie systeme telecom et reseaux,Sisteer,Operational
+758,208,05,FR,France,Globalstar,,Operational
+759,208,06,FR,France,Globalstar,,Operational
+760,208,07,FR,France,Globalstar,,Operational
+761,208,08,FR,France,Altice,SFR,Operational
+762,208,09,FR,France,Altice,SFR,Operational
+763,208,10,FR,France,Altice,SFR,Operational
+764,208,11,FR,France,Altice,SFR,Operational
+765,208,12,FR,France,Truphone France,Truphone,Operational
+766,208,13,FR,France,Altice,SFR,Operational
+767,208,14,FR,France,SNCF Réseau,SNCF Réseau,Operational
+768,208,15,FR,France,Free Mobile,Free,Operational
+769,208,16,FR,France,Free Mobile,Free,Operational
+770,208,17,FR,France,Local Exchange Global Operation Services,LEGOS,Unknown
+771,208,18,FR,France,Voxbone mobile,Voxbone,Not operational
+772,208,19,FR,France,Haute-Garonne,,Operational
+773,208,20,FR,France,Bouygues Telecom,Bouygues,Operational
+774,208,21,FR,France,Bouygues Telecom,Bouygues,Unknown
+775,208,22,FR,France,Transatel,Transatel Mobile,Unknown
+776,208,23,FR,France,Charente,,Operational
+777,208,24,FR,France,Sierra Wireless,Sierra Wireless,Operational
+778,208,25,FR,France,LycaMobile,LycaMobile,Operational
+779,208,26,FR,France,Bouygues Telecom,NRJ Mobile,Operational
+780,208,27,FR,France,Coriolis Telecom,,Operational
+781,208,28,FR,France,Airmob Infra Full,AIF,Operational
+782,208,29,FR,France,Cubic télécom France,,Operational
+783,208,30,FR,France,Syma Mobile,,Operational
+784,208,31,FR,France,Mundio Mobile,Vectone Mobile,Operational
+785,208,32,FR,France,Orange S.A.,Orange,Unknown
+786,208,33,FR,France,Pyrénées-Atlantiques,Fibre64,Unknown
+787,208,34,FR,France,Cellhire France,,Operational
+788,208,35,FR,France,Free Mobile,Free,Operational
+789,208,36,FR,France,Free Mobile,Free,Operational
+790,208,37,FR,France,IP Directions,,Unknown
+791,208,38,FR,France,Lebara,,Operational
+792,208,39,FR,France,Netwo,,Unknown
+793,208,500,FR,France,EDF,,Unknown
+794,208,501,FR,France,Butachimie,,Unknown
+795,208,502,FR,France,EDF,,Unknown
+796,208,700,FR,France,Weaccess group,,Unknown
+797,208,701,FR,France,GIP Vendée numérique,,Unknown
+798,208,702,FR,France,17-Numerique,,Unknown
+799,208,703,FR,France,Nivertel,,Unknown
+800,208,704,FR,France,Axione Limousin,,Unknown
+801,208,705,FR,France,Hautes-Pyrénées Numérique,,Unknown
+802,208,706,FR,France,Tours Métropole Numérique,,Unknown
+803,208,707,FR,France,Sartel THD,,Unknown
+804,208,708,FR,France,Melis@ territoires ruraux,,Unknown
+805,208,709,FR,France,Quimper communauté télécom,,Unknown
+806,208,710,FR,France,Losange,,Unknown
+807,208,711,FR,France,Nomotech,,Unknown
+808,208,712,FR,France,Syndicat Audois d'énergies et du Numérique,,Unknown
+809,208,713,FR,France,SD NUM SAS,,Unknown
+810,208,714,FR,France,Département de l'Isère,,Unknown
+811,208,86,FR,France,SEM@FOR77,,Unknown
+812,208,87,FR,France,Airbus defence and space SAS,,Unknown
+813,208,88,FR,France,Bouygues Telecom,Bouygues,Operational
+814,208,89,FR,France,Hub One,,Unknown
+815,208,90,FR,France,Images & Réseaux,,Not operational
+816,208,91,FR,France,Orange S.A.,,Unknown
+817,208,92,FR,France,Association Plate-forme Télécom,Com4Innov,Not operational
+818,208,93,FR,France,Thales,,Not operational
+819,208,94,FR,France,Halys,,Unknown
+820,208,95,FR,France,Orange S.A.,,Not operational
+821,208,96,FR,France,Bourgogne-Franche-Comté,,Operational
+822,208,97,FR,France,Thales,,Not operational
+823,208,98,FR,France,Air France,,Not operational
+824,547,05,PF,French Polynesia,VITI,Ora,Operational
+825,547,10,PF,French Polynesia,Mara Telecom,,Not operational
+826,547,15,PF,French Polynesia,Pacific Mobile Telecom,Vodafone,Operational
+827,547,20,PF,French Polynesia,Onati S.A.S.,Vini,Operational
+828,628,01,GA,Gabon,Gabon Telecom,Libertis,Operational
+829,628,02,GA,Gabon,Gabon Telecom,Moov,Operational
+830,628,03,GA,Gabon,Airtel Gabon S.A.,Airtel,Operational
+831,628,04,GA,Gabon,USAN Gabon S.A.,Azur,Not operational
+832,628,05,GA,Gabon,Réseau de l’Administration Gabonaise,RAG,Unknown
+833,607,01,GM,Gambia,Gamcel,Gamcel,Operational
+834,607,02,GM,Gambia,Africell,Africell,Operational
+835,607,03,GM,Gambia,Comium,Comium,Operational
+836,607,04,GM,Gambia,QCell Gambia,QCell,Operational
+837,607,05,GM,Gambia,Gamtel,,Unknown
+838,607,06,GM,Gambia,NETPAGE,,Operational
+839,282,01,GE,Georgia,Silknet,Geocell,Operational
+840,282,02,GE,Georgia,MagtiCom,Magti,Operational
+841,282,03,GE,Georgia,MagtiCom,MagtiFix,Operational
+842,282,04,GE,Georgia,Mobitel,Beeline,Operational
+843,282,05,GE,Georgia,Silknet,S1,Operational
+844,282,06,GE,Georgia,JSC Compatel,,Unknown
+845,282,07,GE,Georgia,GlobalCell,GlobalCell,Operational
+846,282,08,GE,Georgia,Silknet,Silk LTE,Operational
+847,282,09,GE,Georgia,Gmobile,,Operational
+848,282,10,GE,Georgia,Premium Net International SRL,,Unknown
+849,282,11,GE,Georgia,Mobilive,,Unknown
+850,282,12,GE,Georgia,Telecom1 Ltd,,Unknown
+851,282,13,GE,Georgia,Asanet Ltd,,Unknown
+852,282,14,GE,Georgia,DataHouse Global,DataCell,Unknown
+853,282,22,GE,Georgia,Myphone Ltd,Myphone,Unknown
+854,262,01,DE,Germany,Telekom,Telekom,Operational
+855,262,02,DE,Germany,Vodafone,Vodafone,Operational
+856,262,03,DE,Germany,Telefónica Germany,O2,Operational
+857,262,04,DE,Germany,Vodafone D2 GmbH,Vodafone,Reserved
+858,262,05,DE,Germany,Telefónica Germany,O2,Reserved
+859,262,06,DE,Germany,Telekom Deutschland GmbH,Telekom,Reserved
+860,262,07,DE,Germany,Telefónica Germany,O2,Not operational
+861,262,08,DE,Germany,Telefónica Germany GmbH & Co. oHG,O2,Reserved
+862,262,09,DE,Germany,Vodafone D2 GmbH,Vodafone,Operational
+863,262,10,DE,Germany,DB,,Operational
+864,262,11,DE,Germany,Telefónica Germany GmbH & Co. oHG,O2,Reserved
+865,262,12,DE,Germany,sipgate,Simquadrat,Operational
+866,262,13,DE,Germany,"Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",BAAINBw,Unknown
+867,262,14,DE,Germany,Lebara,,Operational
+868,262,15,DE,Germany,,Airdata,Operational
+869,262,16,DE,Germany,Telogic Germany GmbH,,Not operational
+870,262,17,DE,Germany,Telefónica Germany,O2,Unknown
+871,262,18,DE,Germany,NetCologne,,Operational
+872,262,19,DE,Germany,nl,450connect,Operational
+873,262,20,DE,Germany,Voiceworks GmbH,Voiceworks,Operational
+874,262,21,DE,Germany,Multiconnect GmbH,,Unknown
+875,262,22,DE,Germany,sipgate,,Unknown
+876,262,23,DE,Germany,Drillisch,,Operational
+877,262,24,DE,Germany,TelcoVillage GmbH,,Unknown
+878,262,33,DE,Germany,sipgate GmbH,simquadrat,Not operational
+879,262,41,DE,Germany,First Telecom GmbH,,Not operational
+880,262,42,DE,Germany,Chaos Computer Club,CCC Event,Temporary operational
+881,262,43,DE,Germany,Lycamobile,Lycamobile,Operational
+882,262,60,DE,Germany,DB Telematik,,Operational
+883,262,70,DE,Germany,BDBOS,,Operational
+884,262,71,DE,Germany,GSMK,,Unknown
+885,262,72,DE,Germany,Ericsson,,Unknown
+886,262,73,DE,Germany,Nokia,,Unknown
+887,262,74,DE,Germany,Ericsson,,Unknown
+888,262,75,DE,Germany,Core Network Dynamics GmbH,,Not operational
+889,262,76,DE,Germany,BDBOS,,Unknown
+890,262,77,DE,Germany,Telefónica Germany,O2,Unknown
+891,262,78,DE,Germany,Telekom Deutschland GmbH,Telekom,Unknown
+892,262,79,DE,Germany,ng4T GmbH,,Not operational
+893,262,92,DE,Germany,Nash Technologies,,Not operational
+894,262,98,DE,Germany,private networks,,operational
+895,620,01,GH,Ghana,MTN Group,MTN,Operational
+896,620,02,GH,Ghana,Vodafone,Vodafone,Operational
+897,620,03,GH,Ghana,Millicom,AirtelTigo,Operational
+898,620,04,GH,Ghana,Kasapa / Hutchison Telecom,Expresso,Operational
+899,620,05,GH,Ghana,National Security,,Unknown
+900,620,06,GH,Ghana,Airtel,AirtelTigo,Operational
+901,620,07,GH,Ghana,Globacom,Globacom,Operational
+902,620,08,GH,Ghana,Surfline Communications,Surfline,Not operational
+903,620,09,GH,Ghana,National Information Technology Agency,NITA,Unknown
+904,620,10,GH,Ghana,Blu Telecommunications,Blu,Operational
+905,620,11,GH,Ghana,Netafrique Dot Com Ltd,,Unknown
+906,620,12,GH,Ghana,BTL,,Unknown
+907,620,13,GH,Ghana,Goldkey,,Unknown
+908,620,14,GH,Ghana,BusyInternet,busy,Operational
+909,620,15,GH,Ghana,Lebara,,Operational
+910,620,16,GH,Ghana,Telesol,,Operational
+911,620,17,GH,Ghana,iBurst Africa,,Unknown
+912,266,01,GI,Gibraltar,Gibtelecom,GibTel,Operational
+913,266,03,GI,Gibraltar,GibFibre Ltd,Gibfibrespeed,Unknown
+914,266,06,GI,Gibraltar,CTS Gibraltar,CTS Mobile,Not operational
+915,266,09,GI,Gibraltar,Eazitelecom,Shine,Not operational
+916,202,01,GR,Greece,COSMOTE - Mobile Telecommunications S.A.,Cosmote,Operational
+917,202,02,GR,Greece,COSMOTE - Mobile Telecommunications S.A.,Cosmote,Operational
+918,202,03,GR,Greece,OTE,,Unknown
+919,202,04,GR,Greece,OSE,,Unknown
+920,202,05,GR,Greece,Vodafone Greece,Vodafone,Operational
+921,202,06,GR,Greece,Cosmoline,,Not operational
+922,202,07,GR,Greece,AMD Telecom,,Unknown
+923,202,09,GR,Greece,Wind Hellas Telecommunications S.A.,Wind,Operational
+924,202,10,GR,Greece,Wind Hellas Telecommunications S.A.,Wind,Operational
+925,202,11,GR,Greece,interConnect,,Unknown
+926,202,12,GR,Greece,Yuboto,,Operational
+927,202,13,GR,Greece,Compatel Limited,,Unknown
+928,202,14,GR,Greece,CYTA,Cyta Hellas,Operational
+929,202,15,GR,Greece,BWS,,Unknown
+930,202,16,GR,Greece,Inter Telecom,,Operational
+931,290,01,GL,Greenland,TELE Greenland A/S,,Operational
+932,290,02,GL,Greenland,inu:it a/s,Nanoq Media,Operational
+933,352,030,GD,Grenada,Digicel Grenada Ltd.,Digicel,Operational
+934,352,110,GD,Grenada,Cable & Wireless Grenada Ltd.,FLOW,Operational
+935,310,032,GU,Guam,"IT&E Overseas, Inc",IT&E Wireless,Operational
+936,310,033,GU,Guam,Guam Telephone Authority,,Unknown
+937,310,140,GU,Guam,"Teleguam Holdings, LLC",GTA Wireless,Operational
+938,310,370,GU,Guam,DoCoMo Pacific,Docomo,Operational
+939,310,400,GU,Guam,"IT&E Overseas, Inc",IT&E Wireless,Operational
+940,310,470,GU,Guam,DoCoMo Pacific,Docomo,Unknown
+941,310,480,GU,Guam,"IT&E Overseas, Inc",IT&E Wireless,Operational
+942,310,120,GU,Guam,"IT&E Overseas, Inc",IT&E Wireless,Operational
+943,310,250,GU,Guam,"IT&E Overseas, Inc",IT&E Wireless,Operational
+944,234,03,GG,Guernsey,Guernsey Airtel Ltd,Airtel-Vodafone,Operational
+945,234,50,GG,Guernsey,JT Group Limited,JT,Operational
+946,234,55,GG,Guernsey,Sure (Guernsey) Limited,Sure Mobile,Operational
+947,611,01,GN,Guinea,Orange S.A.,Orange,Operational
+948,611,02,GN,Guinea,Sotelgui Lagui,Sotelgui,Operational
+949,611,03,GN,Guinea,INTERCEL Guinée,Telecel Guinee,Operational
+950,611,04,GN,Guinea,Areeba Guinea,MTN,Operational
+951,611,05,GN,Guinea,Cellcom,Cellcom,Operational
+952,632,01,GW,Guinea-Bissau,Guinétel S.A.,Guinetel,Operational
+953,632,02,GW,Guinea-Bissau,Spacetel Guiné-Bissau S.A.,MTN Areeba,Operational
+954,632,03,GW,Guinea-Bissau,,Orange,Operational
+955,632,07,GW,Guinea-Bissau,Guinétel S.A.,Guinetel,Operational
+956,738,00,GY,Guyana,E-Networks Inc.,E-Networks,Operational
+957,738,01,GY,Guyana,U-Mobile (Cellular) Inc.,Digicel,Operational
+958,738,002,GY,Guyana,Guyana Telephone & Telegraph Co.,GT&T Cellink Plus,Operational
+959,738,003,GY,Guyana,Quark Communications Inc.,,Operational
+960,738,05,GY,Guyana,"eGovernment Unit, Ministry of the Presidency",,Unknown
+961,372,01,HT,Haiti,Communication Cellulaire d'Haiti S.A.,Voila,Not operational
+962,372,02,HT,Haiti,Unigestion Holding S.A.,Digicel,Operational
+963,372,03,HT,Haiti,NATCOM S.A.,Natcom,Operational
+964,708,001,HN,Honduras,Servicios de Comunicaciones de Honduras S.A. de C.V.,Claro,Operational
+965,708,002,HN,Honduras,Celtel,Tigo,Operational
+966,708,030,HN,Honduras,Empresa Hondureña de Telecomunicaciones,Hondutel,Operational
+967,708,040,HN,Honduras,Digicel de Honduras,Digicel,Not operational
+968,454,00,HK,Hong Kong,CSL Limited,1O1O / One2Free / New World Mobility / SUNMobile,Operational
+969,454,01,HK,Hong Kong,CITIC Telecom 1616,,Operational
+970,454,02,HK,Hong Kong,CSL Limited,,Operational
+971,454,03,HK,Hong Kong,Hutchison Telecom,3,Operational
+972,454,04,HK,Hong Kong,Hutchison Telecom,3,Operational
+973,454,05,HK,Hong Kong,Hutchison Telecom,3,Not operational
+974,454,06,HK,Hong Kong,SmarTone Mobile Communications Limited,SmarTone,Operational
+975,454,07,HK,Hong Kong,China Unicom (Hong Kong) Limited,China Unicom,Operational
+976,454,08,HK,Hong Kong,Truphone Limited,Truphone,Operational
+977,454,09,HK,Hong Kong,China Motion Telecom,,Not operational
+978,454,10,HK,Hong Kong,CSL Limited,New World Mobility,Not operational
+979,454,11,HK,Hong Kong,China-Hong Kong Telecom,,Operational
+980,454,12,HK,Hong Kong,China Mobile Hong Kong Company Limited,CMCC HK,Operational
+981,454,13,HK,Hong Kong,China Mobile Hong Kong Company Limited,CMCC HK,Operational
+982,454,14,HK,Hong Kong,Hutchison Telecom,,Operational
+983,454,15,HK,Hong Kong,SmarTone Mobile Communications Limited,,Operational
+984,454,16,HK,Hong Kong,PCCW,PCCW Mobile,Operational
+985,454,17,HK,Hong Kong,SmarTone Mobile Communications Limited,,Operational
+986,454,18,HK,Hong Kong,CSL Limited,,Not operational
+987,454,19,HK,Hong Kong,PCCW-HKT,PCCW Mobile,Operational
+988,454,20,HK,Hong Kong,PCCW-HKT,PCCW Mobile,Operational
+989,454,21,HK,Hong Kong,21Vianet Mobile Ltd.,,Not operational
+990,454,22,HK,Hong Kong,263 Mobile Communications (HongKong) Limited,,Operational
+991,454,23,HK,Hong Kong,Lycamobile,Lycamobile,Not operational
+992,454,24,HK,Hong Kong,Multibyte Info Technology Ltd,,Operational
+993,454,25,HK,Hong Kong,Hong Kong Government,,Unknown
+994,454,26,HK,Hong Kong,Hong Kong Government,,Unknown
+995,454,29,HK,Hong Kong,PCCW-HKT,PCCW Mobile,Operational
+996,454,30,HK,Hong Kong,China Mobile Hong Kong Company Limited,CMCC HK,Unknown
+997,454,31,HK,Hong Kong,China Telecom Global Limited,CTExcel,Operational
+998,454,32,HK,Hong Kong,Hong Kong Broadband Network Ltd,,Operational
+999,454,35,HK,Hong Kong,Webbing Hong Kong Ltd,,Operational
+1000,454,36,HK,Hong Kong,Easco Telecommunications Limited,,Unknown
+1001,216,01,HU,Hungary,Telenor Magyarország Zrt.,Yettel Hungary,Operational
+1002,216,02,HU,Hungary,MVM Net Ltd.,,Operational
+1003,216,03,HU,Hungary,DIGI Telecommunication Ltd.,DIGI,Operational
+1004,216,04,HU,Hungary,Invitech ICT Services Ltd.,,Not operational
+1005,216,30,HU,Hungary,Magyar Telekom,Telekom,Operational
+1006,216,70,HU,Hungary,Vodafone Magyarország Zrt.,Vodafone,Operational
+1007,216,71,HU,Hungary,Vodafone Magyarország Zrt.,upc,Operational
+1008,216,99,HU,Hungary,Magyar Államvasutak,MAV GSM-R,Operational
+1009,274,01,IS,Iceland,Iceland Telecom,Síminn,Operational
+1010,274,02,IS,Iceland,Sýn,Vodafone,Operational
+1011,274,03,IS,Iceland,Sýn,Vodafone,Operational
+1012,274,04,IS,Iceland,IMC Island ehf,Viking,Operational
+1013,274,05,IS,Iceland,Halló Frjáls fjarskipti hf.,,Not operational
+1014,274,06,IS,Iceland,Núll níu ehf,,Not operational
+1015,274,07,IS,Iceland,IceCell ehf,IceCell,Not operational
+1016,274,08,IS,Iceland,Iceland Telecom,On-waves,Operational
+1017,274,11,IS,Iceland,Nova ehf,Nova,Operational
+1018,274,12,IS,Iceland,IP fjarskipti,Tal,Operational
+1019,274,16,IS,Iceland,Tismi BV,,Unknown
+1020,274,22,IS,Iceland,Icelandic Coast Guard,,Unknown
+1021,274,31,IS,Iceland,Iceland Telecom,Síminn,Unknown
+1022,274,91,IS,Iceland,Neyðarlínan,,Operational
+1023,404,01,IN,India,Haryana,Vi India,Operational
+1024,404,02,IN,India,Punjab,AirTel,Operational
+1025,404,03,IN,India,Himachal Pradesh,AirTel,Operational
+1026,404,04,IN,India,Delhi & NCR,Vi India,Not Operational
+1027,404,05,IN,India,Gujarat,Vi India,Operational
+1028,404,07,IN,India,Andhra Pradesh and Telangana,Vi India,Operational
+1029,404,09,IN,India,Assam,Reliance,Operational
+1030,404,10,IN,India,Delhi & NCR,AirTel,Operational
+1031,404,11,IN,India,Delhi & NCR,Vi India,Operational
+1032,404,12,IN,India,Haryana,Vi India,Not Operational
+1033,404,13,IN,India,Andhra Pradesh and Telangana,Vi India,Not Operational
+1034,404,14,IN,India,Punjab,Vi India,Operational
+1035,404,15,IN,India,Uttar Pradesh (East),Vi India,Operational
+1036,404,16,IN,India,North East,Airtel,Operational
+1037,404,17,IN,India,West Bengal,AIRCEL,Not operational
+1038,404,18,IN,India,Himachal Pradesh,Reliance,Operational
+1039,404,19,IN,India,Kerala,Vi India,Not Operational
+1040,404,20,IN,India,Mumbai,Vi India,Operational
+1041,404,21,IN,India,Mumbai,Loop Mobile,Not operational
+1042,404,22,IN,India,Maharashtra & Goa,Vi India,Operational
+1043,404,23,IN,India,West Bengal,Reliance,Not Operational
+1044,404,24,IN,India,Gujarat,Vi India,Not Operational
+1045,404,25,IN,India,Bihar,AIRCEL,Not operational
+1046,404,27,IN,India,Maharashtra & Goa,Vi India,Not Operational
+1047,404,28,IN,India,Odisha,AIRCEL,Not operational
+1048,404,29,IN,India,Assam,AIRCEL,Not operational
+1049,404,30,IN,India,Kolkata,Vi India,Operational
+1050,404,31,IN,India,Kolkata,AirTel,Operational
+1051,404,34,IN,India,Haryana,BSNL Mobile,Operational
+1052,404,35,IN,India,Himachal Pradesh,Aircel,Not operational
+1053,404,36,IN,India,Bihar & Jharkhand,Reliance,Operational
+1054,404,37,IN,India,Jammu & Kashmir,Aircel,Not operational
+1055,404,38,IN,India,Assam,BSNL Mobile,Operational
+1056,404,40,IN,India,Chennai,AirTel,Operational
+1057,404,41,IN,India,Chennai,Aircel,Not operational
+1058,404,42,IN,India,Tamil Nadu,Aircel,Not operational
+1059,404,43,IN,India,Tamil Nadu,Vi India,Operational
+1060,404,44,IN,India,Karnataka,Vi India,Not Operational
+1061,404,45,IN,India,Karnataka,Airtel,Operational
+1062,404,46,IN,India,Kerala,Vi India,Operational
+1063,404,48,IN,India,Unknown,Dishnet Wireless,Not operational
+1064,404,49,IN,India,Andhra Pradesh and Telangana,Airtel,Operational
+1065,404,50,IN,India,North East,Reliance,Operational
+1066,404,51,IN,India,Himachal Pradesh,BSNL Mobile,Operational
+1067,404,52,IN,India,Odisha,Reliance,Operational
+1068,404,53,IN,India,Punjab,BSNL Mobile,Operational
+1069,404,54,IN,India,Uttar Pradesh (West),BSNL Mobile,Operational
+1070,404,55,IN,India,Uttar Pradesh (East),BSNL Mobile,Operational
+1071,404,56,IN,India,Uttar Pradesh (West),Vi India,Operational
+1072,404,57,IN,India,Gujarat,BSNL Mobile,Operational
+1073,404,58,IN,India,Madhya Pradesh & Chhattisgarh,BSNL Mobile,Operational
+1074,404,59,IN,India,Rajasthan,BSNL Mobile,Operational
+1075,404,60,IN,India,Rajasthan,Vi India,Operational
+1076,404,62,IN,India,Jammu & Kashmir,BSNL Mobile,Operational
+1077,404,64,IN,India,Chennai,BSNL Mobile,Operational
+1078,404,66,IN,India,Maharashtra & Goa,BSNL Mobile,Operational
+1079,404,67,IN,India,Madhya Pradesh & Chhattisgarh,Reliance,Operational
+1080,404,68,IN,India,Delhi & NCR,MTNL,Operational
+1081,404,69,IN,India,Mumbai,MTNL,Operational
+1082,404,70,IN,India,Rajasthan,AirTel,Operational
+1083,404,71,IN,India,Karnataka (Bangalore),BSNL Mobile,Operational
+1084,404,72,IN,India,Kerala,BSNL Mobile,Operational
+1085,404,73,IN,India,Andhra Pradesh and Telangana,BSNL Mobile,Operational
+1086,404,74,IN,India,West Bengal,BSNL Mobile,Operational
+1087,404,75,IN,India,Bihar,BSNL Mobile,Operational
+1088,404,76,IN,India,Odisha,BSNL Mobile,Operational
+1089,404,77,IN,India,North East,BSNL Mobile,Operational
+1090,404,78,IN,India,Madhya Pradesh & Chattishgarh,Vi India,Operational
+1091,404,79,IN,India,Andaman Nicobar,BSNL Mobile,Operational
+1092,404,80,IN,India,Tamil Nadu,BSNL Mobile,Operational
+1093,404,81,IN,India,Kolkata,BSNL Mobile,Operational
+1094,404,82,IN,India,Himachal Pradesh,Vi India,Operational
+1095,404,83,IN,India,Kolkata,Reliance,Operational
+1096,404,84,IN,India,Chennai,Vi India,Not Operational
+1097,404,85,IN,India,West Bengal,Reliance,Operational
+1098,404,86,IN,India,Karnataka,Vi India,Operational
+1099,404,87,IN,India,Rajasthan,Vi India,Not Operational
+1100,404,88,IN,India,Punjab,Vi India,Not Operational
+1101,404,89,IN,India,Uttar Pradesh (East),Vi India,Not Operational
+1102,404,90,IN,India,Maharashtra,AirTel,Operational
+1103,404,91,IN,India,Kolkata,AIRCEL,Not operational
+1104,404,92,IN,India,Mumbai,AirTel,Operational
+1105,404,93,IN,India,Madhya Pradesh,AirTel,Operational
+1106,404,94,IN,India,Tamil Nadu,AirTel,Operational
+1107,404,95,IN,India,Kerala,AirTel,Operational
+1108,404,96,IN,India,Haryana,AirTel,Operational
+1109,404,97,IN,India,Uttar Pradesh (West),AirTel,Operational
+1110,404,98,IN,India,Gujarat,AirTel,Operational
+1111,404,01,IN,India,Andhra Pradesh and Telangana,Reliance,Not operational
+1112,404,025,IN,India,Andhra Pradesh and Telangana,TATA DOCOMO,Not operational
+1113,404,026,IN,India,Assam,TATA DOCOMO,Not operational
+1114,404,027,IN,India,Bihar/Jharkhand,TATA DOCOMO,Not operational
+1115,404,028,IN,India,Chennai,TATA DOCOMO,Not operational
+1116,404,029,IN,India,Delhi,TATA DOCOMO,Not operational
+1117,404,03,IN,India,Bihar,Reliance,Operational
+1118,404,030,IN,India,Gujarat,TATA DOCOMO,Not operational
+1119,404,031,IN,India,Haryana,TATA DOCOMO,Not operational
+1120,404,032,IN,India,Himachal Pradesh,TATA DOCOMO,Not operational
+1121,404,033,IN,India,Jammu & Kashmir,TATA DOCOMO,Not operational
+1122,404,034,IN,India,Karnataka,TATA DOCOMO,Not operational
+1123,404,035,IN,India,Kerala,TATA DOCOMO,Not operational
+1124,404,036,IN,India,Kolkata,TATA DOCOMO,Not operational
+1125,404,037,IN,India,Maharashtra & Goa,TATA DOCOMO,Not operational
+1126,404,038,IN,India,Madhya Pradesh,TATA DOCOMO,Not operational
+1127,404,039,IN,India,Mumbai,TATA DOCOMO,Not operational
+1128,404,04,IN,India,Chennai,Reliance,Operational
+1129,404,041,IN,India,Odisha,TATA DOCOMO,Not operational
+1130,404,042,IN,India,Punjab,TATA DOCOMO,Not operational
+1131,404,043,IN,India,Rajasthan,TATA DOCOMO,Not operational
+1132,404,044,IN,India,Tamil Nadu including Chennai,TATA DOCOMO,Not operational
+1133,404,045,IN,India,Uttar Pradesh (East),TATA DOCOMO,Not operational
+1134,404,046,IN,India,Uttar Pradesh (West) & Uttarakhand,TATA DOCOMO,Not operational
+1135,404,047,IN,India,West Bengal,TATA DOCOMO,Not operational
+1136,404,05,IN,India,Delhi & NCR,Reliance,Operational
+1137,404,06,IN,India,Gujarat,Reliance,Operational
+1138,404,07,IN,India,Haryana,Reliance,Operational
+1139,404,08,IN,India,Himachal Pradesh,Reliance,Operational
+1140,404,09,IN,India,Jammu & Kashmir,Reliance,Operational
+1141,404,10,IN,India,Karnataka,Reliance,Operational
+1142,404,11,IN,India,Kerala,Reliance,Operational
+1143,404,12,IN,India,Kolkata,Reliance,Operational
+1144,404,13,IN,India,Maharashtra & Goa,Reliance,Operational
+1145,404,14,IN,India,Madhya Pradesh,Reliance,Operational
+1146,404,15,IN,India,Mumbai,Reliance,Operational
+1147,404,17,IN,India,Odisha,Reliance,Operational
+1148,404,18,IN,India,Punjab,Reliance,Operational
+1149,404,19,IN,India,Rajasthan,Reliance,Operational
+1150,404,20,IN,India,Tamil Nadu,Reliance,Operational
+1151,404,21,IN,India,Uttar Pradesh (East),Reliance,Operational
+1152,404,22,IN,India,Uttar Pradesh (West),Reliance,Operational
+1153,404,23,IN,India,West Bengal,Reliance,Operational
+1154,404,51,IN,India,West Bengal,AirTel,Operational
+1155,404,52,IN,India,Bihar & Jharkhand,AirTel,Operational
+1156,404,53,IN,India,Odisha,AirTel,Operational
+1157,404,54,IN,India,Uttar Pradesh (East),AirTel,Operational
+1158,404,55,IN,India,Jammu & Kashmir,Airtel,Operational
+1159,404,56,IN,India,Assam,AirTel,Operational
+1160,404,66,IN,India,Uttar Pradesh (West),Vi India,Not Operational
+1161,404,67,IN,India,West Bengal,Vi India,Operational
+1162,404,70,IN,India,Bihar & Jharkhand,Vi India,Operational
+1163,404,750,IN,India,Jammu & Kashmir,Vi India,Operational
+1164,404,751,IN,India,Assam,Vi India,Operational
+1165,404,752,IN,India,Bihar & Jharkhand,Vi India,Not Operational
+1166,404,753,IN,India,Odisha,Vi India,Operational
+1167,404,754,IN,India,Himachal Pradesh,Vi India,Not Operational
+1168,404,755,IN,India,North East,Vi India,Operational
+1169,404,756,IN,India,Madhya Pradesh & Chhattisgarh,Vi India,Not Operational
+1170,404,799,IN,India,Mumbai,Vi India,Not Operational
+1171,404,800,IN,India,Delhi & NCR,AIRCEL,Not operational
+1172,404,801,IN,India,Andhra Pradesh and Telangana,AIRCEL,Not operational
+1173,404,802,IN,India,Gujarat,AIRCEL,Not operational
+1174,404,803,IN,India,Karnataka,AIRCEL,Not operational
+1175,404,804,IN,India,Maharashtra & Goa,AIRCEL,Not operational
+1176,404,805,IN,India,Mumbai,AIRCEL,Not operational
+1177,404,806,IN,India,Rajasthan,AIRCEL,Not operational
+1178,404,807,IN,India,Haryana,AIRCEL,Not operational
+1179,404,808,IN,India,Madhya Pradesh,AIRCEL,Not operational
+1180,404,809,IN,India,Kerala,AIRCEL,Not operational
+1181,404,810,IN,India,Uttar Pradesh (East),AIRCEL,Not operational
+1182,404,811,IN,India,Uttar Pradesh (West),AIRCEL,Not operational
+1183,404,812,IN,India,Punjab,AIRCEL,Not operational
+1184,404,819,IN,India,Andhra Pradesh and Telangana,Uninor,Not operational
+1185,404,818,IN,India,Uttar Pradesh (West),Uninor,Not operational
+1186,404,820,IN,India,Karnataka,Uninor,Not operational
+1187,404,821,IN,India,Kerala,Uninor,Not operational
+1188,404,822,IN,India,Kolkata,Uninor,Not operational
+1189,404,824,IN,India,Assam,Videocon Telecom,Not operational
+1190,404,827,IN,India,Gujarat,Videocon Telecom,Not operational
+1191,404,834,IN,India,Madhya Pradesh,Videocon Telecom,Not operational
+1192,404,844,IN,India,Delhi & NCR,Uninor,Not operational
+1193,404,840,IN,India,West Bengal,Jio,Operational
+1194,404,845,IN,India,Assam,Vi India,Not Operational
+1195,404,846,IN,India,Jammu & Kashmir,Vi India,Not Operational
+1196,404,847,IN,India,Karnataka,Vi India,Not operational
+1197,404,848,IN,India,Kolkata,Vi India,Not Operational
+1198,404,849,IN,India,North East,Vi India,Not Operational
+1199,404,850,IN,India,Odisha,Vi India,Not Operational
+1200,404,851,IN,India,Punjab,Vi India,Not Operational
+1201,404,852,IN,India,Tamil Nadu,Vi India,Not Operational
+1202,404,853,IN,India,West Bengal,Vi India,Not Operational
+1203,404,854,IN,India,Andhra Pradesh,Jio,Operational
+1204,404,855,IN,India,Assam,Jio,Operational
+1205,404,856,IN,India,Bihar,Jio,Operational
+1206,404,857,IN,India,Gujarat,Jio,Operational
+1207,404,858,IN,India,Haryana,Jio,Operational
+1208,404,859,IN,India,Himachal Pradesh,Jio,Operational
+1209,404,860,IN,India,Jammu & Kashmir,Jio,Operational
+1210,404,861,IN,India,Karnataka,Jio,Operational
+1211,404,862,IN,India,Kerala,Jio,Operational
+1212,404,863,IN,India,Madhya Pradesh,Jio,Operational
+1213,404,864,IN,India,Maharashtra,Jio,Operational
+1214,404,865,IN,India,North East,Jio,Operational
+1215,404,866,IN,India,Odisha,Jio,Operational
+1216,404,867,IN,India,Punjab,Jio,Operational
+1217,404,868,IN,India,Rajasthan,Jio,Operational
+1218,404,869,IN,India,Tamil Nadu (incl. Chennai),Jio,Operational
+1219,404,870,IN,India,Uttar Pradesh (West),Jio,Operational
+1220,404,871,IN,India,Uttar Pradesh (East),Jio,Operational
+1221,404,872,IN,India,Delhi,Jio,Operational
+1222,404,873,IN,India,Kolkata,Jio,Operational
+1223,404,874,IN,India,Mumbai,Jio,Operational
+1224,404,875,IN,India,Assam,Uninor,Not operational
+1225,404,880,IN,India,West Bengal,Uninor,Not operational
+1226,404,881,IN,India,Assam,S Tel,Not operational
+1227,404,908,IN,India,Andhra Pradesh and Telangana,Vi India,Operational
+1228,404,909,IN,India,Delhi,Vi India,Not Operational
+1229,404,910,IN,India,Haryana,Vi India,Not Operational
+1230,404,911,IN,India,Maharashtra,Vi India,Not Operational
+1231,404,912,IN,India,Andhra Pradesh and Telangana,Etisalat DB,Not operational
+1232,404,913,IN,India,Delhi & NCR,Etisalat DB,Not operational
+1233,404,914,IN,India,Gujarat,Etisalat DB,Not operational
+1234,404,917,IN,India,Kerala,Etisalat DB,Not operational
+1235,404,927,IN,India,Gujarat,Uninor,Not operational
+1236,404,929,IN,India,Maharashtra,Uninor,Not operational
+1237,406,,IN,India,,,
+1238,510,00,ID,Indonesia,PT Pasifik Satelit Nusantara,PSN,Operational
+1239,510,01,ID,Indonesia,PT Indosat Tbk,Indosat Ooredoo Hutchison,Operational
+1240,510,03,ID,Indonesia,PT Indosat Tbk,StarOne,Not operational
+1241,510,07,ID,Indonesia,PT Telkom Indonesia Tbk,TelkomFlexi,Not operational
+1242,510,08,ID,Indonesia,PT Natrindo Telepon Seluler,AXIS,Not operational
+1243,510,09,ID,Indonesia,PT Smartfren Telecom,Smartfren,Operational
+1244,510,10,ID,Indonesia,PT Telekomunikasi Selular,Telkomsel,Operational
+1245,510,11,ID,Indonesia,PT XL Axiata Tbk,XL,Operational
+1246,510,20,ID,Indonesia,PT Telkom Indonesia Tbk,TELKOMMobile,Not operational
+1247,510,21,ID,Indonesia,PT Indosat Tbk,IM3,Not operational
+1248,510,27,ID,Indonesia,PT Net Satu Indonesia,Net 1,Not operational
+1249,510,28,ID,Indonesia,PT Mobile-8 Telecom,Fren/Hepi,Operational
+1250,510,78,ID,Indonesia,PT Berca Hardayaperkasa,Hinet,Operational
+1251,510,88,ID,Indonesia,PT Internux,BOLT! 4G LTE,Not operational
+1252,510,89,ID,Indonesia,PT Hutchison 3 Indonesia,3,Operational
+1253,510,99,ID,Indonesia,PT Bakrie Telecom,Esia,Not Operational
+1254,432,01,IR,Iran,Ertebatat Iran,Uname,Operational
+1255,432,02,IR,Iran,NeginTel,"ApTel, AzarTel",Operational
+1256,432,06,IR,Iran,Ertebatat-e Arian Tel Co.,Arian-Tel,Operational
+1257,432,08,IR,Iran,Shatel Group,Shatel Mobile,Operational
+1258,432,10,IR,Iran,Samantel Mobile,Samantel,Operational
+1259,432,11,IR,Iran,Mobile Communications Company of Iran (MCI),IR-TCI (Hamrah-e-Avval),Operational
+1260,432,12,IR,Iran,Dadeh Dostar asr Novin p.j.s. co & Information Technology Company of Iran,HiWEB,Operational
+1261,432,14,IR,Iran,Telecommunication Kish Company,TKC/KFZO,Operational
+1262,432,19,IR,Iran,Mobile Telecommunications Company of Esfahan,Espadan (JV-PJS),Operational
+1263,432,20,IR,Iran,Social Security Investment Co.,RighTel,Operational
+1264,432,21,IR,Iran,Social Security Investment Co.,RighTel,Operational
+1265,432,32,IR,Iran,TCI of Iran and Iran Mobin,Taliya,Operational
+1266,432,35,IR,Iran,MTN Irancell Telecommunications Services Company,MTN Irancell,Operational
+1267,432,40,IR,Iran,Ertebatat Mobinnet,Mobinnet,Operational
+1268,432,45,IR,Iran,Farabord Dadeh Haye Iranian Co.,Zi-Tel,Operational
+1269,432,50,IR,Iran,Shatel Group,Shatel Mobile,Operational
+1270,432,70,IR,Iran,Telephone Communications Company of Iran,MTCE,Operational
+1271,432,71,IR,Iran,Telephone Communications Company of Iran,KOOHE NOOR,Operational
+1272,432,90,IR,Iran,IRAPHONE GHESHM of Iran,Iraphone,Operational
+1273,432,93,IR,Iran,Iraphone,Iraphone,Operational
+1274,432,93,IR,Iran,Farzanegan Pars,Farzanegan Pars,Operational
+1275,432,99,IR,Iran,TCI of Iran and Rightel,TCI (GSM WLL),Operational
+1276,418,00,IQ,Iraq,Asia Cell Telecommunications Company,Asia Cell,Operational
+1277,418,05,IQ,Iraq,Asia Cell Telecommunications Company,Asia Cell,Operational
+1278,418,08,IQ,Iraq,,SanaTel,Operational
+1279,418,20,IQ,Iraq,Zain Iraq,Zain,Operational
+1280,418,30,IQ,Iraq,Zain Iraq,Zain,Operational
+1281,418,40,IQ,Iraq,Telecom Ltd,Korek,Operational
+1282,418,45,IQ,Iraq,Mobitel Co. Ltd.,Mobitel,Operational
+1283,418,62,IQ,Iraq,Itisaluna Wireless CO.,Itisaluna,Operational
+1284,418,92,IQ,Iraq,Omnnea Wireless,Omnnea,Operational
+1285,272,01,IE,Ireland,Vodafone Ireland,Vodafone,Operational
+1286,272,02,IE,Ireland,Hutchison 3G,3,Operational
+1287,272,03,IE,Ireland,Eir Group plc,Eir,Operational
+1288,272,04,IE,Ireland,Access Telecom,,Unknown
+1289,272,05,IE,Ireland,Hutchison 3G,3,Operational
+1290,272,07,IE,Ireland,Eir Group plc,Eir,Operational
+1291,272,08,IE,Ireland,Eir Group plc,Eir,Unknown
+1292,272,09,IE,Ireland,Clever Communications Ltd.,,Not operational
+1293,272,11,IE,Ireland,Liffey Telecom,Tesco Mobile,Operational
+1294,272,13,IE,Ireland,Lycamobile,Lycamobile,Operational
+1295,272,15,IE,Ireland,UPC,Virgin Mobile,Operational
+1296,272,16,IE,Ireland,Carphone Warehouse,Carphone Warehouse,Operational
+1297,272,17,IE,Ireland,Hutchison 3G,3,Unknown
+1298,272,18,IE,Ireland,Cubic Telecom Limited,,Operational
+1299,272,21,IE,Ireland,Net Feasa Limited,,Operational
+1300,272,68,IE,Ireland,Office of the Government Chief Information Officer,,Unknown
+1301,234,18,IM,Isle of Man,Cloud 9 Mobile Communications PLC,Cloud 9 Mobile,Not operational
+1302,234,36,IM,Isle of Man,Sure Isle of Man Ltd.,Sure Mobile,Operational
+1303,234,58,IM,Isle of Man,Manx Telecom,Pronto GSM,Operational
+1304,234,73,IM,Isle of Man,Bluewave Communications Ltd.,,Operational
+1305,425,01,IL,Israel,Partner Communications Company Ltd.,Partner,Operational
+1306,425,02,IL,Israel,Cellcom Israel Ltd.,Cellcom,Operational
+1307,425,03,IL,Israel,Pelephone Communications Ltd.,Pelephone,Operational
+1308,425,04,IL,Israel,Globalsim Ltd,,Unknown
+1309,425,05,IL,Israel,Palestine Cellular Communications Ltd.,Jawwal,Operational
+1310,425,06,IL,Israel,Ooredoo,Wataniya Mobile,Operational
+1311,425,07,IL,Israel,Hot Mobile Ltd.,Hot Mobile,Operational
+1312,425,08,IL,Israel,Golan Telecom Ltd.,Golan Telecom,Operational
+1313,425,09,IL,Israel,Marathon 018 Xphone Ltd.,We4G,Operational
+1314,425,10,IL,Israel,Partner Communications Company Ltd.,Partner,Operational
+1315,425,11,IL,Israel,365 Telecom,,Not operational
+1316,425,12,IL,Israel,Widely Mobile,x2one,Operational
+1317,425,13,IL,Israel,Ituran Cellular Communications,,Not operational
+1318,425,14,IL,Israel,Alon Cellular Ltd.,Youphone,Not operational
+1319,425,15,IL,Israel,Home Cellular Ltd.,Home Cellular,Not operational
+1320,425,16,IL,Israel,Rami Levy Communications,Rami Levy,Operational
+1321,425,17,IL,Israel,Gale Phone,Sipme,Not operational
+1322,425,18,IL,Israel,Cellact Communications Ltd.,Cellact Communications,Operational
+1323,425,19,IL,Israel,019 Communication Services Ltd. / TELZAR,019 Mobile,Operational
+1324,425,20,IL,Israel,Bezeq The Israeli Telecommunication Corp Ltd.,Bezeq,Unknown
+1325,425,21,IL,Israel,B.I.P. Communications Ltd.,Bezeq International,Unknown
+1326,425,22,IL,Israel,Maskyoo Telephonia Ltd.,,Unknown
+1327,425,23,IL,Israel,Beezz Communication Solutions Ltd.,,Unknown
+1328,425,24,IL,Israel,Partner Communications Company Ltd.,012 Mobile,Operational
+1329,425,25,IL,Israel,Israel Ministry of Defense,IMOD,Operational
+1330,425,26,IL,Israel,LB Annatel Ltd.,Annatel,Operational
+1331,425,27,IL,Israel,BITIT Ltd.,,Unknown
+1332,425,28,IL,Israel,PHI Networks,,Unknown
+1333,425,29,IL,Israel,CG Networks,,Unknown
+1334,222,01,IT,Italy,Telecom Italia S.p.A.,TIM,Operational
+1335,222,02,IT,Italy,,Elsacom,Not operational
+1336,222,04,IT,Italy,,Intermatica,Unknown
+1337,222,05,IT,Italy,,Telespazio,Unknown
+1338,222,06,IT,Italy,Vodafone Italia S.p.A.,Vodafone,Operational
+1339,222,07,IT,Italy,Noverca,Kena Mobile,Operational
+1340,222,08,IT,Italy,Fastweb S.p.A.,Fastweb,Operational
+1341,222,10,IT,Italy,Vodafone Italia S.p.A.,Vodafone,Operational
+1342,222,30,IT,Italy,Rete Ferroviaria Italiana,RFI,Operational
+1343,222,33,IT,Italy,Poste Mobile S.p.A.,Poste Mobile,Operational
+1344,222,34,IT,Italy,BT Italia,BT Italia,Operational
+1345,222,35,IT,Italy,Lycamobile,Lycamobile,Operational
+1346,222,36,IT,Italy,Digi Italy S.r.l.,Digi Mobil,Operational
+1347,222,37,IT,Italy,Wind Tre,WINDTRE,Unknown
+1348,222,38,IT,Italy,Linkem,LINKEM,Operational
+1349,222,39,IT,Italy,SMS Italia S.r.l.,SMS Italia,Unknown
+1350,222,41,IT,Italy,GO internet,GO internet,Operational
+1351,222,43,IT,Italy,Telecom Italia S.p.A.,TIM,Operational
+1352,222,47,IT,Italy,Fastweb S.p.A.,Fastweb,Operational
+1353,222,48,IT,Italy,Telecom Italia S.p.A.,TIM,Unknown
+1354,222,49,IT,Italy,Welcome Italia S.p.A.,Vianova,Unknown
+1355,222,50,IT,Italy,Iliad Italia,Iliad,Operational
+1356,222,53,IT,Italy,COOP Voce,COOP Voce,Operational
+1357,222,54,IT,Italy,,Plintron,Operational
+1358,222,56,IT,Italy,Mass Response GmbH,Spusu,Operational
+1359,222,77,IT,Italy,,IPSE 2000,Not operational
+1360,222,88,IT,Italy,Wind Tre,WINDTRE,Operational
+1361,222,98,IT,Italy,BLU S.p.A.,BLU,Not operational
+1362,222,99,IT,Italy,Wind Tre,WINDTRE,Operational
+1363,612,01,CI,Ivory Coast,Cora de Comstar,,Not operational
+1364,612,02,CI,Ivory Coast,Atlantique Cellulaire,Moov,Operational
+1365,612,03,CI,Ivory Coast,Orange,Orange,Operational
+1366,612,04,CI,Ivory Coast,Comium Ivory Coast Inc,KoZ,Operational
+1367,612,05,CI,Ivory Coast,Loteny Telecom,MTN,Operational
+1368,612,06,CI,Ivory Coast,Oricel,GreenN,Operational
+1369,612,07,CI,Ivory Coast,Aircomm,café,Operational
+1370,612,18,CI,Ivory Coast,YooMee,,Operational
+1371,338,020,JM,Jamaica,LIME (Cable & Wireless),FLOW,Not operational
+1372,338,040,JM,Jamaica,Symbiote Investment Limited,Caricel,Not operational
+1373,338,05,JM,Jamaica,Digicel (Jamaica) Limited,Digicel,Operational
+1374,338,070,JM,Jamaica,Oceanic Digital Jamaica Limited,Claro,Not operational
+1375,338,080,JM,Jamaica,Rock Mobile Limited,,Unknown
+1376,338,110,JM,Jamaica,Cable & Wireless Communications,FLOW,Operational
+1377,338,180,JM,Jamaica,Cable & Wireless Communications,FLOW,Operational
+1378,440,00,JP,Japan,SoftBank,Y!Mobile,Operational
+1379,440,01,JP,Japan,KDDI,,Operational
+1380,440,02,JP,Japan,"Hanshin Cable Engineering Co., Ltd.",,Unknown
+1381,440,03,JP,Japan,Internet Initiative Japan,IIJmio,Operational
+1382,440,04,JP,Japan,Japan Radio Company,,Unknown
+1383,440,05,JP,Japan,Wireless City Planning Inc.,,Operational
+1384,440,06,JP,Japan,SAKURA Internet Inc.,,Unknown
+1385,440,07,JP,Japan,"closip, Inc.",,Unknown
+1386,440,08,JP,Japan,Panasonic,,Unknown
+1387,440,09,JP,Japan,Marubeni Wireless Communications Inc.,,Operational
+1388,440,10,JP,Japan,NTT DoCoMo,NTT docomo,Operational
+1389,440,11,JP,Japan,Rakuten,Rakuten Mobile,Operational
+1390,440,12,JP,Japan,"Cable media waiwai Co., Ltd.",,Unknown
+1391,440,13,JP,Japan,NTT Communications,,Unknown
+1392,440,14,JP,Japan,"Grape One Co., Ltd.",,Unknown
+1393,440,15,JP,Japan,BB Backbone Corp.,,Unknown
+1394,440,16,JP,Japan,Nokia,,Unknown
+1395,440,17,JP,Japan,"Osaka Gas Business Create Co., Ltd.",,Unknown
+1396,440,18,JP,Japan,"Kintetsu Cable Network Co., Ltd.",,Unknown
+1397,440,19,JP,Japan,NEC,,Unknown
+1398,440,20,JP,Japan,SoftBank,SoftBank,Operational
+1399,440,21,JP,Japan,SoftBank,SoftBank,Operational
+1400,440,22,JP,Japan,JTOWER Inc.,,Unknown
+1401,440,23,JP,Japan,Fujitsu,,Unknown
+1402,440,50,JP,Japan,KDDI,au,Operational
+1403,440,51,JP,Japan,KDDI,au,Operational
+1404,440,52,JP,Japan,KDDI,au,Operational
+1405,440,53,JP,Japan,KDDI,au,Operational
+1406,440,54,JP,Japan,KDDI,au,Not operational
+1407,440,70,JP,Japan,KDDI,au,Not operational
+1408,440,71,JP,Japan,KDDI,au,Not operational
+1409,440,72,JP,Japan,KDDI,au,Not operational
+1410,440,73,JP,Japan,KDDI,au,Not operational
+1411,440,74,JP,Japan,KDDI,au,Not operational
+1412,440,75,JP,Japan,KDDI,au,Not operational
+1413,440,76,JP,Japan,KDDI,au,Not operational
+1414,440,78,JP,Japan,Okinawa Cellular Telephone,au,Not operational
+1415,440,00,JP,Japan,Wireless City Planning Inc.,,Operational
+1416,440,01,JP,Japan,SoftBank,SoftBank,Operational
+1417,440,10,JP,Japan,UQ Communications Inc.,UQ WiMAX,Not operational
+1418,440,200,JP,Japan,Soracom Inc.,,Operational
+1419,440,201,JP,Japan,"Aurens Co., Ltd.",,Unknown
+1420,440,202,JP,Japan,Sony,,Unknown
+1421,440,203,JP,Japan,Gujo City,,Unknown
+1422,440,204,JP,Japan,Wicom Inc.,,Unknown
+1423,440,205,JP,Japan,Katch Network Inc.,,Operational
+1424,440,206,JP,Japan,Mitsubishi Electric,,Unknown
+1425,440,207,JP,Japan,Mitsui Knowledge Industry,,Unknown
+1426,440,208,JP,Japan,Chudenko Corp.,,Unknown
+1427,440,209,JP,Japan,Cable Television Toyama Inc.,,Unknown
+1428,440,210,JP,Japan,Nippon Telegraph and Telephone,,Unknown
+1429,440,91,JP,Japan,Tokyo Organising Committee of the Olympic and Paralympic Games,,Not operational
+1430,234,03,JE,Jersey,Jersey Airtel Limited,Airtel-Vodafone,Operational
+1431,234,28,JE,Jersey,Marathon Telecom Limited,,Not operational
+1432,234,50,JE,Jersey,JT Group Limited,JT,Operational
+1433,234,55,JE,Jersey,Sure (Jersey) Limited,Sure Mobile,Operational
+1434,416,01,JO,Jordan,Jordan Mobile Telephone Services,zain JO,Operational
+1435,416,02,JO,Jordan,XPress Telecom,XPress Telecom,Not operational
+1436,416,03,JO,Jordan,Umniah Mobile Company,Umniah,Operational
+1437,416,77,JO,Jordan,Petra Jordanian Mobile Telecommunications Company (MobileCom),Orange,Operational
+1438,401,01,KZ,Kazakhstan,KaR-Tel LLP,Beeline,Operational
+1439,401,02,KZ,Kazakhstan,Kcell JSC,Kcell,Operational
+1440,401,07,KZ,Kazakhstan,Altel,Altel,Operational
+1441,401,08,KZ,Kazakhstan,,Kazakhtelecom,Operational
+1442,401,77,KZ,Kazakhstan,MTS,Tele2.kz,Operational
+1443,639,01,KE,Kenya,Safaricom Limited,Safaricom,Unknown
+1444,639,02,KE,Kenya,Safaricom Limited,Safaricom,Operational
+1445,639,03,KE,Kenya,Bharti Airtel,Airtel,Operational
+1446,639,04,KE,Kenya,Mobile Pay Kenya Limited,,Unknown
+1447,639,05,KE,Kenya,Essar Telecom Kenya,yu,Not operational
+1448,639,06,KE,Kenya,Finserve Africa Limited,,Unknown
+1449,639,07,KE,Kenya,Telkom Kenya,Telkom,Operational
+1450,639,08,KE,Kenya,Wetribe Ltd,,Unknown
+1451,639,09,KE,Kenya,Homeland Media Group Limited,,Unknown
+1452,639,10,KE,Kenya,Jamii Telecommunications Limited,Faiba 4G,Operational
+1453,639,11,KE,Kenya,Jambo Telcoms Limited,,Unknown
+1454,639,12,KE,Kenya,Infura Limited,,Unknown
+1455,639,13,KE,Kenya,Hidiga Investments Ltd,,Unknown
+1456,545,01,KI,Kiribati,Amalgamated Telecom Holdings Kiribati Limited,Kiribati - ATH,Operational
+1457,545,02,KI,Kiribati,OceanLink,,Unknown
+1458,545,09,KI,Kiribati,Amalgamated Telecom Holdings Kiribati Limited,Kiribati - Frigate Net,Operational
+1459,467,05,KP,"Korea, North",Cheo Technology Jv Company,Koryolink,Operational
+1460,467,06,KP,"Korea, North",Cheo Technology Jv Company,Koryolink,Operational
+1461,467,193,KP,"Korea, North",Korea Posts and Telecommunications Corporation,SunNet,Not operational
+1462,450,01,KR,"Korea, South",Globalstar,,Operational
+1463,450,02,KR,"Korea, South",KT,KT,Operational
+1464,450,03,KR,"Korea, South","Shinsegi Telecom, Inc.",Power 017,Not operational
+1465,450,04,KR,"Korea, South",KT,KT,Operational
+1466,450,05,KR,"Korea, South",SK Telecom,SKTelecom,Operational
+1467,450,06,KR,"Korea, South",LG Telecom,LG U+,Operational
+1468,450,07,KR,"Korea, South",KT,KT,Unknown
+1469,450,08,KR,"Korea, South",KT,olleh,Operational
+1470,450,11,KR,"Korea, South",Korea Cable Telecom,Tplus,Operational
+1471,450,12,KR,"Korea, South",SK Telecom,SKTelecom,Operational
+1472,221,01,XK,Kosovo,Telecom of Kosovo J.S.C.,Vala,Operational
+1473,221,02,XK,Kosovo,IPKO,IPKO,Operational
+1474,221,06,XK,Kosovo,Dardaphone.Net LLC,Z Mobile,Operational
+1475,221,07,XK,Kosovo,Dukagjini Telecommunications LLC,D3 Mobile,Operational
+1476,419,02,KW,Kuwait,Zain Kuwait,zain KW,Operational
+1477,419,03,KW,Kuwait,National Mobile Telecommunications,Ooredoo,Operational
+1478,419,04,KW,Kuwait,Saudi Telecom Company,STC,Operational
+1479,437,01,KG,Kyrgyzstan,Sky Mobile LLC,Beeline,Operational
+1480,437,03,KG,Kyrgyzstan,7 Mobile,,Unknown
+1481,437,05,KG,Kyrgyzstan,Alfa Telecom CJSC,MegaCom,Operational
+1482,437,09,KG,Kyrgyzstan,NurTelecom LLC,O!,Operational
+1483,437,10,KG,Kyrgyzstan,Saima Telecom,,Operational
+1484,437,11,KG,Kyrgyzstan,iTel,,Unknown
+1485,457,01,LA,Laos,Lao Telecom,LaoTel,Operational
+1486,457,02,LA,Laos,Enterprise of Telecommunications Lao,ETL,Operational
+1487,457,03,LA,Laos,"Star Telecom Co., Ltd",Unitel,Operational
+1488,457,07,LA,Laos,"Best Telecom Co., Ltd",Best,Operational
+1489,457,08,LA,Laos,VimpelCom Lao Ltd,Beeline,Operational
+1490,247,01,LV,Latvia,Latvian Mobile Telephone,LMT,Operational
+1491,247,02,LV,Latvia,Tele2,Tele2,Operational
+1492,247,03,LV,Latvia,Telekom Baltija,TRIATEL,Operational
+1493,247,04,LV,Latvia,Beta Telecom,,Not operational
+1494,247,05,LV,Latvia,Bite Latvija,Bite,Operational
+1495,247,06,LV,Latvia,Rigatta,,Not operational
+1496,247,07,LV,Latvia,"SIA ""MEGATEL""",,Operational
+1497,247,08,LV,Latvia,"SIA ""VENTAmobile""",VMT,Operational
+1498,247,09,LV,Latvia,Camel Mobile,Xomobile,Operational
+1499,247,10,LV,Latvia,Latvian Mobile Telephone,LMT,Unknown
+1500,415,01,LB,Lebanon,MIC 1,Alfa,Operational
+1501,415,03,LB,Lebanon,MIC 2,Touch,Operational
+1502,415,05,LB,Lebanon,Ogero Telecom,Ogero Mobile,Not operational
+1503,651,01,LS,Lesotho,Vodacom Lesotho (Pty) Ltd,Vodacom,Operational
+1504,651,02,LS,Lesotho,Econet Ezi-cel,Econet Telecom,Operational
+1505,651,10,LS,Lesotho,Vodacom Lesotho (Pty) Ltd,Vodacom,Unknown
+1506,618,01,LR,Liberia,Lonestar Communications Corporation,Lonestar Cell MTN,Operational
+1507,618,02,LR,Liberia,Atlantic Wireless (Liberia) Inc.,Libercell,Not operational
+1508,618,04,LR,Liberia,Novafone Inc.,Novafone,Operational
+1509,618,07,LR,Liberia,Orange Liberia,Orange LBR,Operational
+1510,618,20,LR,Liberia,Liberia Telecommunications Corporation,LIBTELCO,Operational
+1511,606,00,LY,Libya,Libyana,Libyana,Operational
+1512,606,01,LY,Libya,Al-Madar Al-Jadeed,Madar,Operational
+1513,606,02,LY,Libya,Al-Jeel Al-Jadeed,Al-Jeel Phone,Operational
+1514,606,03,LY,Libya,Libya Telecom & Technology,Libya Phone,Operational
+1515,606,06,LY,Libya,Hatef Libya,Hatef Libya,Operational
+1516,295,01,LI,Liechtenstein,Swisscom Schweiz AG,Swisscom,Operational
+1517,295,02,LI,Liechtenstein,Salt Liechtenstein AG,7acht,Operational
+1518,295,05,LI,Liechtenstein,Telecom Liechtenstein AG,FL1,Operational
+1519,295,06,LI,Liechtenstein,Cubic Telecom AG,Cubic Telecom,Operational
+1520,295,07,LI,Liechtenstein,First Mobile AG,,Not operational
+1521,295,09,LI,Liechtenstein,EMnify GmbH,,Unknown
+1522,295,10,LI,Liechtenstein,Soracom LI Ltd.,,Unknown
+1523,295,11,LI,Liechtenstein,DIMOCO Messaging AG,,Unknown
+1524,295,77,LI,Liechtenstein,Alpcom AG,Alpmobil,Not operational
+1525,246,01,LT,Lithuania,Telia Lietuva,Telia,Operational
+1526,246,02,LT,Lithuania,UAB Bitė Lietuva,BITĖ,Operational
+1527,246,03,LT,Lithuania,"UAB Tele2 (Tele2 AB, Sweden)",Tele2,Operational
+1528,246,04,LT,Lithuania,Ministry of the Interior,,Unknown
+1529,246,05,LT,Lithuania,Lithuanian Railways,LitRail,Operational
+1530,246,06,LT,Lithuania,UAB Mediafon,Mediafon,Operational
+1531,246,07,LT,Lithuania,Compatel Ltd.,,Unknown
+1532,246,08,LT,Lithuania,Lietuvos radijo ir televizijos centras,MEZON,Operational
+1533,246,09,LT,Lithuania,Interactive Digital Media GmbH,,Not operational
+1534,246,11,LT,Lithuania,DATASIM OU,,Unknown
+1535,246,12,LT,Lithuania,Nord connect OU,,Unknown
+1536,246,13,LT,Lithuania,Travel Communication SIA,,Unknown
+1537,246,14,LT,Lithuania,Tismi BV,,Unknown
+1538,246,15,LT,Lithuania,"Esim telecom, UAB",,Unknown
+1539,270,01,LU,Luxembourg,POST Luxembourg,POST,Operational
+1540,270,02,LU,Luxembourg,MTX Connect S.a.r.l.,,Unknown
+1541,270,05,LU,Luxembourg,Luxembourg Online S.A.,,Unknown
+1542,270,07,LU,Luxembourg,Bouygues Telecom,,Unknown
+1543,270,10,LU,Luxembourg,Blue Communications,,Unknown
+1544,270,71,LU,Luxembourg,Société Nationale des Chemins de Fer Luxembourgeois,CFL,Operational
+1545,270,77,LU,Luxembourg,Tango SA,Tango,Operational
+1546,270,78,LU,Luxembourg,Interactive digital media GmbH,,Unknown
+1547,270,79,LU,Luxembourg,Mitto AG,,Unknown
+1548,270,80,LU,Luxembourg,Syniverse,,Unknown
+1549,270,81,LU,Luxembourg,E-Lux Mobile Telecommunication S.A.,,Unknown
+1550,270,99,LU,Luxembourg,Orange S.A.,Orange,Operational
+1551,455,00,MO,Macau,"Smartone – Comunicações Móveis, S.A.",SmarTone,Operational
+1552,455,01,MO,Macau,"Companhia de Telecomunicações de Macau, S.A.R.L.",CTM,Operational
+1553,455,02,MO,Macau,China Telecom (Macau) Company Limited,China Telecom,Not operational
+1554,455,03,MO,Macau,"Hutchison Telephone (Macau), Limitada",3,Not operational
+1555,455,04,MO,Macau,"Companhia de Telecomunicações de Macau, S.A.R.L.",CTM,Operational
+1556,455,05,MO,Macau,"Hutchison Telephone (Macau), Limitada",3,Operational
+1557,455,06,MO,Macau,"Smartone – Comunicações Móveis, S.A.",SmarTone,Operational
+1558,455,07,MO,Macau,China Telecom (Macau) Limitada,China Telecom,Operational
+1559,294,01,MK,North Macedonia,Makedonski Telekom,Telekom.mk,Operational
+1560,294,02,MK,North Macedonia,one,one,Not operational
+1561,294,03,MK,North Macedonia,A1 Macedonia,A1 MK,Operational
+1562,294,04,MK,North Macedonia,Lycamobile LLC,Lycamobile,Operational
+1563,294,10,MK,North Macedonia,WTI Macedonia,,Not operational
+1564,294,11,MK,North Macedonia,MOBIK TELEKOMUNIKACII DOOEL Skopje,,Unknown
+1565,646,01,MG,Madagascar,Bharti Airtel,Airtel,Operational
+1566,646,02,MG,Madagascar,Orange Madagascar S.A.,Orange,Operational
+1567,646,03,MG,Madagascar,Sacel Madagascar S.A.,Sacel,Not operational
+1568,646,04,MG,Madagascar,Telma Mobile S.A.,Telma,Operational
+1569,646,05,MG,Madagascar,Gulfsat Madagascar S.A.,BIP / blueline,Operational
+1570,650,01,MW,Malawi,Telecom Network Malawi,TNM,Operational
+1571,650,02,MW,Malawi,Access Communications Ltd,Access,Operational
+1572,650,10,MW,Malawi,Airtel Malawi Limited,Airtel,Operational
+1573,502,01,MY,Malaysia,Telekom Malaysia,ATUR 450,Not operational
+1574,502,10,MY,Malaysia,"Maxis, DiGi, Celcom, XOX",,Operational
+1575,502,11,MY,Malaysia,Telekom Malaysia,TM Homeline,Operational
+1576,502,12,MY,Malaysia,Maxis Communications,Maxis,Operational
+1577,502,13,MY,Malaysia,Celcom Axiata Berhad,Celcom,Operational
+1578,502,14,MY,Malaysia,Telekom Malaysia,,Unknown
+1579,502,150,MY,Malaysia,Tune Talk Sdn Bhd,Tune Talk,Operational
+1580,502,151,MY,Malaysia,Baraka Telecom Sdn Bhd,SalamFone,Not operational
+1581,502,152,MY,Malaysia,YTL Communications Sdn Bhd,Yes,Operational
+1582,502,153,MY,Malaysia,Webe Digital Sdn Bhd,unifi,Operational
+1583,502,154,MY,Malaysia,Talk Focus Sdn Bhd,Tron,Operational
+1584,502,155,MY,Malaysia,Clixster Mobile Sdn Bhd,Clixster,Not operational
+1585,502,156,MY,Malaysia,Altel Communications Sdn Bhd,Altel,Operational
+1586,502,157,MY,Malaysia,Telekomunikasi Indonesia International (M) Sdn Bhd,Telin,Operational
+1587,502,16,MY,Malaysia,DiGi Telecommunications,DiGi,Operational
+1588,502,17,MY,Malaysia,Maxis Communications Berhad,Maxis,Operational
+1589,502,18,MY,Malaysia,U Mobile Sdn Bhd,U Mobile,Operational
+1590,502,19,MY,Malaysia,Celcom Axiata Berhad,Celcom,Operational
+1591,502,20,MY,Malaysia,Electcoms Berhad,Electcoms,Not operational
+1592,472,01,MV,Maldives,Dhivehi Raajjeyge Gulhun,Dhiraagu,Operational
+1593,472,02,MV,Maldives,Ooredoo Maldives,Ooredoo,Operational
+1594,610,01,ML,Mali,Malitel SA,Malitel,Operational
+1595,610,02,ML,Mali,Orange Mali SA,Orange,Operational
+1596,610,03,ML,Mali,Alpha Telecommunication Mali S.A.,Telecel,Operational
+1597,278,01,MT,Malta,Epic,Epic,Operational
+1598,278,11,MT,Malta,YOM Ltd.,,Not operational
+1599,278,21,MT,Malta,Mobile Communications Limited,GO,Operational
+1600,278,30,MT,Malta,Mobile Communications Limited,GO,Unknown
+1601,278,77,MT,Malta,Melita,Melita,Operational
+1602,551,01,MH,Marshall Islands,Marshall Islands National Telecommunications Authority (MINTA),,Operational
+1603,609,01,MR,Mauritania,Mattel,Mattel,Operational
+1604,609,02,MR,Mauritania,Chinguitel,Chinguitel,Operational
+1605,609,10,MR,Mauritania,Mauritel Mobiles,Moov,Operational
+1606,617,01,MU,Mauritius,Cellplus Mobile Communications Ltd.,my.t,Operational
+1607,617,02,MU,Mauritius,Mahanagar Telephone Mauritius Limited,MOKOZE / AZU,Operational
+1608,617,03,MU,Mauritius,Mahanagar Telephone Mauritius Limited,CHILI,Operational
+1609,617,10,MU,Mauritius,Emtel Ltd.,Emtel,Operational
+1610,334,001,MX,Mexico,"Comunicaciones Digitales Del Norte, S.A. de C.V.",,Unknown
+1611,334,010,MX,Mexico,AT&T Mexico,AT&T,Not operational
+1612,334,020,MX,Mexico,América Móvil,Telcel,Operational
+1613,334,030,MX,Mexico,Telefónica,Movistar,Operational
+1614,334,040,MX,Mexico,AT&T Mexico,Unefon,Not operational
+1615,334,050,MX,Mexico,AT&T Mexico,Unefon,Operational
+1616,334,060,MX,Mexico,"Servicios de Acceso Inalambrico, S.A. de C.V.",,Unknown
+1617,334,066,MX,Mexico,"Telefonos de México, S.A.B. de C.V.",,Unknown
+1618,334,070,MX,Mexico,AT&T Mexico,Unefon,Unknown
+1619,334,080,MX,Mexico,AT&T Mexico,Unefon,Unknown
+1620,334,090,MX,Mexico,AT&T Mexico,AT&T,Operational
+1621,334,100,MX,Mexico,Telecomunicaciones de México,,Unknown
+1622,334,110,MX,Mexico,"Maxcom Telecomunicaciones, S.A.B. de C.V.",,Unknown
+1623,334,120,MX,Mexico,"Quickly Phone, S.A. de C.V.",,Unknown
+1624,334,130,MX,Mexico,Axtel,,Unknown
+1625,334,140,MX,Mexico,Altán Redes S.A.P.I. de C.V.,Red Compartida,Operational
+1626,334,150,MX,Mexico,"Ultravisión, S.A. de C.V.",Ultranet,Operational
+1627,334,160,MX,Mexico,"Cablevisión Red, S.A. de C.V.",,Unknown
+1628,334,170,MX,Mexico,"Oxio Mobile, S.A. de C.V.",,Unknown
+1629,334,180,MX,Mexico,"FREEDOMPOP MÉXICO, S.A. DE C.V.",FreedomPop,Operational
+1630,334,190,MX,Mexico,"VIASAT TECNOLOGÍA, S.A. DE C.V.",Viasat,Operational
+1631,550,01,FM,"Micronesia, Federated States of",FSMTC,,Operational
+1632,259,00,MD,Moldova,Interdnestrcom,IDC,Operational
+1633,259,01,MD,Moldova,Orange Moldova,Orange,Operational
+1634,259,02,MD,Moldova,Moldcell,Moldcell,Operational
+1635,259,03,MD,Moldova,Moldtelecom,Moldtelecom,Operational
+1636,259,04,MD,Moldova,Eventis Telecom,Eventis,Not operational
+1637,259,05,MD,Moldova,Moldtelecom,Moldtelecom,Operational
+1638,259,15,MD,Moldova,Interdnestrcom,IDC,Operational
+1639,259,99,MD,Moldova,Moldtelecom,Moldtelecom,Operational
+1640,212,10,MC,Monaco,Monaco Telecom,Office des Telephones,Operational
+1641,428,88,MN,Mongolia,Unitel LLC,Unitel,Operational
+1642,428,91,MN,Mongolia,Skytel LLC,Skytel,Operational
+1643,428,98,MN,Mongolia,G-Mobile LLC,G-Mobile,Operational
+1644,428,99,MN,Mongolia,Mobicom Corporation,Mobicom,Operational
+1645,297,01,ME,Montenegro,Telenor Montenegro,One,Operational
+1646,297,02,ME,Montenegro,Crnogorski Telekom,telekom.me,Operational
+1647,297,03,ME,Montenegro,m:tel Crna Gora,m:tel,Operational
+1648,354,860,MS,Montserrat,Cable & Wireless,FLOW,Operational
+1649,604,00,MA,Morocco,Médi Télécom,Orange Morocco,Operational
+1650,604,01,MA,Morocco,Maroc Telecom,IAM,Operational
+1651,604,02,MA,Morocco,Wana Corporate,INWI,Operational
+1652,604,04,MA,Morocco,Al Houria Telecom,,Unknown
+1653,604,05,MA,Morocco,Wana Corporate,INWI,Operational
+1654,604,06,MA,Morocco,Maroc Telecom,IAM,Unknown
+1655,604,99,MA,Morocco,Al Houria Telecom,,Unknown
+1656,643,01,MZ,Mozambique,Mocambique Celular S.A.,mCel,Operational
+1657,643,03,MZ,Mozambique,"Movitel, SA",Movitel,Operational
+1658,643,04,MZ,Mozambique,Vodacom,Vodacom,Operational
+1659,414,00,MM,Myanmar,Myanmar Posts and Telecommunications,MPT,Unknown
+1660,414,01,MM,Myanmar,Myanmar Posts and Telecommunications,MPT,Operational
+1661,414,02,MM,Myanmar,Myanmar Posts and Telecommunications,MPT,Unknown
+1662,414,03,MM,Myanmar,Myanmar Economic Corporation,CDMA800,Operational
+1663,414,04,MM,Myanmar,Myanmar Posts and Telecommunications,MPT,Unknown
+1664,414,05,MM,Myanmar,Ooredoo Myanmar,Ooredoo,Operational
+1665,414,06,MM,Myanmar,Telenor Myanmar,Telenor,Operational
+1666,414,09,MM,Myanmar,"Myanmar National Tele & Communication Co., Ltd",Mytel,Operational
+1667,414,20,MM,Myanmar,"Amara Communication Co., Ltd",ACS,Operational
+1668,414,21,MM,Myanmar,"Amara Communication Co., Ltd",ACS,Operational
+1669,414,22,MM,Myanmar,"Fortune Telecom Co., Ltd",,Unknown
+1670,414,23,MM,Myanmar,"Global Technology Co., Ltd",,Unknown
+1671,649,01,NA,Namibia,MTC Namibia,MTC,Operational
+1672,649,02,NA,Namibia,Telecom Namibia,switch,Operational
+1673,649,03,NA,Namibia,Telecom Namibia,TN Mobile,Operational
+1674,649,04,NA,Namibia,Paratus Telecommunications (Pty),,Operational
+1675,649,05,NA,Namibia,Demshi Investments CC,,Unknown
+1676,649,06,NA,Namibia,MTN Namibia,,Operational
+1677,649,07,NA,Namibia,Capricorn Connect,,Unknown
+1678,536,02,NR,Nauru,Digicel (Nauru) Corporation,Digicel,Operational
+1679,429,01,NP,Nepal,Nepal Telecom,Namaste / NT Mobile / Sky Phone,Operational
+1680,429,02,NP,Nepal,Ncell Pvt. Ltd.,Ncell,Operational
+1681,429,03,NP,Nepal,United Telecom Limited,UTL,Operational
+1682,429,04,NP,Nepal,Smart Telecom Pvt. Ltd. (STPL),SmartCell,Operational
+1683,204,00,NL,Netherlands,Intovoice B.V.,,Unknown
+1684,204,01,NL,Netherlands,RadioAccess Network Services,,Not operational
+1685,204,02,NL,Netherlands,T-Mobile Netherlands B.V,Tele2,Operational
+1686,204,03,NL,Netherlands,Voiceworks B.V.,Voiceworks,Operational
+1687,204,04,NL,Netherlands,Vodafone Libertel B.V.,Vodafone,Operational
+1688,204,05,NL,Netherlands,Elephant Talk Communications Premium Rate Services,,Not operational
+1689,204,06,NL,Netherlands,Mundio Mobile (Netherlands) Ltd,Vectone Mobile,Not operational
+1690,204,07,NL,Netherlands,Tata Communications MOVE B.V.,Teleena,Operational
+1691,204,08,NL,Netherlands,KPN Mobile The Netherlands B.V.,KPN,Operational
+1692,204,09,NL,Netherlands,Lycamobile Netherlands Limited,Lycamobile,Operational
+1693,204,10,NL,Netherlands,KPN B.V.,KPN,Operational
+1694,204,11,NL,Netherlands,Greenet Netwerk B.V,,Operational
+1695,204,12,NL,Netherlands,KPN Mobile The Netherlands B.V.,Telfort,Operational
+1696,204,13,NL,Netherlands,Unica Installatietechniek B.V.,,Unknown
+1697,204,14,NL,Netherlands,Venus & Mercury Telecom,,Unknown
+1698,204,15,NL,Netherlands,Ziggo B.V.,Ziggo,Operational
+1699,204,16,NL,Netherlands,T-Mobile Netherlands B.V,T-Mobile,Operational
+1700,204,17,NL,Netherlands,Lebara Ltd,,Operational
+1701,204,18,NL,Netherlands,Ziggo Services B.V.,Ziggo,Operational
+1702,204,19,NL,Netherlands,Mixe Communication Solutions B.V.,,Unknown
+1703,204,20,NL,Netherlands,T-Mobile Netherlands B.V,T-Mobile,Operational
+1704,204,21,NL,Netherlands,ProRail,,Operational
+1705,204,22,NL,Netherlands,Ministerie van Defensie,,Unknown
+1706,204,23,NL,Netherlands,KORE Wireless,,Operational
+1707,204,24,NL,Netherlands,PM Factory B.V.,,Unknown
+1708,204,25,NL,Netherlands,CapX B.V.,,Operational
+1709,204,26,NL,Netherlands,SpeakUp B.V.,,Unknown
+1710,204,27,NL,Netherlands,L-Mobi Mobile B.V.,L-mobi,Operational
+1711,204,28,NL,Netherlands,Lancelot B.V.,,Unknown
+1712,204,29,NL,Netherlands,Tismi B.V.,,Unknown
+1713,204,30,NL,Netherlands,ASpider Solutions Nederland B.V.,,Unknown
+1714,204,32,NL,Netherlands,Cubic Telecom Limited,,Unknown
+1715,204,33,NL,Netherlands,Truphone,,Operational
+1716,204,60,NL,Netherlands,Nextgen Mobile Ltd,,Not operational
+1717,204,61,NL,Netherlands,Alcadis B.V.,,Unknown
+1718,204,62,NL,Netherlands,RGTN Wholesale Netherlands B.V.,RGTN,Operational
+1719,204,63,NL,Netherlands,Messagebird BV,,Unknown
+1720,204,64,NL,Netherlands,Zetacom B.V.,,Unknown
+1721,204,65,NL,Netherlands,AGMS Netherlands B.V.,,Not operational
+1722,204,66,NL,Netherlands,Utility Connect B.V.,,Operational
+1723,204,67,NL,Netherlands,Koning en Hartman B.V.,,Not operational
+1724,204,68,NL,Netherlands,Roamware (Netherlands) B.V.,,Not operational
+1725,204,69,NL,Netherlands,KPN Mobile The Netherlands B.V.,,Unknown
+1726,204,91,NL,Netherlands,Enexis Netbeheer B.V.,,Unknown
+1727,546,01,NC,New Caledonia,OPT New Caledonia,Mobilis,Operational
+1728,530,00,NZ,New Zealand,Spark New Zealand,Telecom,Not operational
+1729,530,01,NZ,New Zealand,Vodafone New Zealand,Vodafone,Operational
+1730,530,02,NZ,New Zealand,Spark New Zealand,Telecom,Not operational
+1731,530,03,NZ,New Zealand,Woosh Wireless,Woosh,Not operational
+1732,530,04,NZ,New Zealand,TelstraClear,TelstraClear,Not operational
+1733,530,05,NZ,New Zealand,Spark New Zealand,Spark,Operational
+1734,530,06,NZ,New Zealand,FX Networks,,Unknown
+1735,530,07,NZ,New Zealand,Dense Air New Zealand,,Unknown
+1736,530,24,NZ,New Zealand,2degrees,2degrees,Operational
+1737,710,21,NI,Nicaragua,"Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)",Claro,Operational
+1738,710,30,NI,Nicaragua,"Telefonía Celular de Nicaragua, S.A.",Tigo,Operational
+1739,710,73,NI,Nicaragua,Servicios de Comunicaciones S.A.,Claro,Operational
+1740,614,01,NE,Niger,La Société Sahélienne de Télécommunications (SahelCom),SahelCom,Operational
+1741,614,02,NE,Niger,Bharti Airtel Limited,Airtel,Operational
+1742,614,03,NE,Niger,Atlantique Telecom (subsidiary of Etisalat),Moov,Operational
+1743,614,04,NE,Niger,Orange Niger,Orange,Operational
+1744,621,00,NG,Nigeria,Capcom,,Not operational
+1745,621,20,NG,Nigeria,Bharti Airtel Limited,Airtel,Operational
+1746,621,22,NG,Nigeria,InterC Network Ltd.,InterC,Operational
+1747,621,24,NG,Nigeria,Spectranet,,Operational
+1748,621,25,NG,Nigeria,Visafone Communications Ltd.,Visafone,Not operational
+1749,621,26,NG,Nigeria,Swift,,Operational
+1750,621,27,NG,Nigeria,Smile Communications Nigeria,Smile,Operational
+1751,621,30,NG,Nigeria,MTN Nigeria Communications Limited,MTN,Operational
+1752,621,40,NG,Nigeria,Nigerian Mobile Telecommunications Limited,Ntel,Operational
+1753,621,50,NG,Nigeria,Globacom Ltd,Glo,Operational
+1754,621,60,NG,Nigeria,Emerging Markets Telecommunication Services Ltd.,9mobile,Operational
+1755,555,01,NU,Niue,Telecom Niue,Telecom Niue,Operational
+1756,505,10,NF,Norfolk Island,Norfolk Telecom,Norfolk Telecom,Operational
+1757,310,110,MP,Northern Mariana Islands,PTI Pacifica Inc.,IT&E Wireless,Operational
+1758,310,370,MP,Northern Mariana Islands,DoCoMo Pacific,Docomo,Operational
+1759,242,01,NO,Norway,Telenor Norge AS,Telenor,Operational
+1760,242,02,NO,Norway,Telia Norge,Telia,Operational
+1761,242,03,NO,Norway,Televerket AS,,Not operational
+1762,242,04,NO,Norway,Tele2,Tele2,Not operational
+1763,242,05,NO,Norway,Telia Norge,Telia,Not operational
+1764,242,06,NO,Norway,ICE Norge AS,ice,Operational
+1765,242,07,NO,Norway,Phonero AS,Phonero,Not operational
+1766,242,08,NO,Norway,Telia Norge,Telia,Operational
+1767,242,09,NO,Norway,Com4 AS,Com4,Operational
+1768,242,10,NO,Norway,Norwegian Communications Authority,,Unknown
+1769,242,11,NO,Norway,SystemNet AS,SystemNet,Not operational
+1770,242,12,NO,Norway,Telenor Norge AS,Telenor,Unknown
+1771,242,14,NO,Norway,ICE Communication Norge AS,ice,Operational
+1772,242,15,NO,Norway,eRate Norway AS,,Operational
+1773,242,16,NO,Norway,Iristel Norway AS,,Unknown
+1774,242,20,NO,Norway,Jernbaneverket AS,,Operational
+1775,242,21,NO,Norway,Jernbaneverket AS,,Operational
+1776,242,22,NO,Norway,Altibox,,Unknown
+1777,242,23,NO,Norway,Lyca Mobile Ltd,Lycamobile,Operational
+1778,242,24,NO,Norway,Mobile Norway AS,,Not operational
+1779,242,25,NO,Norway,Forsvarets kompetansesenter KKIS,,Unknown
+1780,242,90,NO,Norway,Nokia Solutions and Networks Norge AS,,Unknown
+1781,242,99,NO,Norway,TampNet AS,,Operational
+1782,422,02,OM,Oman,Oman Telecommunications Company,Omantel,Operational
+1783,422,03,OM,Oman,Omani Qatari Telecommunications Company SAOC,Ooredoo,Operational
+1784,422,04,OM,Oman,Oman Telecommunications Company,Omantel,Unknown
+1785,422,06,OM,Oman,Oman Telecommunication Company SAOC,Vodafone,Operational
+1786,410,01,PK,Pakistan,Mobilink-PMCL,Jazz,Operational
+1787,410,02,PK,Pakistan,PTCL,3G EVO / CharJi 4G,Operational
+1788,410,03,PK,Pakistan,Pakistan Telecommunication Mobile Ltd,Ufone,Operational
+1789,410,04,PK,Pakistan,China Mobile,Zong,Operational
+1790,410,05,PK,Pakistan,SCO Mobile Ltd,SCO Mobile,Operational
+1791,410,06,PK,Pakistan,Telenor Pakistan,Telenor,Operational
+1792,410,07,PK,Pakistan,WaridTel,Jazz,Operational
+1793,410,08,PK,Pakistan,SCO Mobile Ltd,SCO Mobile,Operational
+1794,552,01,PW,Palau,Palau National Communications Corp.,PNCC,Operational
+1795,552,02,PW,Palau,Palau Equipment Company Inc.,PT Waves,Operational
+1796,552,80,PW,Palau,Palau Mobile Corporation,Palau Mobile,Not operational
+1797,552,99,PW,Palau,Palau Mobile Communications Inc.,PMCI,Operational
+1798,425,05,PS,Palestine,"Palestine Cellular Communications, Ltd.",Jawwal,Operational
+1799,425,06,PS,Palestine,Ooredoo Palestine,Ooredoo,Operational
+1800,714,01,PA,Panama,Cable & Wireless Panama S.A.,Cable & Wireless,Operational
+1801,714,02,PA,Panama,"Grupo de Comunicaciones Digitales, S.A.",Tigo,Operational
+1802,714,020,PA,Panama,"Grupo de Comunicaciones Digitales, S.A.",Tigo,Operational
+1803,714,03,PA,Panama,América Móvil,Claro,Operational
+1804,714,04,PA,Panama,Digicel Group,Digicel,Operational
+1805,537,01,PG,Papua New Guinea,Bemobile Limited,bmobile,Operational
+1806,537,02,PG,Papua New Guinea,Telikom PNG Ltd.,citifon,Operational
+1807,537,03,PG,Papua New Guinea,Digicel PNG,Digicel,Operational
+1808,537,04,PG,Papua New Guinea,Digitec Communication Ltd.,,Unknown
+1809,744,01,PY,Paraguay,Hola Paraguay S.A.,VOX,Operational
+1810,744,02,PY,Paraguay,AMX Paraguay S.A.,Claro,Operational
+1811,744,03,PY,Paraguay,Compañia Privada de Comunicaciones S.A.,,Unknown
+1812,744,04,PY,Paraguay,Telefónica Celular Del Paraguay S.A. (Telecel),Tigo,Operational
+1813,744,05,PY,Paraguay,Núcleo S.A. (TIM),Personal,Operational
+1814,744,06,PY,Paraguay,Copaco S.A.,Copaco,Operational
+1815,716,06,PE,Peru,Telefónica del Perú S.A.A.,Movistar,Operational
+1816,716,07,PE,Peru,Entel Perú S.A.,Entel,Operational
+1817,716,10,PE,Peru,América Móvil Perú,Claro,Operational
+1818,716,15,PE,Peru,Viettel Peru S.A.C.,Bitel,Operational
+1819,716,17,PE,Peru,Entel Perú S.A.,Entel,Operational
+1820,515,01,PH,Philippines,Globe Telecom,Islacom,Not operational
+1821,515,02,PH,Philippines,Globe Telecom,Globe,Operational
+1822,515,03,PH,Philippines,Smart Communications,SMART,Operational
+1823,515,05,PH,Philippines,Digital Telecommunications Philippines,Sun Cellular,Operational
+1824,515,11,PH,Philippines,PLDT via ACeS Philippines,,Unknown
+1825,515,18,PH,Philippines,PLDT via Smart's Connectivity Unlimited Resources Enterprise,Cure,Not operational
+1826,515,24,PH,Philippines,ABS-CBN Convergence with Globe Telecom,ABS-CBN Mobile,Operational
+1827,515,66,PH,Philippines,Dito Telecommunity,DITO,Operational
+1828,515,88,PH,Philippines,Next Mobile Inc.,,Operational
+1829,260,01,PL,Poland,Polkomtel Sp. z o.o.,Plus,Operational
+1830,260,02,PL,Poland,T-Mobile Polska S.A.,T-Mobile,Operational
+1831,260,03,PL,Poland,Orange Polska S.A.,Orange,Operational
+1832,260,04,PL,Poland,Polkomtel Sp. z o.o.,Plus,Not operational
+1833,260,05,PL,Poland,Orange Polska S.A.,Orange,Not operational
+1834,260,06,PL,Poland,P4 Sp. z o.o.,Play,Operational
+1835,260,07,PL,Poland,Netia S.A.,Netia,Operational
+1836,260,08,PL,Poland,E-Telko Sp. z o.o.,,Not operational
+1837,260,09,PL,Poland,Lycamobile Sp. z o.o.,Lycamobile,Operational
+1838,260,10,PL,Poland,T-Mobile Polska S.A.,T-Mobile,Unknown
+1839,260,11,PL,Poland,Polkomtel Sp. z o.o.,Plus,Operational
+1840,260,12,PL,Poland,Cyfrowy Polsat S.A.,Cyfrowy Polsat,Operational
+1841,260,13,PL,Poland,Move Telecom S.A.,,Operational
+1842,260,14,PL,Poland,Telco Leaders Ltd,,Unknown
+1843,260,15,PL,Poland,Polkomtel Sp. z o.o.,Plus,Operational
+1844,260,16,PL,Poland,Polkomtel Sp. z o.o.,Plus,Operational
+1845,260,17,PL,Poland,Polkomtel Sp. z o.o.,Plus,Operational
+1846,260,18,PL,Poland,AMD Telecom S.A.,AMD Telecom,Unknown
+1847,260,19,PL,Poland,SIA NetBalt,,Unknown
+1848,260,20,PL,Poland,TISMI B.V.,,Unknown
+1849,260,21,PL,Poland,private networks,,Unknown
+1850,260,22,PL,Poland,Twilio Ireland Limited,,Unknown
+1851,260,23,PL,Poland,PGE Systemy S.A.,,Unknown
+1852,260,24,PL,Poland,IT Partners Telco Sp. z o.o.,,Unknown
+1853,260,25,PL,Poland,Claude ICT Poland Sp. z o.o.,TeleCube.PL,Operational
+1854,260,26,PL,Poland,Vonage B.V.,,Unknown
+1855,260,27,PL,Poland,SIA Ntel Solutions,,Unknown
+1856,260,28,PL,Poland,CrossMobile Sp. z o.o.,,Unknown
+1857,260,29,PL,Poland,Interfonica Sp. z o.o.,Interfonica,Not operational
+1858,260,30,PL,Poland,GrandTel Sp. z o.o.,GrandTel,Not operational
+1859,260,31,PL,Poland,Phone IT Sp. z o.o.,Phone IT,Not operational
+1860,260,32,PL,Poland,Compatel Limited,,Unknown
+1861,260,33,PL,Poland,Truphone Poland Sp. z o.o.,Truphone,Operational
+1862,260,34,PL,Poland,T-Mobile Polska S.A.,NetWorkS!,Operational
+1863,260,35,PL,Poland,PKP Polskie Linie Kolejowe S.A.,,Operational
+1864,260,36,PL,Poland,Mundio Mobile,Vectone Mobile,Not operational
+1865,260,37,PL,Poland,NEXTGEN MOBILE LTD,,Not operational
+1866,260,38,PL,Poland,CALLFREEDOM Sp. z o.o.,,Not operational
+1867,260,39,PL,Poland,VOXBONE SA,Voxbone,Operational
+1868,260,40,PL,Poland,Interactive Digital Media GmbH,,Not operational
+1869,260,41,PL,Poland,EZ PHONE MOBILE Sp. z o.o.,,Unknown
+1870,260,42,PL,Poland,MobiWeb Telecom Limited,,Unknown
+1871,260,43,PL,Poland,Smart Idea International Sp. z o.o.,,Unknown
+1872,260,44,PL,Poland,Rebtel Poland Sp. z o.o.,,Not operational
+1873,260,45,PL,Poland,Virgin Mobile Polska Sp. z o.o.,,Operational
+1874,260,46,PL,Poland,Terra Telekom Sp. z o.o.,,Not operational
+1875,260,47,PL,Poland,SMShighway Limited,,Unknown
+1876,260,48,PL,Poland,AGILE TELECOM S.P.A.,,Unknown
+1877,260,49,PL,Poland,Messagebird B.V.,,Unknown
+1878,260,90,PL,Poland,Polska Spółka Gazownictwa Sp. z o.o.,,Unknown
+1879,260,97,PL,Poland,Politechnika Łódzka Uczelniane Centrum Informatyczne,,Unknown
+1880,260,98,PL,Poland,P4 Sp. z o.o.,Play,Not operational
+1881,268,01,PT,Portugal,Vodafone Portugal,Vodafone,Operational
+1882,268,02,PT,Portugal,Telecomunicações Móveis Nacionais,MEO,Not operational
+1883,268,03,PT,Portugal,NOS Comunicações,NOS,Operational
+1884,268,04,PT,Portugal,LycaMobile,LycaMobile,Operational
+1885,268,05,PT,Portugal,"Oniway - Inforcomunicaçôes, S.A.",,Not operational
+1886,268,06,PT,Portugal,"MEO - Serviços de Comunicações e Multimédia, S.A.",MEO,Operational
+1887,268,07,PT,Portugal,Mundio Mobile (Portugal) Limited,Vectone Mobile,Not operational
+1888,268,08,PT,Portugal,"MEO - Serviços de Comunicações e Multimédia, S.A.",MEO,Unknown
+1889,268,11,PT,Portugal,"Compatel, Limited",,Unknown
+1890,268,12,PT,Portugal,"Infraestruturas de Portugal, S.A.",,Operational
+1891,268,13,PT,Portugal,"G9Telecom, S.A.",,Unknown
+1892,268,21,PT,Portugal,Zapp Portugal,Zapp,Not operational
+1893,268,80,PT,Portugal,"MEO - Serviços de Comunicações e Multimédia, S.A.",MEO,Operational
+1894,268,91,PT,Portugal,Vodafone Portugal,Vodafone,Unknown
+1895,268,93,PT,Portugal,NOS Comunicações,NOS,Unknown
+1896,330,017,PR,Puerto Rico,North Sight Communications Inc.,ProxTel,Not operational
+1897,330,260,PR,Puerto Rico,T-Mobile US,T-Mobile,Operational
+1898,330,280,PR,Puerto Rico,AT&T Mobility,AT&T,Not operational
+1899,330,510,PR,Puerto Rico,Puerto Rico Telecom Company,,Unknown
+1900,330,790,PR,Puerto Rico,Liberty Cablevision of Puerto Rico LLC,Liberty,Operational
+1901,330,000,PR,Puerto Rico,PR Wireless,Open Mobile,Operational
+1902,330,110,PR,Puerto Rico,América Móvil,Claro Puerto Rico,Operational
+1903,330,120,PR,Puerto Rico,PR Wireless,Open Mobile,Operational
+1904,427,01,QA,Qatar,Ooredoo,Ooredoo,Operational
+1905,427,02,QA,Qatar,Vodafone Qatar,Vodafone,Operational
+1906,427,05,QA,Qatar,Ministry of Interior,Ministry of Interior,Operational
+1907,427,06,QA,Qatar,Ministry of Interior,Ministry of Interior,Operational
+1908,226,01,RO,Romania,Vodafone România,Vodafone,Operational
+1909,226,02,RO,Romania,Telekom Romania,Clicknet Mobile,Not operational
+1910,226,03,RO,Romania,Telekom Romania,Telekom,Operational
+1911,226,04,RO,Romania,Telekom Romania,Cosmote/Zapp,Not operational
+1912,226,05,RO,Romania,RCS&RDS,Digi.Mobil,Operational
+1913,226,06,RO,Romania,Telekom Romania,Telekom/Zapp,Operational
+1914,226,10,RO,Romania,Orange România,Orange,Operational
+1915,226,11,RO,Romania,Enigma-System,,Unknown
+1916,226,15,RO,Romania,Idilis,Idilis,Operational
+1917,226,16,RO,Romania,Lycamobile Romania,Lycamobile,Operational
+1918,226,19,RO,Romania,Căile Ferate Române,CFR,Testing
+1919,250,01,RU,Russian Federation,Mobile TeleSystems,MTS,Operational
+1920,250,02,RU,Russian Federation,MegaFon PJSC,MegaFon,Operational
+1921,250,03,RU,Russian Federation,Nizhegorodskaya Cellular Communications,NCC,Not operational
+1922,250,04,RU,Russian Federation,Sibchallenge,Sibchallenge,Not operational
+1923,250,05,RU,Russian Federation,Yeniseytelecom,ETK,Not operational
+1924,250,06,RU,Russian Federation,CJSC Saratov System of Cellular Communications,Skylink,Not operational
+1925,250,07,RU,Russian Federation,Zao SMARTS,SMARTS,Not operational
+1926,250,08,RU,Russian Federation,"CS ""VainahTelecom""",Vainah Telecom,Operational
+1927,250,09,RU,Russian Federation,Khabarovsky Cellular Phone,Skylink,Operational
+1928,250,10,RU,Russian Federation,Dontelekom,DTC,Not operational
+1929,250,11,RU,Russian Federation,Scartel,Yota,Operational
+1930,250,12,RU,Russian Federation,Baykal Westcom / New Telephone Company / Far Eastern Cellular,Baykalwestcom,Not operational
+1931,250,12,RU,Russian Federation,,Akos,Not operational
+1932,250,13,RU,Russian Federation,Kuban GSM,KUGSM,Not operational
+1933,250,14,RU,Russian Federation,MegaFon OJSC,MegaFon,Not operational
+1934,250,15,RU,Russian Federation,"SMARTS Ufa, SMARTS Uljanovsk",SMARTS,Not operational
+1935,250,16,RU,Russian Federation,Miatel,Miatel,Operational
+1936,250,17,RU,Russian Federation,Uralsvyazinform,Utel,Not operational
+1937,250,18,RU,Russian Federation,,Osnova Telecom,Not operational
+1938,250,19,RU,Russian Federation,INDIGO,INDIGO,Not operational
+1939,250,20,RU,Russian Federation,Tele2,Tele2,Operational
+1940,250,21,RU,Russian Federation,"JSC ""GlobalTel""",GlobalTel,Operational
+1941,250,22,RU,Russian Federation,Vainakh Telecom,,Operational
+1942,250,23,RU,Russian Federation,GTNT,Thuraya,Operational
+1943,250,26,RU,Russian Federation,VTB Mobile,VTB Mobile,Operational
+1944,250,27,RU,Russian Federation,Tattelecom,Letai,Operational
+1945,250,28,RU,Russian Federation,Beeline,Beeline,Not operational
+1946,250,29,RU,Russian Federation,Iridium Communications,Iridium,Operational
+1947,250,32,RU,Russian Federation,K-Telecom,Win Mobile,Operational
+1948,250,33,RU,Russian Federation,Sevtelekom,Sevmobile,Operational
+1949,250,34,RU,Russian Federation,Krymtelekom,Krymtelekom,Operational
+1950,250,35,RU,Russian Federation,EKATERINBURG-2000,MOTIV,Operational
+1951,250,38,RU,Russian Federation,Central Telecommunication Company,Tambov GSM,Not operational
+1952,250,39,RU,Russian Federation,ROSTELECOM,Rostelecom,Not operational
+1953,250,40,RU,Russian Federation,Voentelecom,VTC Mobile,Operational
+1954,250,44,RU,Russian Federation,Stavtelesot / North Caucasian GSM,,Not operational
+1955,250,45,RU,Russian Federation,PJSC New Mobile Communications,Gazprombank Mobile,Operational
+1956,250,50,RU,Russian Federation,Sberbank-Telecom,SberMobile,Operational
+1957,250,54,RU,Russian Federation,Tattelecom,TTK,Not operational
+1958,250,59,RU,Russian Federation,NetbyNet,WireFire,Operational
+1959,250,60,RU,Russian Federation,KTK Telecom,Volna mobile,Operational
+1960,250,61,RU,Russian Federation,Intertelecom,Intertelecom,Not operational
+1961,250,62,RU,Russian Federation,Tinkoff Mobile,Tinkoff Mobile,Operational
+1962,250,91,RU,Russian Federation,Sonic Duo CJSC,Sonic Duo,Not operational
+1963,250,92,RU,Russian Federation,Primtelefon,,Not operational
+1964,250,93,RU,Russian Federation,Telecom XXI,,Not operational
+1965,250,96,RU,Russian Federation,K-Telecom,+7Telecom,Operational
+1966,250,99,RU,Russian Federation,OJSC Vimpel-Communications,Beeline,Operational
+1967,250,811,RU,Russian Federation,Votek Mobile,,Not operational
+1968,635,10,RW,Rwanda,MTN Rwandacell SARL,MTN,Operational
+1969,635,11,RW,Rwanda,Rwandatel S.A.,Rwandatel,Not operational
+1970,635,12,RW,Rwanda,Rwandatel S.A.,Rwandatel,Not operational
+1971,635,13,RW,Rwanda,Airtel RWANDA,Airtel,Operational
+1972,635,14,RW,Rwanda,Airtel RWANDA,Airtel,Not operational
+1973,635,17,RW,Rwanda,Olleh Rwanda Networks,Olleh,Operational
+1974,658,01,SH,"Saint Helena, Ascension and Tristan da Cunha",Sure South Atlantic Ltd.,Sure,Operational
+1975,356,050,KN,Saint Kitts and Nevis,Wireless Ventures (St Kitts-Nevis) Limited,Digicel,Operational
+1976,356,070,KN,Saint Kitts and Nevis,UTS,FLOW,Operational
+1977,356,110,KN,Saint Kitts and Nevis,Cable & Wireless St. Kitts & Nevis Ltd,FLOW,Operational
+1978,358,05,LC,Saint Lucia,Digicel,Digicel,Operational
+1979,358,110,LC,Saint Lucia,Cable &  Wireless,FLOW,Operational
+1980,308,01,PM,Saint Pierre and Miquelon,St. Pierre-et-Miquelon Télécom,Ameris,Operational
+1981,308,02,PM,Saint Pierre and Miquelon,GLOBALTEL,GLOBALTEL,Operational
+1982,308,03,PM,Saint Pierre and Miquelon,St. Pierre-et-Miquelon Télécom,Ameris,Unknown
+1983,360,050,VC,Saint Vincent and the Grenadines,Digicel (St. Vincent and the Grenadines) Limited,Digicel,Operational
+1984,360,100,VC,Saint Vincent and the Grenadines,,Cingular Wireless,Unknown
+1985,360,110,VC,Saint Vincent and the Grenadines,Cable & Wireless (St. Vincent & the Grenadines) Ltd,FLOW,Operational
+1986,549,00,WS,Samoa,Digicel Pacific Ltd.,Digicel,Unknown
+1987,549,01,WS,Samoa,Digicel Pacific Ltd.,Digicel,Operational
+1988,549,27,WS,Samoa,Vodafone Samoa Ltd.,Vodafone,Operational
+1989,292,01,SM,San Marino,San Marino Telecom,PRIMA,Operational
+1990,626,01,ST,São Tomé and Príncipe,Companhia Santomese de Telecomunicaçôe,CSTmovel,Operational
+1991,626,02,ST,São Tomé and Príncipe,Unitel Sao Tome and Principe,Unitel STP,Operational
+1992,420,01,SA,Saudi Arabia,Saudi Telecom Company,Al Jawal (STC ),Operational
+1993,420,03,SA,Saudi Arabia,Etihad Etisalat Company,Mobily,Operational
+1994,420,04,SA,Saudi Arabia,Zain Saudi Arabia,Zain,Operational
+1995,420,05,SA,Saudi Arabia,Virgin Mobile Saudi Arabia,Virgin Mobile,Operational
+1996,420,06,SA,Saudi Arabia,Lebara Mobile,Lebara Mobile,Operational
+1997,420,21,SA,Saudi Arabia,Saudi Railways GSM,RGSM,Operational
+1998,608,01,SN,Senegal,Sonatel,Orange,Operational
+1999,608,02,SN,Senegal,Saga Africa Holdings Limited,Free,Operational
+2000,608,03,SN,Senegal,Expresso Telecom,Expresso,Operational
+2001,608,04,SN,Senegal,CSU-SA,,Unknown
+2002,220,01,RS,Serbia,Telenor Serbia,Yettel,Operational
+2003,220,02,RS,Serbia,Telenor Montenegro,One,Not operational
+2004,220,03,RS,Serbia,Telekom Srbija,mt:s,Operational
+2005,220,04,RS,Serbia,T-Mobile Montenegro LLC,T-Mobile CG,Not operational
+2006,220,05,RS,Serbia,A1 Srbija,A1 SRB,Operational
+2007,220,07,RS,Serbia,Orion Telekom,Orion,Unknown
+2008,220,09,RS,Serbia,MUNDIO MOBILE d.o.o.,Vectone Mobile,Not operational
+2009,220,11,RS,Serbia,GLOBALTEL d.o.o.,Globaltel,Operational
+2010,220,20,RS,Serbia,Vip Mobile,Vip,Unknown
+2011,220,21,RS,Serbia,Infrastruktura železnice Srbije a.d.,,Unknown
+2012,633,01,SC,Seychelles,Cable & Wireless Seychelles,Cable & Wireless,Operational
+2013,633,02,SC,Seychelles,Mediatech International,Mediatech,Not operational
+2014,633,05,SC,Seychelles,Intelvision Ltd,,Unknown
+2015,633,10,SC,Seychelles,Telecom Seychelles Ltd,Airtel,Operational
+2016,619,01,SL,Sierra Leone,Orange SL Limited,Orange,Operational
+2017,619,02,SL,Sierra Leone,Lintel Sierra Leone Limited,Africell,Unknown
+2018,619,03,SL,Sierra Leone,Lintel Sierra Leone Limited,Africell,Operational
+2019,619,04,SL,Sierra Leone,Comium (Sierra Leone) Ltd.,Comium,Not operational
+2020,619,05,SL,Sierra Leone,Lintel Sierra Leone Limited,Africell,Operational
+2021,619,06,SL,Sierra Leone,Sierra Leone Telephony,SierraTel,Operational
+2022,619,07,SL,Sierra Leone,Qcell Sierra Leone,,Unknown
+2023,619,09,SL,Sierra Leone,InterGroup Telecom SL,Smart Mobile,Operational
+2024,619,25,SL,Sierra Leone,Mobitel,Mobitel,Reserved
+2025,619,40,SL,Sierra Leone,Datatel (SL) Ltd.,,Unknown
+2026,619,50,SL,Sierra Leone,Datatel (SL) Ltd.,,Unknown
+2027,525,01,SG,Singapore,Singapore Telecom,SingTel,Operational
+2028,525,02,SG,Singapore,Singapore Telecom,SingTel-G18,Not operational
+2029,525,03,SG,Singapore,M1 Limited,M1,Operational
+2030,525,05,SG,Singapore,StarHub Mobile,StarHub,Operational
+2031,525,06,SG,Singapore,StarHub Mobile,StarHub,Unknown
+2032,525,07,SG,Singapore,Singapore Telecom,SingTel,Unknown
+2033,525,08,SG,Singapore,StarHub Mobile,StarHub,Unknown
+2034,525,09,SG,Singapore,Liberty Wireless Pte Ltd,Circles.Life,Operational
+2035,525,10,SG,Singapore,TPG Telecom Pte Ltd,TPG,Operational
+2036,525,11,SG,Singapore,M1 Limited,M1,Unknown
+2037,525,12,SG,Singapore,GRID Communications Pte Ltd.,Grid,Operational
+2038,231,01,SK,Slovakia,Orange Slovensko,Orange,Operational
+2039,231,02,SK,Slovakia,Slovak Telekom,Telekom,Operational
+2040,231,03,SK,Slovakia,"SWAN Mobile, a.s.",4ka,Operational
+2041,231,04,SK,Slovakia,Slovak Telekom,Telekom,Operational
+2042,231,05,SK,Slovakia,Orange Slovensko,Orange,Operational
+2043,231,06,SK,Slovakia,O2 Slovakia,O2,Operational
+2044,231,07,SK,Slovakia,Orange Slovensko,Orange,Unknown
+2045,231,08,SK,Slovakia,"Uniphone, s.r.o.",Unimobile,Testing
+2046,231,09,SK,Slovakia,"DSI DATA, a.s.",,Unknown
+2047,231,10,SK,Slovakia,"HMZ RÁDIOKOMUNIKÁCIE, spol. s r.o.",,Unknown
+2048,231,99,SK,Slovakia,Železnice Slovenskej Republiky,ŽSR,Operational
+2049,293,10,SI,Slovenia,"SŽ - Infrastruktura, d.o.o.",,Operational
+2050,293,11,SI,Slovenia,BeeIN d.o.o.,,Unknown
+2051,293,20,SI,Slovenia,COMPATEL Ltd,,Unknown
+2052,293,21,SI,Slovenia,NOVATEL d.o.o.,,Unknown
+2053,293,40,SI,Slovenia,A1 Slovenija,A1 SI,Operational
+2054,293,41,SI,Slovenia,Telekom Slovenije,Mobitel,Operational
+2055,293,64,SI,Slovenia,T-2 d.o.o.,T-2,Operational
+2056,293,70,SI,Slovenia,Tušmobil d.o.o.,Telemach,Operational
+2057,293,86,SI,Slovenia,"ELEKTRO GORENJSKA, d.d",,Unknown
+2058,540,01,SB,Solomon Islands,Our Telekom,BREEZE,Operational
+2059,540,02,SB,Solomon Islands,BMobile (SI) Ltd,BeMobile,Operational
+2060,637,01,SO,Somalia,Telesom,Telesom,Operational
+2061,637,04,SO,Somalia,Somafone FZLLC,Somafone,Operational
+2062,637,10,SO,Somalia,NationLink Telecom,Nationlink,Operational
+2063,637,20,SO,Somalia,SOMNET,SOMNET,Operational
+2064,637,50,SO,Somalia,Hormuud Telecom Somalia Inc,Hormuud,Operational
+2065,637,30,SO,Somalia,Golis Telecom Somalia,Golis,Operational
+2066,637,57,SO,Somalia,UNITEL S.a.r.l.,UNITEL,Operational
+2067,637,60,SO,Somalia,Nationlink Telecom,Nationlink,Operational
+2068,637,67,SO,Somalia,HTG Group Somalia,Horntel Group,Operational
+2069,637,70,SO,Somalia,Onkod Telecom Ltd.,,Not operational
+2070,637,71,SO,Somalia,Somtel,Somtel,Operational
+2071,637,82,SO,Somalia,Telcom Somalia,Telcom,Operational
+2072,655,01,ZA,South Africa,Vodacom,Vodacom,Operational
+2073,655,02,ZA,South Africa,Telkom SA SOC Ltd,Telkom,Operational
+2074,655,03,ZA,South Africa,Telkom SA SOC Ltd,Telkom,Unknown
+2075,655,04,ZA,South Africa,Sasol (Pty) Ltd.,,Not operational
+2076,655,05,ZA,South Africa,Telkom SA,,Unknown
+2077,655,06,ZA,South Africa,Sentech (Pty) Ltd,,Operational
+2078,655,07,ZA,South Africa,Cell C (Pty) Ltd,Cell C,Operational
+2079,655,10,ZA,South Africa,MTN Group,MTN,Operational
+2080,655,11,ZA,South Africa,South African Police Service,,Not operational
+2081,655,12,ZA,South Africa,MTN Group,MTN,Unknown
+2082,655,13,ZA,South Africa,Neotel Pty Ltd,Neotel,Not operational
+2083,655,14,ZA,South Africa,Neotel Pty Ltd,Neotel,Operational
+2084,655,16,ZA,South Africa,Phoenix System Integration (Pty) Ltd,,Not operational
+2085,655,17,ZA,South Africa,Sishen Iron Ore Company (Ltd) Pty,,Not operational
+2086,655,19,ZA,South Africa,Wireless Business Solutions (Pty) Ltd,Rain,Operational
+2087,655,21,ZA,South Africa,Cape Town Metropolitan Council,,Not operational
+2088,655,24,ZA,South Africa,SMSPortal (Pty) Ltd.,,Unknown
+2089,655,25,ZA,South Africa,Wirels Connect,,Unknown
+2090,655,27,ZA,South Africa,A to Z Vaal Industrial Supplies Pty Ltd,,Unknown
+2091,655,28,ZA,South Africa,Hymax Talking Solutions (Pty) Ltd,,Unknown
+2092,655,30,ZA,South Africa,Bokamoso Consortium,,Operational
+2093,655,31,ZA,South Africa,Karabo Telecoms (Pty) Ltd.,,Operational
+2094,655,32,ZA,South Africa,Ilizwi Telecommunications,,Operational
+2095,655,33,ZA,South Africa,Thinta Thinta Telecommunications Pty Ltd,,Operational
+2096,655,34,ZA,South Africa,Bokone Telecoms Pty Ltd,,Unknown
+2097,655,35,ZA,South Africa,Kingdom Communications Pty Ltd,,Unknown
+2098,655,36,ZA,South Africa,Amatole Telecommunications Pty Ltd,,Unknown
+2099,655,38,ZA,South Africa,Wireless Business Solutions (Pty) Ltd,iBurst,Unknown
+2100,655,41,ZA,South Africa,South African Police Service,,Not operational
+2101,655,46,ZA,South Africa,SMS Cellular Services (Pty) Ltd,,Operational
+2102,655,50,ZA,South Africa,Ericsson South Africa (Pty) Ltd,,Unknown
+2103,655,51,ZA,South Africa,Integrat (Pty) Ltd,,Unknown
+2104,655,53,ZA,South Africa,Lycamobile (Pty) Ltd,Lycamobile,Unknown
+2105,655,65,ZA,South Africa,Vodacom Pty Ltd,,Unknown
+2106,655,73,ZA,South Africa,Wireless Business Solutions (Pty) Ltd,iBurst,Unknown
+2107,655,74,ZA,South Africa,Wireless Business Solutions (Pty) Ltd,iBurst,Unknown
+2108,655,75,ZA,South Africa,Airports Company South Africa,ACSA,Not operational
+2109,655,76,ZA,South Africa,Comsol Networks (Pty) Ltd,,Operational
+2110,655,77,ZA,South Africa,One Telecom (Pty) Ltd,Umoja Connect,Unknown
+2111,659,02,SS,South Sudan,MTN South Sudan,MTN,Operational
+2112,659,03,SS,South Sudan,Gemtel,Gemtel,Operational
+2113,659,04,SS,South Sudan,Network of the World (NOW),Vivacell,Not operational
+2114,659,06,SS,South Sudan,Zain South Sudan,Zain,Operational
+2115,659,07,SS,South Sudan,Sudani,Sudani,Operational
+2116,214,01,ES,Spain,Vodafone Spain,Vodafone,Operational
+2117,214,02,ES,Spain,Alta Tecnologia en Comunicacions SL,Altecom/Fibracat,Operational
+2118,214,03,ES,Spain,Orange Espagne S.A.U,Orange,Operational
+2119,214,04,ES,Spain,Xfera Moviles SA,Yoigo,Operational
+2120,214,05,ES,Spain,Telefónica Móviles España,Movistar,Operational
+2121,214,06,ES,Spain,Vodafone Spain,Vodafone,Operational
+2122,214,07,ES,Spain,Telefónica Móviles España,Movistar,Operational
+2123,214,08,ES,Spain,,Euskaltel,Operational
+2124,214,09,ES,Spain,Orange Espagne S.A.U,Orange,Operational
+2125,214,10,ES,Spain,"ZINNIA TELECOMUNICACIONES, S.L.U.",,Unknown
+2126,214,11,ES,Spain,"TELECOM CASTILLA-LA MANCHA, S.A.",,Unknown
+2127,214,12,ES,Spain,"VENUS MOVIL, S.L. UNIPERSONAL",,Unknown
+2128,214,13,ES,Spain,"SYMA MOBILE ESPAÑA, S.L.",,Unknown
+2129,214,14,ES,Spain,"AVATEL MÓVIL, S.L.U.",,Operational
+2130,214,15,ES,Spain,BT Group,BT,Not operational
+2131,214,16,ES,Spain,R Cable y Telecomunicaciones Galicia S.A.,TeleCable,Operational
+2132,214,17,ES,Spain,R Cable y Telecomunicaciones Galicia S.A.,Móbil R,Operational
+2133,214,18,ES,Spain,Vodafone Spain,ONO,Not operational
+2134,214,19,ES,Spain,Orange España Virtual Sl.,Simyo,Operational
+2135,214,20,ES,Spain,Fonyou Telecom S.L.,Fonyou,Not operational
+2136,214,21,ES,Spain,Orange Espagne S.A.U.,Jazztel,Operational
+2137,214,22,ES,Spain,Best Spain Telecom,DIGI mobil,Operational
+2138,214,23,ES,Spain,Xfera Moviles S.A.U.,,Unknown
+2139,214,24,ES,Spain,"VODAFONE ESPAÑA, S.A.U.",,Operational
+2140,214,25,ES,Spain,LycaMobile S.L.,Lycamobile,Operational
+2141,214,26,ES,Spain,"Lleida Networks Serveis Telemátics, SL",,Unknown
+2142,214,27,ES,Spain,"SCN Truphone, S.L.",Truphone,Operational
+2143,214,28,ES,Spain,"Consorcio de Telecomunicaciones Avanzadas, S.A.",Murcia4G,Operational
+2144,214,29,ES,Spain,Xfera Moviles S.A.U.,,Operational
+2145,214,30,ES,Spain,Compatel Limited,,Not operational
+2146,214,31,ES,Spain,"Red Digital De Telecomunicaciones de las Islas Baleares, S.L.",,Unknown
+2147,214,32,ES,Spain,Telefónica Móviles España,Tuenti,Not operational
+2148,214,33,ES,Spain,"Xfera Móviles, S.A.U.",,Unknown
+2149,214,34,ES,Spain,"Aire Networks del Mediterráneo, S.L.U.",,Operational
+2150,214,35,ES,Spain,"INGENIUM OUTSOURCING SERVICES, S.L.",,Unknown
+2151,214,36,ES,Spain,"ALAI OPERADOR DE TELECOMUNICACIONES, S.L",,Unknown
+2152,214,37,ES,Spain,Vodafone Spain,,Unknown
+2153,214,38,ES,Spain,"Telefónica Móviles España, S.A.U.",,Unknown
+2154,214,51,ES,Spain,Administrador de Infraestructuras Ferroviarias,ADIF,Operational
+2155,413,01,LK,Sri Lanka,Mobitel (Pvt) Ltd,SLTMobitel,Operational
+2156,413,02,LK,Sri Lanka,Dialog Axiata PLC,Dialog,Operational
+2157,413,03,LK,Sri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd,Hutch,Not operational
+2158,413,04,LK,Sri Lanka,Lanka Bell Ltd,Lanka Bell,Operational
+2159,413,05,LK,Sri Lanka,Bharti Airtel Lanka (Pvt) Ltd,Airtel,Operational
+2160,413,08,LK,Sri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd,Hutch,Operational
+2161,413,09,LK,Sri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd,Hutch,Not operational
+2162,413,11,LK,Sri Lanka,Dialog Broadband Networks (Pvt) Ltd,Dialog,Operational
+2163,413,12,LK,Sri Lanka,Sri Lanka Telecom PLC,SLTMobitel,Operational
+2164,634,01,SD,Sudan,Zain Group - Sudan,Zain,Operational
+2165,634,02,SD,Sudan,MTN Sudan,MTN,Operational
+2166,634,03,SD,Sudan,MTN Sudan,MTN,Unknown
+2167,634,05,SD,Sudan,Canar Telecom,canar,Operational
+2168,634,07,SD,Sudan,Sudatel Group,Sudani One,Operational
+2169,634,09,SD,Sudan,NEC,khartoum INC,operational
+2170,746,02,SR,Suriname,Telecommunications Company Suriname (Telesur),Telesur,Operational
+2171,746,03,SR,Suriname,Digicel Group Limited,Digicel,Operational
+2172,746,04,SR,Suriname,Digicel Group Limited,Digicel,Not operational
+2173,746,05,SR,Suriname,Telecommunications Company Suriname (Telesur),Telesur,Unknown
+2174,653,01,SZ,Swaziland,SPTC,,Unknown
+2175,653,02,SZ,Swaziland,Eswatini Mobile Limited,,Operational
+2176,653,10,SZ,Swaziland,MTN Eswatini Limited,MTN Eswatini,Operational
+2177,240,01,SE,Sweden,Telia Sverige AB,Telia,Operational
+2178,240,02,SE,Sweden,HI3G Access AB,3,Operational
+2179,240,03,SE,Sweden,Teracom,Net 1,Operational
+2180,240,04,SE,Sweden,3G Infrastructure Services AB,SWEDEN,Operational
+2181,240,05,SE,Sweden,Svenska UMTS-Nät AB,Sweden 3G,Operational
+2182,240,06,SE,Sweden,Telenor Sverige AB,Telenor,Operational
+2183,240,07,SE,Sweden,Tele2 Sverige AB,Tele2,Operational
+2184,240,08,SE,Sweden,Telenor Sverige AB,Telenor,Not operational
+2185,240,09,SE,Sweden,Communication for Devices in Sweden AB,Com4,Unknown
+2186,240,10,SE,Sweden,Tele2 Sverige AB,Spring Mobil,Operational
+2187,240,11,SE,Sweden,ComHem AB,,Unknown
+2188,240,12,SE,Sweden,Lycamobile Sweden Limited,Lycamobile,Operational
+2189,240,13,SE,Sweden,A3 Företag AB,,Unknown
+2190,240,14,SE,Sweden,Tele2 Sverige AB,,Unknown
+2191,240,15,SE,Sweden,Sierra Wireless,,Unknown
+2192,240,16,SE,Sweden,42 Telecom AB,,Operational
+2193,240,17,SE,Sweden,Götalandsnätet AB,Gotanet,Operational
+2194,240,18,SE,Sweden,Generic Mobile Systems Sweden AB,,Unknown
+2195,240,19,SE,Sweden,Mundio Mobile (Sweden) Limited,Vectone Mobile,Operational
+2196,240,20,SE,Sweden,Sierra Wireless,,Operational
+2197,240,21,SE,Sweden,Trafikverket,MobiSir,Operational
+2198,240,22,SE,Sweden,EuTel AB,,Unknown
+2199,240,23,SE,Sweden,Infobip Limited (UK),,Not operational
+2200,240,24,SE,Sweden,Net4Mobility,Sweden 2G,Operational
+2201,240,25,SE,Sweden,Monty UK Global Ltd,,Unknown
+2202,240,26,SE,Sweden,Twilio Sweden AB,,Unknown
+2203,240,27,SE,Sweden,GlobeTouch AB,,Operational
+2204,240,28,SE,Sweden,LINK Mobile A/S,,Unknown
+2205,240,29,SE,Sweden,Mercury International Carrier Services,,Unknown
+2206,240,30,SE,Sweden,NextGen Mobile Ltd.,,Not operational
+2207,240,31,SE,Sweden,RebTel Network AB,,Unknown
+2208,240,32,SE,Sweden,Compatel Limited,,Unknown
+2209,240,33,SE,Sweden,Mobile Arts AB,,Unknown
+2210,240,34,SE,Sweden,Trafikverket,,Unknown
+2211,240,35,SE,Sweden,42 Telecom LTD,,Unknown
+2212,240,36,SE,Sweden,interactive digital media GmbH,,Unknown
+2213,240,37,SE,Sweden,Sinch Sweden AB,,Unknown
+2214,240,38,SE,Sweden,Voxbone mobile,Voxbone,Operational
+2215,240,39,SE,Sweden,Primlight AB,,Unknown
+2216,240,40,SE,Sweden,Netmore Group AB,,Unknown
+2217,240,41,SE,Sweden,Telenor,,Unknown
+2218,240,42,SE,Sweden,Telenor Connexion AB,,Unknown
+2219,240,43,SE,Sweden,MobiWeb Ltd.,,Unknown
+2220,240,44,SE,Sweden,Telenabler AB,,Unknown
+2221,240,45,SE,Sweden,Spirius AB,,Unknown
+2222,240,46,SE,Sweden,SMS Provider Corp.,Viahub,Unknown
+2223,240,47,SE,Sweden,Viatel Sweden AB,,Unknown
+2224,240,48,SE,Sweden,Tismi BV,,Unknown
+2225,240,49,SE,Sweden,Telia Sverige AB,,Unknown
+2226,240,60,SE,Sweden,Ericsson,,Not operational
+2227,240,61,SE,Sweden,MessageBird B.V.,,Not operational
+2228,240,63,SE,Sweden,Fink Telecom Services,FTS,Operational
+2229,228,01,CH,Switzerland,Swisscom AG,Swisscom,Operational
+2230,228,02,CH,Switzerland,Sunrise Communications AG,Sunrise,Operational
+2231,228,03,CH,Switzerland,Salt Mobile SA,Salt,Operational
+2232,228,05,CH,Switzerland,Comfone AG,,Not operational
+2233,228,06,CH,Switzerland,SBB AG,SBB-CFF-FFS,Operational
+2234,228,07,CH,Switzerland,IN&Phone SA,IN&Phone,Not operational
+2235,228,08,CH,Switzerland,Sunrise Communications AG,Tele4u,Operational
+2236,228,09,CH,Switzerland,Comfone AG,,Unknown
+2237,228,10,CH,Switzerland,Stadt Polizei Zürich,,Not operational
+2238,228,11,CH,Switzerland,Swisscom Broadcast AG,,Unknown
+2239,228,12,CH,Switzerland,Sunrise Communications AG,Sunrise,Not operational
+2240,228,50,CH,Switzerland,3G Mobile AG,,Not operational
+2241,228,51,CH,Switzerland,relario AG,,Operational
+2242,228,52,CH,Switzerland,Barablu,Barablu,Not operational
+2243,228,53,CH,Switzerland,Sunrise UPC GmbH,upc cablecom,Operational
+2244,228,54,CH,Switzerland,Lycamobile AG,Lycamobile,Operational
+2245,228,55,CH,Switzerland,WeMobile SA,,Unknown
+2246,228,56,CH,Switzerland,SMSRelay AG,,Not operational
+2247,228,57,CH,Switzerland,Mitto AG,,Unknown
+2248,228,58,CH,Switzerland,Beeone Communications SA,beeone,Operational
+2249,228,59,CH,Switzerland,Mundio Mobile Limited,Vectone,Unknown
+2250,228,60,CH,Switzerland,Sunrise Communications AG,Sunrise,Unknown
+2251,228,61,CH,Switzerland,Compatel Ltd.,,Not operational
+2252,228,62,CH,Switzerland,Telecom26 AG,,Operational
+2253,228,63,CH,Switzerland,Fink Telecom Services,FTS,Operational
+2254,228,64,CH,Switzerland,Nth AG,,Operational
+2255,228,65,CH,Switzerland,Nexphone AG,,Unknown
+2256,228,66,CH,Switzerland,Inovia Services SA,,Unknown
+2257,228,67,CH,Switzerland,Datatrade Managed AG,,Unknown
+2258,228,68,CH,Switzerland,Intellico AG,,Unknown
+2259,228,69,CH,Switzerland,MTEL Schweiz GmbH,,Unknown
+2260,228,70,CH,Switzerland,Tismi BV,,Unknown
+2261,228,98,CH,Switzerland,Etablissement Cantonal d'Assurance,,Unknown
+2262,228,99,CH,Switzerland,Swisscom Broadcast AG,,Not operational
+2263,417,01,SY,Syria,Syriatel Mobile Telecom,Syriatel,Operational
+2264,417,02,SY,Syria,MTN Syria,MTN,Operational
+2265,417,03,SY,Syria,Wafa Telecom,,Unknown
+2266,417,09,SY,Syria,Syrian Telecom,,Unknown
+2267,466,01,TW,Taiwan,Far EasTone Telecommunications Co Ltd,FarEasTone,Operational
+2268,466,02,TW,Taiwan,Far EasTone Telecommunications Co Ltd,FarEasTone,Not operational
+2269,466,03,TW,Taiwan,Far EasTone Telecommunications Co Ltd,FarEasTone,Not operational
+2270,466,05,TW,Taiwan,Asia Pacific Telecom,Gt,Operational
+2271,466,06,TW,Taiwan,Far EasTone Telecommunications Co Ltd,FarEasTone,Not operational
+2272,466,07,TW,Taiwan,Far EasTone Telecommunications Co Ltd,FarEasTone,Not operational
+2273,466,09,TW,Taiwan,Vmax Telecom,VMAX,Operational
+2274,466,10,TW,Taiwan,Global Mobile Corp.,G1,Operational
+2275,466,11,TW,Taiwan,Chunghwa Telecom,Chunghwa LDM,Not operational
+2276,466,12,TW,Taiwan,Ambit Microsystems,,Operational
+2277,466,56,TW,Taiwan,First International Telecom,FITEL,Not operational
+2278,466,68,TW,Taiwan,Tatung InfoComm,,Not operational
+2279,466,88,TW,Taiwan,Far EasTone Telecommunications Co Ltd,FarEasTone,Not operational
+2280,466,89,TW,Taiwan,Taiwan Star Telecom,T Star,Operational
+2281,466,90,TW,Taiwan,Taiwan Star Telecom,T Star,Unknown
+2282,466,92,TW,Taiwan,Chunghwa Telecom,Chunghwa,Operational
+2283,466,93,TW,Taiwan,Mobitai Communications,MobiTai,Not operational
+2284,466,97,TW,Taiwan,Taiwan Mobile Co. Ltd,Taiwan Mobile,Operational
+2285,466,99,TW,Taiwan,TransAsia Telecoms,TransAsia,Not operational
+2286,436,01,TJ,Tajikistan,JV Somoncom,Tcell,Operational
+2287,436,02,TJ,Tajikistan,Indigo Tajikistan,Tcell,Operational
+2288,436,03,TJ,Tajikistan,TT Mobile,MegaFon,Operational
+2289,436,04,TJ,Tajikistan,Babilon-Mobile,Babilon-M,Operational
+2290,436,05,TJ,Tajikistan,Tacom,ZET-Mobile,Operational
+2291,436,10,TJ,Tajikistan,Babilon-T,Babilon-T,Operational
+2292,436,12,TJ,Tajikistan,Indigo,Tcell,Unknown
+2293,640,01,TZ,Tanzania,Shared Network Tanzania Limited,,Not operational
+2294,640,02,TZ,Tanzania,MIC Tanzania Limited,tiGO,Operational
+2295,640,03,TZ,Tanzania,Zanzibar Telecom Ltd,Zantel,Operational
+2296,640,04,TZ,Tanzania,Vodacom Tanzania,Vodacom,Operational
+2297,640,05,TZ,Tanzania,Bharti Airtel,Airtel,Operational
+2298,640,06,TZ,Tanzania,Dovetel Limited,Sasatel (Dovetel),Not operational
+2299,640,07,TZ,Tanzania,Tanzania Telecommunication Company LTD (TTCL),TTCL Mobile,Operational
+2300,640,08,TZ,Tanzania,Benson Informatics Limited,Smart,Not operational
+2301,640,09,TZ,Tanzania,Viettel,Halotel,Operational
+2302,640,11,TZ,Tanzania,Smile Telecoms Holdings Ltd. ,SmileCom,Operational
+2303,640,12,TZ,Tanzania,MyCell Limited,,Not operational
+2304,640,13,TZ,Tanzania,Wiafrica Tanzania Limited,Cootel,Unknown
+2305,640,14,TZ,Tanzania,MO Mobile Holding Limited,,Unknown
+2306,520,00,TH,Thailand,National Telecom Public Company Limited,TrueMove H / my by NT,Operational
+2307,520,01,TH,Thailand,Advanced Info Service,AIS,Operational
+2308,520,02,TH,Thailand,CAT Telecom,CAT CDMA,Not operational
+2309,520,03,TH,Thailand,Advanced Wireless Network Company Ltd.,AIS,Operational
+2310,520,04,TH,Thailand,True Move H Universal Communication Company Ltd.,TrueMove H,Operational
+2311,520,05,TH,Thailand,DTAC,dtac,Operational
+2312,520,09,TH,Thailand,Royal Thai Police,,Operational
+2313,520,15,TH,Thailand,National Telecom Public Company Limited,AIS-T / NT Mobile,Operational
+2314,520,17,TH,Thailand,National Telecom Public Company Limited,NT Mobile,Operational
+2315,520,18,TH,Thailand,Total Access Communications Public Company Ltd.,dtac,Operational
+2316,520,20,TH,Thailand,ACeS,ACeS,Unknown
+2317,520,23,TH,Thailand,Digital Phone Company Ltd.,AIS GSM 1800,Not operational
+2318,520,25,TH,Thailand,True Corporation,WE PCT,Not operational
+2319,520,47,TH,Thailand,National Telecom Public Company Limited,dtac-T,Operational
+2320,520,99,TH,Thailand,True Corporation,TrueMove,Operational
+2321,615,01,TG,Togo,Togo Telecom,Togo Cell,Operational
+2322,615,03,TG,Togo,Moov Togo,Moov,Operational
+2323,554,01,TK,Tokelau,Teletok,,Operational
+2324,539,01,TO,Tonga,Tonga Communications Corporation,U-Call,Operational
+2325,539,43,TO,Tonga,Shoreline Communication,,Operational
+2326,539,88,TO,Tonga,Digicel (Tonga) Limited,Digicel,Operational
+2327,374,01,TT,Trinidad and Tobago,TSTT,bmobile,Not operational
+2328,374,12,TT,Trinidad and Tobago,TSTT,bmobile,Operational
+2329,374,13,TT,Trinidad and Tobago,Digicel (Trinidad & Tobago) Limited,Digicel,Not operational
+2330,374,20,TT,Trinidad and Tobago,TSTT,bmobile,Not operational
+2331,374,120,TT,Trinidad and Tobago,TSTT,bmobile,Not operational
+2332,374,129,TT,Trinidad and Tobago,TSTT,bmobile,Not operational
+2333,374,130,TT,Trinidad and Tobago,Digicel (Trinidad & Tobago) Limited,Digicel,Operational
+2334,374,140,TT,Trinidad and Tobago,LaqTel Ltd.,Laqtel,Not operational
+2335,605,01,TN,Tunisia,Orange Tunisie,Orange,Operational
+2336,605,02,TN,Tunisia,Tunisie Telecom,Tunicell,Operational
+2337,605,03,TN,Tunisia,Ooredoo Tunisiana,Ooredoo,Operational
+2338,286,01,TR,Turkey,Turkcell Iletisim Hizmetleri A.S.,Turkcell,Operational
+2339,286,02,TR,Turkey,Vodafone Turkey,Vodafone,Operational
+2340,286,03,TR,Turkey,Türk Telekom,Türk Telekom,Operational
+2341,286,04,TR,Turkey,Aycell,Aycell,Not operational
+2342,438,01,TM,Turkmenistan,MTS Turkmenistan,MTS,Not operational
+2343,438,02,TM,Turkmenistan,Altyn Asyr,TM-Cell,Operational
+2344,438,03,TM,Turkmenistan,AŞTU,AGTS CDMA,Operational
+2345,376,050,TC,Turks and Caicos Islands,Digicel (Turks & Caicos) Limited,Digicel,Operational
+2346,376,350,TC,Turks and Caicos Islands,Cable & Wireless West Indies Ltd (Turks & Caicos),FLOW,Operational
+2347,376,351,TC,Turks and Caicos Islands,Digicel (Turks & Caicos) Limited,Digicel,Not operational
+2348,376,352,TC,Turks and Caicos Islands,Cable & Wireless West Indies Ltd (Turks & Caicos),FLOW,Not operational
+2349,376,360,TC,Turks and Caicos Islands,Digicel (Turks & Caicos) Limited,Digicel,Unknown
+2350,553,01,TV,Tuvalu,Tuvalu Telecom,TTC,Operational
+2351,641,01,UG,Uganda,Bharti Airtel,Airtel,Operational
+2352,641,04,UG,Uganda,Tangerine Uganda Limited,,Operational
+2353,641,06,UG,Uganda,Afrimax Uganda,Vodafone,Not operational
+2354,641,10,UG,Uganda,MTN Uganda,MTN,Operational
+2355,641,11,UG,Uganda,Uganda Telecom Ltd.,Uganda Telecom,Operational
+2356,641,14,UG,Uganda,Africell Uganda,Africell,Operational
+2357,641,16,UG,Uganda,SimbaNET Uganda Limited,,Unknown
+2358,641,18,UG,Uganda,Suretelecom Uganda Ltd.,Smart,Not operational
+2359,641,20,UG,Uganda,Hamilton Telecom Limited,,Not operational
+2360,641,22,UG,Uganda,Bharti Airtel,Airtel,Operational
+2361,641,26,UG,Uganda,Lycamobile Network Services Uganda Limited,Lycamobile,Not operational
+2362,641,30,UG,Uganda,Anupam Global Soft Uganda Limited,,Not operational
+2363,641,33,UG,Uganda,Smile Communications Uganda Limited,Smile,Operational
+2364,641,40,UG,Uganda,Civil Aviation Authority (CAA),,Unknown
+2365,641,44,UG,Uganda,K2 Telecom Ltd,K2,Operational
+2366,641,66,UG,Uganda,i-Tel Ltd,i-Tel,Not operational
+2367,255,01,UA,Ukraine,"PRJSC “VF Ukraine""",Vodafone,Operational
+2368,255,02,UA,Ukraine,"PRJSC “Kyivstar""",Kyivstar,Operational
+2369,255,03,UA,Ukraine,"PRJSC “Kyivstar""",Kyivstar,Operational
+2370,255,04,UA,Ukraine,Intertelecom LLC,Intertelecom,Operational
+2371,255,05,UA,Ukraine,"PRJSC “Kyivstar""",Kyivstar,Not operational
+2372,255,06,UA,Ukraine,lifecell LLC,lifecell,Operational
+2373,255,07,UA,Ukraine,Trimob LLC,3Mob,Operational
+2374,255,08,UA,Ukraine,Ukrtelecom,,Not operational
+2375,255,09,UA,Ukraine,"PRJSC ""Farlep-Invest""",,Not operational
+2376,255,10,UA,Ukraine,Atlantis Telecom LLC,,Unknown
+2377,255,21,UA,Ukraine,"PRJSC “Telesystems of Ukraine""",PEOPLEnet,Operational
+2378,255,23,UA,Ukraine,Intertelecom LLC,CDMA Ukraine,Not operational
+2379,255,25,UA,Ukraine,"PRJSC “Telesystems of Ukraine""",NEWTONE,Not operational
+2380,255,99,UA,Ukraine,Phoenix,Phoenix,Operational
+2381,424,02,AE,United Arab Emirates,Emirates Telecom Corp,Etisalat,Operational
+2382,424,03,AE,United Arab Emirates,Emirates Integrated Telecommunications Company,du,Operational
+2383,430,,AE,United Arab Emirates,,,
+2384,431,,AE,United Arab Emirates,,,
+2385,234,18,GB,United Kingdom,Cloud 9 Mobile Communications PLC,Cloud 9 Mobile,Not operational
+2386,234,36,GB,United Kingdom,Sure Isle of Man Ltd.,Sure Mobile,Operational
+2387,234,58,GB,United Kingdom,Manx Telecom,Pronto GSM,Operational
+2388,234,73,GB,United Kingdom,Bluewave Communications Ltd.,,Operational
+2389,310,032,US,United States of America,"IT&E Overseas, Inc",IT&E Wireless,Operational
+2390,310,033,US,United States of America,Guam Telephone Authority,,Unknown
+2391,310,140,US,United States of America,"Teleguam Holdings, LLC",GTA Wireless,Operational
+2392,310,370,US,United States of America,DoCoMo Pacific,Docomo,Operational
+2393,310,400,US,United States of America,"IT&E Overseas, Inc",IT&E Wireless,Operational
+2394,310,470,US,United States of America,DoCoMo Pacific,Docomo,Unknown
+2395,310,480,US,United States of America,"IT&E Overseas, Inc",IT&E Wireless,Operational
+2396,310,120,US,United States of America,"IT&E Overseas, Inc",IT&E Wireless,Operational
+2397,310,250,US,United States of America,"IT&E Overseas, Inc",IT&E Wireless,Operational
+2398,332,120,VI,United States Virgin Islands,T-Mobile US,,Operational
+2399,332,260,VI,United States Virgin Islands,T-Mobile US,T-Mobile,Operational
+2400,332,410,VI,United States Virgin Islands,Liberty,AT&T,Operational
+2401,332,470,VI,United States Virgin Islands,Vitelcom Cellular Inc.,Viya,Operational
+2402,748,00,UY,Uruguay,Administración Nacional de Telecomunicaciones,Antel,Not operational
+2403,748,01,UY,Uruguay,Administración Nacional de Telecomunicaciones,Antel,Operational
+2404,748,03,UY,Uruguay,Administración Nacional de Telecomunicaciones,Antel,Not operational
+2405,748,07,UY,Uruguay,Telefónica Móviles Uruguay,Movistar,Operational
+2406,748,10,UY,Uruguay,AM Wireless Uruguay S.A.,Claro,Operational
+2407,434,01,UZ,Uzbekistan,Buztel,,Not operational
+2408,434,02,UZ,Uzbekistan,Uzmacom,,Not operational
+2409,434,03,UZ,Uzbekistan,Uzbektelekom,UzMobile,Operational
+2410,434,04,UZ,Uzbekistan,Unitel LLC,Beeline,Operational
+2411,434,05,UZ,Uzbekistan,Coscom,Ucell,Operational
+2412,434,06,UZ,Uzbekistan,RUBICON WIRELESS COMMUNICATION,Perfectum Mobile,Operational
+2413,434,07,UZ,Uzbekistan,Universal Mobile Systems,Mobiuz,Operational
+2414,434,08,UZ,Uzbekistan,Uzbektelekom,UzMobile,Operational
+2415,434,09,UZ,Uzbekistan,OOO «Super iMAX»,EVO,Operational
+2416,541,00,VU,Vanuatu,ACeS International (AIL),AIL,Operational
+2417,541,01,VU,Vanuatu,Telecom Vanuatu Ltd,SMILE,Operational
+2418,541,05,VU,Vanuatu,Digicel Vanuatu Ltd,Digicel,Operational
+2419,541,07,VU,Vanuatu,WanTok Vanuatu Ltd,WanTok,Operational
+2420,734,01,VE,Venezuela,Corporacion Digitel C.A.,Digitel,Not operational
+2421,734,02,VE,Venezuela,Corporacion Digitel C.A.,Digitel GSM,Operational
+2422,734,03,VE,Venezuela,Galaxy Entertainment de Venezuela C.A.,DirecTV,Unknown
+2423,734,04,VE,Venezuela,Telefónica Móviles Venezuela,Movistar,Operational
+2424,734,06,VE,Venezuela,Telecomunicaciones Movilnet,Movilnet,Operational
+2425,452,01,VN,Vietnam,Vietnam Mobile Telecom Services Company,MobiFone,Operational
+2426,452,02,VN,Vietnam,Vietnam Telecom Services Company,Vinaphone,Operational
+2427,452,03,VN,Vietnam,S-Telecom,S-Fone,Not operational
+2428,452,04,VN,Vietnam,Viettel Telecom,Viettel Mobile,Operational
+2429,452,05,VN,Vietnam,Hanoi Telecom,Vietnamobile,Operational
+2430,452,06,VN,Vietnam,EVN Telecom,EVNTelecom,Not operational
+2431,452,07,VN,Vietnam,GTEL Mobile JSC,Gmobile,Operational
+2432,452,08,VN,Vietnam,Indochina Telecom,I-Telecom,Operational
+2433,452,09,VN,Vietnam,MOBICAST JSC,REDDI,Operational
+2434,543,01,WF,Wallis and Futuna,Service des Postes et Télécommunications des Îles Wallis et Futuna (SPT),Manuia,Operational
+2435,421,01,YE,Yemen,,SabaFon,Operational
+2436,421,02,YE,Yemen,Spacetel Yemen,MTN,Operational
+2437,421,03,YE,Yemen,Yemen Mobile,Yemen Mobile,Operational
+2438,421,04,YE,Yemen,HiTS-UNITEL,Y,Operational
+2439,645,01,ZM,Zambia,Bharti Airtel,Airtel,Operational
+2440,645,02,ZM,Zambia,MTN Group,MTN,Operational
+2441,645,03,ZM,Zambia,Zambia Telecommunications Company Ltd,ZAMTEL,Operational
+2442,645,07,ZM,Zambia,Liquid Telecom Zambia Limited,,Unknown
+2443,648,01,ZW,Zimbabwe,Net*One Cellular (Pvt) Ltd,Net*One,Operational
+2444,648,03,ZW,Zimbabwe,Telecel Zimbabwe (PVT) Ltd,Telecel,Operational
+2445,648,04,ZW,Zimbabwe,Econet Wireless,Econet,Operational
+2446,901,01,,International operators,ICO Satellite Management,ICO,Not operational
+2447,901,02,,International operators,Unassigned,,Returned spare
+2448,901,03,,International operators,,Iridium,Operational
+2449,901,04,,International operators,Unassigned,,Returned spare
+2450,901,05,,International operators,Thuraya RMSS Network,,Operational
+2451,901,06,,International operators,Thuraya Satellite Telecommunications Company,,Operational
+2452,901,07,,International operators,Unassigned,,Returned spare
+2453,901,08,,International operators,Unassigned,,Returned spare
+2454,901,09,,International operators,Unassigned,,Returned spare
+2455,901,10,,International operators,,ACeS,Not operational
+2456,901,11,,International operators,,Inmarsat,Operational
+2457,901,12,,International operators,Telenor Maritime AS,Telenor,Operational
+2458,901,13,,International operators,BebbiCell AG,GSM.AQ,Operational
+2459,901,14,,International operators,AeroMobile AS,AeroMobile,Operational
+2460,901,15,,International operators,OnAir Switzerland Sarl,OnAir,Operational
+2461,901,16,,International operators,"Cisco Systems, Inc.",Cisco Jasper,Operational
+2462,901,17,,International operators,JT Group Limited,Navitas,Not operational
+2463,901,18,,International operators,AT&T Mobility,Cellular @Sea,Operational
+2464,901,19,,International operators,Monaco Telecom,Epic Maritime,Operational
+2465,901,20,,International operators,Intermatica,,Unknown
+2466,901,21,,International operators,Wins Limited,,Operational
+2467,901,22,,International operators,MediaLincc Ltd,,Unknown
+2468,901,23,,International operators,Unassigned,,Returned spare
+2469,901,24,,International operators,Voxbone,iNum,Unknown
+2470,901,25,,International operators,Unassigned,,Returned spare
+2471,901,26,,International operators,Telecom Italia Mobile,TIM@sea,Operational
+2472,901,27,,International operators,Monaco Telecom,OnMarine,Operational
+2473,901,28,,International operators,GDSP (Vodafone's Global Data Service Platform),Vodafone,Operational
+2474,901,29,,International operators,,Telenor,Not operational
+2475,901,30,,International operators,Unassigned,,Returned spare
+2476,901,31,,International operators,Orange S.A.,Orange,Operational
+2477,901,32,,International operators,MegaFon,Sky High,Operational
+2478,901,33,,International operators,Smart Communications,,Not operational
+2479,901,34,,International operators,tyntec GmbH,,Unknown
+2480,901,35,,International operators,Globecomm Network Services,,Operational
+2481,901,36,,International operators,Azerfon,,Operational
+2482,901,37,,International operators,Transatel,,Operational
+2483,901,38,,International operators,Multiregional TransitTelecom (MTT),,Operational
+2484,901,39,,International operators,MTX Connect Ltd,,Operational
+2485,901,40,,International operators,Deutsche Telekom AG,1NCE,Operational
+2486,901,41,,International operators,One Network B.V.,,Operational
+2487,901,42,,International operators,DCN Hub ehf,,Unknown
+2488,901,43,,International operators,EMnify GmbH,,Operational
+2489,901,44,,International operators,AT&T Inc.,,Unknown
+2490,901,45,,International operators,Advanced Wireless Network Company Limited,,Unknown
+2491,901,46,,International operators,Telecom26 AG,,Operational
+2492,901,47,,International operators,Ooredoo,,Not operational
+2493,901,48,,International operators,Communication for Devices in Sweden AB,Com4,Unknown
+2494,901,49,,International operators,Mobile Telecommunications Company K.S.C.P.,Zain,Unknown
+2495,901,50,,International operators,EchoStar Mobile,,Unknown
+2496,901,51,,International operators,VisionNG,,Not operational
+2497,901,52,,International operators,Manx Telecom Trading Ltd.,,Unknown
+2498,901,53,,International operators,Inmarsat Ltd.,European Aviation Network,Operational
+2499,901,54,,International operators,Teleena Holding B.V.,,Unknown
+2500,901,55,,International operators,Beezz Communication Solutions Ltd.,,Unknown
+2501,901,56,,International operators,European Telecommunications Standards Institute,ETSI,Unknown
+2502,901,57,,International operators,SAP,,Not operational
+2503,901,58,,International operators,Belgacom ICS SA,BICS,Unknown
+2504,901,59,,International operators,MessageBird B.V.,,Unknown
+2505,901,60,,International operators,OneWeb,,Unknown
+2506,901,61,,International operators,MTN Management Services,,Unknown
+2507,901,62,,International operators,Twilio Inc.,,Operational
+2508,901,63,,International operators,GloTel B.V.,,Not operational
+2509,901,64,,International operators,"Syniverse Technologies, LLC",,Unknown
+2510,901,65,,International operators,Plintron Global Technology Solutions Pty Ltd,,Unknown
+2511,901,66,,International operators,Limitless Mobile LLC,,Operational
+2512,901,67,,International operators,1NCE GmbH,,Operational
+2513,901,68,,International operators,Maersk Line A/S,,Unknown
+2514,901,69,,International operators,Legos,,Unknown
+2515,901,70,,International operators,Clementvale Baltic OÜ,,Not operational
+2516,901,71,,International operators,Tampnet AS,,Unknown
+2517,901,72,,International operators,Tele2 Sverige Aktiebolag,,Unknown
+2518,901,73,,International operators,Cubic Telecom Limited,,Unknown
+2519,901,74,,International operators,Etisalat,,Unknown
+2520,901,75,,International operators,Podsystem Ltd.,,Operational
+2521,901,76,,International operators,A1 Telekom Austria AG,,Unknown
+2522,901,77,,International operators,Bouygues Telecom,,Unknown
+2523,901,78,,International operators,Telecom Italia Sparkle S.p.A.,,Unknown
+2524,901,79,,International operators,Nokia Corporation,,Unknown
+2525,901,80,,International operators,Flo Live Limited,,Operational
+2526,901,81,,International operators,Airnity SAS,,Unknown
+2527,901,82,,International operators,Eseye Limited,,Unknown
+2528,901,83,,International operators,iBasis Netherlands BV,,Unknown
+2529,901,84,,International operators,"Telefónica Móviles España, S.A. Unipersonal",,Unknown
+2530,901,85,,International operators,Telefónica Germany GmbH & Co. OHG,,Unknown
+2531,901,86,,International operators,BJT Partners SAS,,Unknown
+2532,901,87,,International operators,"Cisco Systems, Inc.",,Unknown
+2533,901,88,,International operators,UN Office for the Coordination of Humanitarian Affairs (OCHA),,Not operational
+2534,901,89,,International operators,DIDWW Ireland Limited,,Operational
+2535,901,90,,International operators,Truphone Limited,,Operational
+2536,901,91,,International operators,World Mobile Group Limited,,Unknown
+2537,901,92,,International operators,Phonegroup SA,,Unknown
+2538,901,93,,International operators,SkyFive AG,,Unknown
+2539,902,01,,International operators,MulteFire Alliance,,Operational
+2540,991,01,,International operators,World's Global Telecom,,Not operational
+2541,991,02,,International operators,Orange S.A.,5G Croco,Unknown
+2542,991,03,,International operators,Halys SAS,,Not operational
