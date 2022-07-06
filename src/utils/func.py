@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
+import re
 
 base = "https://en.wikipedia.org"
 
@@ -34,6 +35,12 @@ def get_soups():
         soup.prettify()
         soups.append(soup)
     return soups
+
+def get_soup(url):
+    page = urlopen(url)
+    html = page.read()
+    soup = BeautifulSoup(html,"html.parser")
+    return soup
 
 def read_head(ht):
     a = ht.find('a')
@@ -77,6 +84,37 @@ def to_df(df, mcc,mnc,iso,dest,op_name,net_name,status):
     df = pd.concat([df,df2],ignore_index=True)
     return df
 
-def no_net():
+#given url the base url
+def bullet_link(url):
+    u = []
+    soup = get_soup(url)
 
-    return 0
+    head = soup.find('strong',string = 'Operational Bulletin')
+    table = head.find_next('table')
+    for bullet in table.find_all('tr'):
+        col = bullet.find_all('td')
+        a = col[1].find('a',href= True)
+        link = a['href'].strip()
+        new_url = url +'/'+ link
+
+        u.append(new_url)
+    return u
+
+def year_link(url):
+    y = []
+    soup = get_soup(url)
+    head = soup.find('strong',string = 'Operational Bulletin')
+    temp = head.find_next('font')
+    year = temp.find_previous()
+    for row in year.find_all('a',href=True):
+        link = row['href'].strip()
+        temp = url +'/'+ link
+        y.append(temp)
+    return y
+
+def mnc_exist(url):
+    soup = get_soup(url)
+    mnc = soup.find(string = re.compile(r"MNC"))
+    if mnc != None:
+        return True
+    else: return False
