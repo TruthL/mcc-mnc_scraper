@@ -3,39 +3,30 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Getting Started](#pre)
 - [Usage](#usage)
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Simple web scraper which scrapes mcc-mnc values from wikipedia.\n
+https://en.wikipedia.org/wiki/Mobile_country_code\n
+Also makes use of bulletin pdfs to keep up to date with the changing values.
 
-## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
+## Prerequisites<a name = "pre"></a>
 
 ```
 pip install beautifulsoup
 pip install pandas
-```
-
-### Installing
-
-```
-Give the example
-```
-
-```
-until finished
+pip install PyPDF2
 ```
 
 
 ## Usage <a name = "usage"></a>
-case:
-1 = full scraping
-2 = update & validation with bulletin
+case:\n
+1 = full scraping\n
+2 = download bulletins\n
+3 = verification with bulletins\n
 ```
 python3 scraper.py (case)
 ```
