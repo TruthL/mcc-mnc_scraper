@@ -124,7 +124,7 @@ def formulate():
                 continue        
 
     #International Operators'
-    dest = int_op.text.strip()
+    dest = 'International Mobile, shared code'
     df = func.parse_table(int_table,'',dest,df)
 
     df.to_csv("mcc-mnc.csv", encoding='utf-8', index= False)

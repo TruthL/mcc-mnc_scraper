@@ -2498,100 +2498,100 @@ MCC,MNC,alpha-2,destination,operator_name,network_name,status
 648,01,ZW,Zimbabwe,Net*One Cellular (Pvt) Ltd,Net*One,Operational
 648,03,ZW,Zimbabwe,Telecel Zimbabwe (PVT) Ltd,Telecel,Operational
 648,04,ZW,Zimbabwe,Econet Wireless,Econet,Operational
-901,01,,International operators,ICO Satellite Management,ICO,Not operational
-901,02,,International operators,Unassigned,,Returned spare
-901,03,,International operators,,Iridium,Operational
-901,04,,International operators,Unassigned,,Returned spare
-901,05,,International operators,Thuraya,,Operational
-901,06,,International operators,Thuraya,,Operational
-901,07,,International operators,Unassigned,,Returned spare
-901,08,,International operators,Unassigned,,Returned spare
-901,09,,International operators,Unassigned,,Returned spare
-901,10,,International operators,,ACeS,Not operational
-901,11,,International operators,,Inmarsat,Operational
-901,12,,International operators,Telenor Maritime AS,Telenor,Operational
-901,13,,International operators,BebbiCell AG,GSM.AQ,Operational
-901,14,,International operators,AeroMobile AS,AeroMobile,Operational
-901,15,,International operators,OnAir Switzerland Sarl,OnAir,Operational
-901,16,,International operators,"Cisco Systems, Inc.",Cisco Jasper,Operational
-901,17,,International operators,JT Group Limited,Navitas,Not operational
-901,18,,International operators,AT&T Mobility,Cellular @Sea,Operational
-901,19,,International operators,Monaco Telecom,Epic,Operational
-901,20,,International operators,Intermatica,,Unknown
-901,21,,International operators,Wins Limited,,Operational
-901,22,,International operators,MediaLincc Ltd,,Unknown
-901,23,,International operators,Unassigned,,Returned spare
-901,24,,International operators,Voxbone,iNum,Unknown
-901,25,,International operators,Unassigned,,Returned spare
-901,26,,International operators,Telecom Italia Mobile,TIM@sea,Operational
-901,27,,International operators,Monaco Telecom,OnMarine,Operational
-901,28,,International operators,GDSP (Vodafone's Global Data Service Platform),Vodafone,Operational
-901,29,,International operators,,Telenor,Not operational
-901,30,,International operators,Unassigned,,Returned spare
-901,31,,International operators,Orange S.A.,Orange,Operational
-901,32,,International operators,MegaFon,Sky High,Operational
-901,33,,International operators,Smart Communications,,Not operational
-901,34,,International operators,tyntec,,Unknown
-901,35,,International operators,Globecomm Network Services,,Operational
-901,36,,International operators,Azerfon,,Operational
-901,37,,International operators,Transatel,,Operational
-901,38,,International operators,Multiregional TransitTelecom,,Operational
-901,39,,International operators,MTX Connect Ltd,,Operational
-901,40,,International operators,Deutsche Telekom,1NCE ,Operational
-901,41,,International operators,One Network B.V.,,Operational
-901,42,,International operators,DCN Hub ehf,,Unknown
-901,43,,International operators,EMnify GmbH,,Operational
-901,44,,International operators,AT&T Inc.,,Unknown
-901,45,,International operators,Advanced Wireless Network Company Limited,,Unknown
-901,46,,International operators,Telecom26 AG,,Operational
-901,47,,International operators,Ooredoo,,Not operational
-901,48,,International operators,Communication for Devices in Sweden AB,Com4,Unknown
-901,49,,International operators,Mobile Telecommunications Company K.S.C.P.,Zain,Unknown
-901,50,,International operators,EchoStar Mobile,,Unknown
-901,51,,International operators,VisionNG,,Not operational
-901,52,,International operators,Manx Telecom,,Unknown
-901,53,,International operators,Inmarsat,European Aviation Network,Operational
-901,54,,International operators,Teleena Holding B.V.,,Unknown
-901,55,,International operators,Beezz Communication Solutions Ltd.,,Unknown
-901,56,,International operators,European Telecommunications Standards Institute,ETSI,Unknown
-901,57,,International operators,SAP,,Not operational
-901,58,,International operators,Belgacom ICS,BICS,Unknown
-901,59,,International operators,MessageBird B.V.,,Unknown
-901,60,,International operators,OneWeb,,Unknown
-901,61,,International operators,MTN Management Services,,Unknown
-901,62,,International operators,Twilio,,Operational
-901,63,,International operators,GloTel B.V.,,Not operational
-901,64,,International operators,Syniverse Technologies,,Unknown
-901,65,,International operators,Plintron Global Technology Solutions Pty Ltd,,Unknown
-901,66,,International operators,Limitless Mobile LLC,,Operational
-901,67,,International operators,1NCE GmbH,,Operational
-901,68,,International operators,Maersk Line,,Unknown
-901,69,,International operators,Legos,,Unknown
-901,70,,International operators,Clementvale Baltic OÜ,,Not operational
-901,71,,International operators,Tampnet AS,,Unknown
-901,72,,International operators,Tele2,,Unknown
-901,73,,International operators,Cubic Telecom Limited,,Unknown
-901,74,,International operators,Etisalat,,Unknown
-901,75,,International operators,Podsystem Ltd.,,Operational
-901,76,,International operators,A1 Telekom Austria,,Unknown
-901,77,,International operators,Bouygues Telecom,,Unknown
-901,78,,International operators,Telecom Italia Sparkle S.p.A.,,Unknown
-901,79,,International operators,Nokia Corporation,,Unknown
-901,80,,International operators,Flo Live Limited,,Operational
-901,81,,International operators,Airnity SAS,,Unknown
-901,82,,International operators,Eseye Limited,,Unknown
-901,83,,International operators,iBasis,,Unknown
-901,84,,International operators,"Telefónica Móviles España, S.A. Unipersonal",,Unknown
-901,85,,International operators,Telefónica Germany GmbH & Co. OHG,,Unknown
-901,86,,International operators,BJT Partners SAS,,Unknown
-901,87,,International operators,"Cisco Systems, Inc.",,Unknown
-901,88,,International operators,UN Office for the Coordination of Humanitarian Affairs (OCHA),,Not operational
-901,89,,International operators,DIDWW Ireland Limited,,Operational
-901,90,,International operators,Truphone,,Operational
-901,91,,International operators,World Mobile Group Limited,,Unknown
-901,92,,International operators,Phonegroup SA,,Unknown
-901,93,,International operators,SkyFive AG,,Unknown
-902,01,,International operators,MulteFire,,Operational
-991,01,,International operators,World's Global Telecom,,Not operational
-991,02,,International operators,Orange S.A.,5G Croco,Unknown
-991,03,,International operators,Halys SAS,,Not operational
+901,01,,"International Mobile, shared code",ICO Satellite Management,ICO,Not operational
+901,02,,"International Mobile, shared code",Unassigned,,Returned spare
+901,03,,"International Mobile, shared code",,Iridium,Operational
+901,04,,"International Mobile, shared code",Unassigned,,Returned spare
+901,05,,"International Mobile, shared code",Thuraya,,Operational
+901,06,,"International Mobile, shared code",Thuraya,,Operational
+901,07,,"International Mobile, shared code",Unassigned,,Returned spare
+901,08,,"International Mobile, shared code",Unassigned,,Returned spare
+901,09,,"International Mobile, shared code",Unassigned,,Returned spare
+901,10,,"International Mobile, shared code",,ACeS,Not operational
+901,11,,"International Mobile, shared code",,Inmarsat,Operational
+901,12,,"International Mobile, shared code",Telenor Maritime AS,Telenor,Operational
+901,13,,"International Mobile, shared code",BebbiCell AG,GSM.AQ,Operational
+901,14,,"International Mobile, shared code",AeroMobile AS,AeroMobile,Operational
+901,15,,"International Mobile, shared code",OnAir Switzerland Sarl,OnAir,Operational
+901,16,,"International Mobile, shared code","Cisco Systems, Inc.",Cisco Jasper,Operational
+901,17,,"International Mobile, shared code",JT Group Limited,Navitas,Not operational
+901,18,,"International Mobile, shared code",AT&T Mobility,Cellular @Sea,Operational
+901,19,,"International Mobile, shared code",Monaco Telecom,Epic,Operational
+901,20,,"International Mobile, shared code",Intermatica,,Unknown
+901,21,,"International Mobile, shared code",Wins Limited,,Operational
+901,22,,"International Mobile, shared code",MediaLincc Ltd,,Unknown
+901,23,,"International Mobile, shared code",Unassigned,,Returned spare
+901,24,,"International Mobile, shared code",Voxbone,iNum,Unknown
+901,25,,"International Mobile, shared code",Unassigned,,Returned spare
+901,26,,"International Mobile, shared code",Telecom Italia Mobile,TIM@sea,Operational
+901,27,,"International Mobile, shared code",Monaco Telecom,OnMarine,Operational
+901,28,,"International Mobile, shared code",GDSP (Vodafone's Global Data Service Platform),Vodafone,Operational
+901,29,,"International Mobile, shared code",,Telenor,Not operational
+901,30,,"International Mobile, shared code",Unassigned,,Returned spare
+901,31,,"International Mobile, shared code",Orange S.A.,Orange,Operational
+901,32,,"International Mobile, shared code",MegaFon,Sky High,Operational
+901,33,,"International Mobile, shared code",Smart Communications,,Not operational
+901,34,,"International Mobile, shared code",tyntec,,Unknown
+901,35,,"International Mobile, shared code",Globecomm Network Services,,Operational
+901,36,,"International Mobile, shared code",Azerfon,,Operational
+901,37,,"International Mobile, shared code",Transatel,,Operational
+901,38,,"International Mobile, shared code",Multiregional TransitTelecom,,Operational
+901,39,,"International Mobile, shared code",MTX Connect Ltd,,Operational
+901,40,,"International Mobile, shared code",Deutsche Telekom,1NCE ,Operational
+901,41,,"International Mobile, shared code",One Network B.V.,,Operational
+901,42,,"International Mobile, shared code",DCN Hub ehf,,Unknown
+901,43,,"International Mobile, shared code",EMnify GmbH,,Operational
+901,44,,"International Mobile, shared code",AT&T Inc.,,Unknown
+901,45,,"International Mobile, shared code",Advanced Wireless Network Company Limited,,Unknown
+901,46,,"International Mobile, shared code",Telecom26 AG,,Operational
+901,47,,"International Mobile, shared code",Ooredoo,,Not operational
+901,48,,"International Mobile, shared code",Communication for Devices in Sweden AB,Com4,Unknown
+901,49,,"International Mobile, shared code",Mobile Telecommunications Company K.S.C.P.,Zain,Unknown
+901,50,,"International Mobile, shared code",EchoStar Mobile,,Unknown
+901,51,,"International Mobile, shared code",VisionNG,,Not operational
+901,52,,"International Mobile, shared code",Manx Telecom,,Unknown
+901,53,,"International Mobile, shared code",Inmarsat,European Aviation Network,Operational
+901,54,,"International Mobile, shared code",Teleena Holding B.V.,,Unknown
+901,55,,"International Mobile, shared code",Beezz Communication Solutions Ltd.,,Unknown
+901,56,,"International Mobile, shared code",European Telecommunications Standards Institute,ETSI,Unknown
+901,57,,"International Mobile, shared code",SAP,,Not operational
+901,58,,"International Mobile, shared code",Belgacom ICS,BICS,Unknown
+901,59,,"International Mobile, shared code",MessageBird B.V.,,Unknown
+901,60,,"International Mobile, shared code",OneWeb,,Unknown
+901,61,,"International Mobile, shared code",MTN Management Services,,Unknown
+901,62,,"International Mobile, shared code",Twilio,,Operational
+901,63,,"International Mobile, shared code",GloTel B.V.,,Not operational
+901,64,,"International Mobile, shared code",Syniverse Technologies,,Unknown
+901,65,,"International Mobile, shared code",Plintron Global Technology Solutions Pty Ltd,,Unknown
+901,66,,"International Mobile, shared code",Limitless Mobile LLC,,Operational
+901,67,,"International Mobile, shared code",1NCE GmbH,,Operational
+901,68,,"International Mobile, shared code",Maersk Line,,Unknown
+901,69,,"International Mobile, shared code",Legos,,Unknown
+901,70,,"International Mobile, shared code",Clementvale Baltic OÜ,,Not operational
+901,71,,"International Mobile, shared code",Tampnet AS,,Unknown
+901,72,,"International Mobile, shared code",Tele2,,Unknown
+901,73,,"International Mobile, shared code",Cubic Telecom Limited,,Unknown
+901,74,,"International Mobile, shared code",Etisalat,,Unknown
+901,75,,"International Mobile, shared code",Podsystem Ltd.,,Operational
+901,76,,"International Mobile, shared code",A1 Telekom Austria,,Unknown
+901,77,,"International Mobile, shared code",Bouygues Telecom,,Unknown
+901,78,,"International Mobile, shared code",Telecom Italia Sparkle S.p.A.,,Unknown
+901,79,,"International Mobile, shared code",Nokia Corporation,,Unknown
+901,80,,"International Mobile, shared code",Flo Live Limited,,Operational
+901,81,,"International Mobile, shared code",Airnity SAS,,Unknown
+901,82,,"International Mobile, shared code",Eseye Limited,,Unknown
+901,83,,"International Mobile, shared code",iBasis,,Unknown
+901,84,,"International Mobile, shared code","Telefónica Móviles España, S.A. Unipersonal",,Unknown
+901,85,,"International Mobile, shared code",Telefónica Germany GmbH & Co. OHG,,Unknown
+901,86,,"International Mobile, shared code",BJT Partners SAS,,Unknown
+901,87,,"International Mobile, shared code","Cisco Systems, Inc.",,Unknown
+901,88,,"International Mobile, shared code",UN Office for the Coordination of Humanitarian Affairs (OCHA),,Not operational
+901,89,,"International Mobile, shared code",DIDWW Ireland Limited,,Operational
+901,90,,"International Mobile, shared code",Truphone,,Operational
+901,91,,"International Mobile, shared code",World Mobile Group Limited,,Unknown
+901,92,,"International Mobile, shared code",Phonegroup SA,,Unknown
+901,93,,"International Mobile, shared code",SkyFive AG,,Unknown
+902,01,,"International Mobile, shared code",MulteFire,,Operational
+991,01,,"International Mobile, shared code",World's Global Telecom,,Not operational
+991,02,,"International Mobile, shared code",Orange S.A.,5G Croco,Unknown
+991,03,,"International Mobile, shared code",Halys SAS,,Not operational
