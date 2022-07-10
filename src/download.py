@@ -1,7 +1,8 @@
-from utils import func, bulletin as bullet
+from utils import bulletin as bullet
 from PyPDF2 import PdfReader
 from urllib.request import urlopen, urlretrieve
 import re
+from utils import func
 
 url = "https://www.itu.int/pub/T-SP-OB"
 base = "https://www.itu.int/"

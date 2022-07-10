@@ -3,7 +3,7 @@
 from urllib.request import urlopen, urlretrieve
 from bs4 import BeautifulSoup
 import pandas as pd
-import func
+from utils import func
 import re
 import os
 

@@ -86,3 +86,15 @@ def to_df(df, mcc,mnc,iso,dest,op_name,net_name,status):
     df2 = pd.DataFrame.from_dict(dict)
     df = pd.concat([df,df2],ignore_index=True)
     return df
+
+def parse_table(table, iso, destination, df):
+    for row in table.tbody.find_all('tr'):
+        col = row.find_all('td')
+        if col != []:
+            mcc = col[0].text.strip()
+            mnc = col[1].text.strip()
+            net_name = get_t(col[2])
+            op_name = get_t(col[3])
+            status = get_t(col[4])
+            df = to_df(df,mcc,mnc,iso,destination,op_name,net_name,status)
+    return df

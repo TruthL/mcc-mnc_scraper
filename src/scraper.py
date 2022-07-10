@@ -1,5 +1,5 @@
 import sys
-import utils.func as func
+#import utils.func as func
 import re
 import formulate as form
 import download as down
