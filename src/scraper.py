@@ -7,6 +7,7 @@ import download as down
 # 1 = FORMULATE
 # 2 = BULLETIN DOWNLOAD
 # 3 = APPLICATION OF BULLETINS
+
 def main(case):
     if case == 1:
         form.formulate()

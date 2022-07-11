@@ -34,8 +34,9 @@ def year_link(url):
     year = temp.find_previous()
     #since taking too long limit retriving years to 4
     rows = year.find_all('a',href=True)
-    #for row in year.find_all('a',href=True):
-    for i in range(2):
+    # for row in year.find_all('a',href=True):
+    #print(rows)
+    for i in range(3,4):
         link = rows[i]['href'].strip()
         temp = url +'/'+ link
         y.append(temp)
@@ -49,13 +50,14 @@ def mnc_exist(url):
     else: return False
 
 def get_file_name(head):
-    title = head.text.strip('Operational Bulletin')
+    title = get_title(head)
+    title = title.strip('Operational Bulletin')
     file_name = re.sub(r"\([^()]*\)","",title).strip()
     name = file_name.replace(" ","_") + '.pdf'
     return name
 
 def get_date(head):
-    title = head.text.strip('Operational Bulletin')
+    title = get_title(head)
     year = re.search(r"\([^()]*\)",title).group()
     return year
 
@@ -64,13 +66,15 @@ def get_year(date):
     year = text.split(".")
     return year[-1]
 
-def download_file(url,file,name):
-    path = 'data/'+file
+def download_file(url,year,name):
+    path = 'data/'+year
     exist = os.path.exists(path)
     if not exist :
         os.makedirs(path)
     dest = path + '/' + name
-    urlretrieve(url,dest)
+    new = os.path.exists(dest)
+    if not new:
+        urlretrieve(url,dest)
 
 def is_toc(row):
     toc = row.find('a',href=True)
@@ -78,3 +82,13 @@ def is_toc(row):
         return False
     else:
         return True
+
+def pdf_first(a):
+    #get link of pdf
+    img = a.find('img', title = 'PDF format')
+    down = img.find_next('a', string = 'DOWNLOAD',href = True) 
+    return down['href']
+
+def get_title(string):
+    h = re.search(r"^.*?\([^()]*\)",string).group()
+    return h

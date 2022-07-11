@@ -29,6 +29,7 @@ def get_table(col, html):
     table = head.find_next('table')
     return (table)
 
+#gets the "soups" into an arry from the links provided
 def get_soups():
     soups = []
     for link in links:
@@ -39,11 +40,13 @@ def get_soups():
         soups.append(soup)
     return soups
 
+#given the url, soup is returned
 def get_soup(url):
     page = urlopen(url)
     html = page.read()
     soup = BeautifulSoup(html,"html.parser")
     return soup
+
 
 def read_head(ht):
     a = ht.find('a')
@@ -53,6 +56,7 @@ def read_head(ht):
     head = soup.find('h1')
     return head.text.strip()
 
+#get the index of soup from given mcc (soups categorized by the range)
 def get_ind(code):
     code = int(code)
     if code>=200 and code<300:
@@ -71,6 +75,7 @@ def get_ind(code):
         c = 6
     return c
 
+# gets text
 def get_t(ln):
     if ln.a == None :
         net = ln.text.strip()
@@ -79,6 +84,7 @@ def get_t(ln):
         net = a.get_text()
     return net
 
+#puts the attributes given to a df
 def to_df(df, mcc,mnc,iso,dest,op_name,net_name,status):
     dict = {'MCC':[mcc], 'MNC':[mnc], 'alpha-2':[iso], 
             'destination':[dest], 'operator_name':[op_name], 
@@ -87,6 +93,7 @@ def to_df(df, mcc,mnc,iso,dest,op_name,net_name,status):
     df = pd.concat([df,df2],ignore_index=True)
     return df
 
+#goes through given table and inserts to a data frame
 def parse_table(table, iso, destination, df):
     for row in table.tbody.find_all('tr'):
         col = row.find_all('td')
@@ -95,6 +102,7 @@ def parse_table(table, iso, destination, df):
             mnc = col[1].text.strip()
             net_name = get_t(col[2])
             op_name = get_t(col[3])
+            #make status uppercase
             status = get_t(col[4])
             df = to_df(df,mcc,mnc,iso,destination,op_name,net_name,status)
     return df
