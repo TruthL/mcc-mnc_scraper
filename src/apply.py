@@ -12,14 +12,14 @@ def get_pdf():
 #ADD = insert
 #SUP = delete
 #REP = replace (not sure if there is a replace for mcc & mnc)
+#LIR = read = status == read
 
 #States of status:
 #Operational, Not operational, Ongoing, Returned spare, 
-def apply_update(df,mcc,mnc,operator_name,op,bulletin):
+def apply_update(df,mcc,mnc,operator_name,op):
     if op == 'ADD':
         print('add')
-        #should the status be set to 'Operational'
-        #what to do with 'unknown'
+        
     elif op == 'SUP':
         get = df.loc[df['MCC'] == mcc]
         entry = get.loc[get['MNC']== mnc]
@@ -29,6 +29,11 @@ def apply_update(df,mcc,mnc,operator_name,op,bulletin):
         #change the status to 'Not operational'
     elif op == 'REP':
         print('replace')
+    elif op == 'LIR':
+        get = df.loc[df['MCC'] == mcc]
+        entry = get.loc[get['MNC']== mnc]
+        index = entry.index.values[0]
+        df.at[index,'status'] = 'Read'
     else:
         print('Invalid operation given')
 

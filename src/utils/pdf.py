@@ -9,7 +9,7 @@ def get_page(obj):
         text = page.extract_text()
         if re.search(string,text):
             return i
-    return (None)
+    return (None) 
 
 #get table 
 #read what is updated
