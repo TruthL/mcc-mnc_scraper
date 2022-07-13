@@ -51,9 +51,8 @@ def mnc_exist(url):
 
 def get_file_name(head):
     title = get_title(head)
-    title = title.strip('Operational Bulletin')
-    file_name = re.sub(r"\([^()]*\)","",title).strip()
-    name = file_name.replace(" ","_") + '.pdf'
+    file_name = re.search(r"([0-9]+)",title).group()
+    name = file_name + '.pdf'
     return name
 
 def get_date(head):
