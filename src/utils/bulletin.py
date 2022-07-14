@@ -36,7 +36,9 @@ def year_link(url):
     rows = year.find_all('a',href=True)
     # for row in year.find_all('a',href=True):
     #print(rows)
-    for i in range(3,4):
+    #change range of for loop by year
+    #0~4 = 2022,2021,2020,2019,2018
+    for i in range(4):
         link = rows[i]['href'].strip()
         temp = url +'/'+ link
         y.append(temp)
