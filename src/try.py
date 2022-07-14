@@ -10,10 +10,21 @@ import glob
 #SUP = delete
 #REP = replace
 def main():
-    path = "data/2022/1235.pdf"
-    dfs = tabula.read_pdf(path, pages=12)
-    print(dfs)
+    iso_pd = pd.read_csv('iso_mcc.csv')
+    loc = get_iso(iso_pd,649)
+    print(loc)
 
+def get_index(df,mcc):
+    loc = df.loc[df['MCC']== mcc]
+    return loc.index.values[0]
+
+def get_iso(df,mcc):
+    if (mcc== 649):
+        return 'NA'
+    index = get_index(df,mcc)
+    loc = df.iloc[index]
+    iso = loc['alpha-2']
+    return iso
 
 def download_file(url,file,name):
     path = 'data/'+file
@@ -23,9 +34,6 @@ def download_file(url,file,name):
         dest = path + '/' + name
         urlretrieve(url,dest)
 
-def get_index(entry):
-    ind = entry.index.values[0]
-    return ind
 
 def get_soup(url):
     page = urlopen(url)

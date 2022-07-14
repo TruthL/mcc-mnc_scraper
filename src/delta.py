@@ -13,7 +13,7 @@ def get_delta():
     dir = os.listdir(path)
     dir.sort()
 
-    df_delta = pd.DataFrame(columns= ['MCC','MNC','destination','network_name','op'])
+    df_delta = pd.DataFrame(columns= ['MCC','MNC','destination','network_name','op','bulletin no.'])
     for d in dir:
         n_path = path + '/' + d + '/*.pdf'
         files = glob.glob(n_path)
@@ -22,17 +22,20 @@ def get_delta():
             print(file)
             if file == 'data/2021/1214.pdf':
                 continue
+            bullet_no = pdf.get_bulletin_num(file,d)
             table = pdf.get_table(file)
             mcc_name = pdf.check_mcc_col_name(table)
-            print(table)
+            #print(table)
             for index, row in table.iterrows():
                 string = row['Country/Geographical area'] 
                 mcc_mnc = row[mcc_name]
                 net_name = row['Operator/Network']
                 if mcc_mnc == '*':
                     continue
+                if string[-1] == '*':
+                    string = string.strip("*")
                 op = string[-3:]
-                dest = string.strip(op)
+                dest = string[:-3]
                 l_mcc= mcc_mnc.split()
                 if dest != "" :
                     glob_dest = dest
@@ -41,45 +44,16 @@ def get_delta():
                 if (l_mcc != []) and flag:
                     mcc = l_mcc[0]
                     mnc = l_mcc[1]
-                    df_delta = pdf.to_df(df_delta,mcc,mnc,glob_dest,net_name,glob_op)
+                    glob_dest = pdf.int_range(mcc, glob_dest)
+                    df_delta = pdf.check_mcc_mnc(df_delta,mcc,mnc)
+                    df_delta = pdf.to_df(df_delta,mcc,mnc,glob_dest,net_name,glob_op,bullet_no)
                     if index != (len(table)-1):
                         next = table.iloc[index+1]
                         if next[mcc_name] == "" :
                             flag = 0
 
-    print(df_delta)
+    # print(df_delta)
     df_delta.to_csv("delta_2018-2022.csv",encoding='utf-8', index= False)
-
-#op = the operation applied to the code:
-#ADD = insert
-#SUP = delete
-#REP = replace (not sure if there is a replace for mcc & mnc)
-#LIR = read = status == read
-
-#States of status:
-#Operational, Not operational, Ongoing, Returned spare, 
-def apply_update(df,mcc,mnc,operator_name,op):
-    if op == 'ADD':
-        print('add')
-        
-    elif op == 'SUP':
-        get = df.loc[df['MCC'] == mcc]
-        entry = get.loc[get['MNC']== mnc]
-        index = entry.index.values[0]
-        df.at[index,'status'] = 'Not operational'
-        print('delete')
-        #change the status to 'Not operational'
-    elif op == 'REP':
-        print('replace')
-    elif op == 'LIR':
-        get = df.loc[df['MCC'] == mcc]
-        entry = get.loc[get['MNC']== mnc]
-        index = entry.index.values[0]
-        df.at[index,'status'] = 'Read'
-    else:
-        print('Invalid operation given')
-
-    return df
 
 if __name__ == '__main__':
     get_delta()

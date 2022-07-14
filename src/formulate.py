@@ -35,6 +35,7 @@ def formulate():
 
     df = pd.DataFrame(columns= ['MCC','MNC','alpha-2','destination','operator_name','network_name','status'])
     no_mnc = pd.DataFrame(columns= ['MCC','alpha-2','destination'])
+    iso_df = pd.DataFrame(columns=['MCC','alpha-2','destination'])
     #html into df
     #for debugging
     print("begin")
@@ -46,7 +47,9 @@ def formulate():
         col = row.find_all('td')
         if col != [] :
             if len(col) > 1:
-                mcc = col[0].text.strip()
+                # mcc = col[0].text.strip()
+                # print(col[0].text.strip())
+                mcc = func.get_mcc(col[0].text.strip())
                 #340 and 742 share mcc
                 #one mcc many alpha-2
                 if(mcc == '340'):
@@ -57,6 +60,8 @@ def formulate():
                     iso = "BL/GF/GP/MF/MQ"
                     table = head.find_next('table')
                     df = func.parse_table(table,iso,destination,df)
+                    if func.check_iso(iso_df,mcc,iso):
+                        iso_df = func.to_iso(iso_df,mcc,iso,destination)
                     continue
 
                 if( mcc == '647'):
@@ -68,6 +73,8 @@ def formulate():
                     iso = "YT/RE"
                     table = head.find_next('table')
                     df = func.parse_table(table,iso,destination,df)
+                    if func.check_iso(iso_df,mcc,iso):
+                        iso_df = func.to_iso(iso_df,mcc,iso,destination)
                     continue
 
                 #362 many to many iso = BQ/CW/SX
@@ -82,6 +89,8 @@ def formulate():
                         head = reg.find('a', string = destination)
                         tab = head.find_next('table')
                         df = func.parse_table(tab,iso,destination,df)
+                        if func.check_iso(iso_df,mcc,iso):
+                            iso_df = func.to_iso(iso_df,mcc,iso,destination)
                         many_flag = 1
                         continue
                 else:
@@ -112,6 +121,8 @@ def formulate():
                         d = {'MCC':[mcc], 'alpha-2':[iso],'destination':[destination]}
                         df1 = pd.DataFrame.from_dict(d)
                         no_mnc = pd.concat([no_mnc,df1],ignore_index=True)
+                        if func.check_iso(iso_df,mcc,iso):
+                            iso_df = func.to_iso(iso_df,mcc,iso,destination)
                         continue
                     
                     #print(destination)
@@ -120,12 +131,27 @@ def formulate():
                     reg = soup_arr[ind]
                     tbl = func.get_table(col[1],reg)
                     df = func.parse_table(tbl,iso,destination,df)
+                    if func.check_iso(iso_df,mcc,iso):
+                        iso_df = func.to_iso(iso_df,mcc,iso,destination)
             else:
                 continue        
 
     #International Operators'
     dest = 'International Mobile, shared code'
-    df = func.parse_table(int_table,'',dest,df)
+    iso = 'IO'
+    for row in int_table.tbody.find_all('tr'):
+        col = row.find_all('td')
+        if col != []:
+            mcc = func.get_mcc(col[0].text.strip())
+            mnc = col[1].text.strip()
+            net_name = func.get_t(col[2])
+            op_name = func.get_t(col[3])
+            status = func.get_t(col[4])
+            df = func.to_df(df,mcc,mnc,iso,dest,op_name,net_name,status)
+            if func.check_iso(iso_df,mcc,iso):
+                iso_df = func.to_iso(iso_df,mcc,iso,dest)
 
+    df = df.sort_values(by=['destination'])
     df.to_csv("mcc-mnc.csv", encoding='utf-8', index= False)
     no_mnc.to_csv("mcc_with_no_networks.csv", encoding='utf-8', index= False)
+    iso_df.to_csv("iso_mcc.csv", encoding='utf-8', index= False)

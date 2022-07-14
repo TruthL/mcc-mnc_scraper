@@ -1,3 +1,4 @@
+from email.policy import strict
 import PyPDF2 as pdf
 import tabula
 import re
@@ -12,18 +13,19 @@ def get_page(obj):
         page = obj.getPage(i)
         text = page.extract_text()
         if re.search(string,text):
-            return i+1
+            return i
         elif re.search(string2,text):
-            return i+1
+            return i
     return None
 
 def get_table(path):
     list = []
     df = pd.DataFrame()
-    obj = pdf.PdfFileReader(path) 
+    obj = pdf.PdfFileReader(path, strict=False) 
     page_num = get_page(obj)
     if page_num != None:
-        table = tabula.read_pdf(path, pages= page_num,silent = True,stream = True)
+        table = tabula.read_pdf(path, pages= "all",silent = True,stream = True)
+        #see if the table covers more than 1 pages and concat the sparate tables
         for i in range(len(table)):
             if 'Country/Geographical area' in table[i].columns:
                 list.append(i)
@@ -39,9 +41,9 @@ def get_table(path):
 #read what is updated
 #get table and give date updated (bulletin num)
 
-def to_df(df,mcc,mnc,dest,network_name,op):
+def to_df(df,mcc,mnc,dest,network_name,op, num):
     dict = {'MCC':[mcc], 'MNC':[mnc], 'destination':[dest], 
-            'network_name':[network_name], 'op':[op]}
+            'network_name':[network_name], 'op':[op], 'bulletin no.':[num]}
     df2 = pd.DataFrame.from_dict(dict)
     df = pd.concat([df,df2],ignore_index=True)
     return df
@@ -57,3 +59,34 @@ def check_net_col_name(df):
         return 'Operator/Network'
     elif 'Applicant/Network' in df.columns:
         return 'Applicant/Network'
+
+def get_bulletin_num(file,year):
+    path = "data/"
+    new = file.lstrip(path)
+    next = new.lstrip(year)
+    next = next.strip('/')
+    n = next.rstrip('.pdf')
+    return n
+
+#check if mcc, mnc already exist
+#if exist then delete the row from 
+#done so that the latest change is considered, faster runtime
+
+def check_mcc_mnc(df,mcc,mnc):
+    if (len(df)!=0):
+        mcc_loc = df.loc[df["MCC"]==int(mcc)]
+        if len(mcc_loc) != 0 :
+            mnc_loc = mcc_loc[mcc["MNC"]==int(mnc)]
+            if len(mnc_loc) != 0:
+                index = mnc_loc.index[0]
+                df = df.drop(labels=index)
+    return df
+
+# without check = 458
+
+def int_range(mcc,destination):
+    if int(mcc) >= 900:
+        dest = 'International Mobile, shared code'
+        return dest
+    else: return destination
+    

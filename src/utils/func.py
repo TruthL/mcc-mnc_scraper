@@ -98,7 +98,7 @@ def parse_table(table, iso, destination, df):
     for row in table.tbody.find_all('tr'):
         col = row.find_all('td')
         if col != []:
-            mcc = col[0].text.strip()
+            mcc = get_mcc(col[0].text.strip())
             mnc = col[1].text.strip()
             net_name = get_t(col[2])
             op_name = get_t(col[3])
@@ -106,3 +106,25 @@ def parse_table(table, iso, destination, df):
             status = get_t(col[4])
             df = to_df(df,mcc,mnc,iso,destination,op_name,net_name,status)
     return df
+
+def get_mcc(txt):
+    if len(txt) > 3 :
+        mcc = txt[-3:]
+        return mcc
+    else : return txt
+
+def to_iso(df, mcc,iso,dest):
+    dict = {'MCC':[mcc],'alpha-2':[iso],'destination':[dest]}
+    df2 = pd.DataFrame.from_dict(dict)
+    df = pd.concat([df,df2],ignore_index=True)
+    return df
+
+def check_iso(df,mcc,iso):
+    if len(df) !=0:
+        loc_mcc = df.loc[df['MCC']== str(mcc)]
+        if len(loc_mcc) != 0 :
+            loc_iso = loc_mcc.loc[loc_mcc['alpha-2']== iso]
+            if len(loc_iso) != 0:
+                return False
+    return True
+    

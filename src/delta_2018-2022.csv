@@ -1,459 +1,498 @@
-MCC,MNC,destination,network_name,op
-432,08,Iran (Islamic Republic of) ,Shatel Mobile,ADD
-432,50,Iran (Islamic Republic of) ,Arya Resaneh Tadbir (Shatel),ADD
-293,20,Slovenia ,Compatel Limited,ADD
-238,42,Denmark ,Brandtel ApS,SUP
-238,42,enmark ,Greenwave Mobile IoT ApS,ADD
-639,01,Kenya ,Safaricom Limited,ADD
-639,04,Kenya ,Mobile Pay Kenya Limited,ADD
-639,05,Kenya ,Airtel Networks Kenya Ltd,ADD
-639,06,Kenya ,Finserve Africa Limited,ADD
-639,07,Kenya ,Telkom Kenya Limited,ADD
-639,08,Kenya ,Sema Mobile Services Limited,ADD
-639,09,Kenya ,Homeland Media Group Limited,ADD
-639,10,Kenya ,Jamii Telecommunications Limited,ADD
-639,11,Kenya ,WiAfrica Kenya Limited,ADD
-639,03,Kenya ,Airtel Networks Kenya Ltd,LIR
-610,02,Mali ,Orange Mali Sa,ADD
-610,03,Mali ,ATEL-SA,ADD
-228,59,witzerland ,Mundio Mobile Limited,SUP
-505,43,ustralia ,Arrow Energy Pty Ltd,ADD
-302,420,Canada ,A.B.C. Allen Business Communications Ltd.,ADD
-206,00,Belgium ,Proximus,SUP
-206,08,Belgium ,Nethys,ADD
-206,25,Belgium ,Voyacom,ADD
-206,28,Belgium ,BICS,ADD
-206,30,Belgium ,Unleashed,ADD
-206,33,Belgium ,Ericsson *test use only*,ADD
-206,50,Belgium ,IP Nexia,ADD
-206,05,Belgium ,Telenet,LIR
-206,10,Belgium ,Orange Belgium,LIR
-206,20,Belgium ,Telenet Group,LIR
-302,491,Canada ,Freedom Mobile Inc.,ADD
-425,29,Israel ,CG Networks,ADD
-238,17,Denmark ,Naka AG,SUP
-212,10,Monaco ,Monaco Telecom,ADD
-440,07,Japan ,"LTE-X, Inc.",ADD
-505,44,ustralia ,ROY HILL IRON ORE PTY LTD,ADD
-619,07,Sierra Leone ,QCELL SIERRA LEONE,ADD
-730,22,Chile ,CELLPLUS SPA,ADD
-730,23,Chile ,CLARO SERVICIOS EMPRESARIALES S.A.,ADD
-208,12,France ,Hewlett-Packard France,SUP
-208,18,France ,Voxbone,SUP
-208,23,France ,Omea Telecom,SUP
-208,29,France ,Cubic Telecom France,SUP
-208,90,France ,Images & Réseaux,SUP
-208,92,France ,Plate-forme telecom,SUP
-208,19,France ,Altitude Infrastructure,ADD
-208,32,France ,Orange,ADD
-208,86,France ,Nomotech,ADD
-208,87,France ,Régie Autonome des Transports Parisiens,ADD
-208,89,France ,Fondation b-com,ADD
-208,93,France ,Thales communications & Security,ADD
-208,95,France ,Orange,ADD
-208,96,France ,Axione,ADD
-208,97,France ,Thales communications & Security,ADD
-208,98,France ,Société Air France,ADD
-655,05,South Africa ,Telkom SA Ltd,ADD
-655,75,South Africa ,Airport Company South Africa (ACSA),ADD
-901,59,shared code ,MessageBird B.V.,ADD
-901,60,shared code ,OneWeb,ADD
-248,11,Estonia ,UAB Raystorm Eesti filiaal,ADD
-414,20,Myanmar ,"Amara Communication Co.,Ltd",ADD
-414,21,Myanmar ,"Amara Communication Co.,Ltd",ADD
-282,10,Georgia ,Premium Net International SRL LTD,ADD
-214,37,Spain ,"VODAFONE ESPAÑA, S.A.U.",ADD
-228,10,Switzerland ,Stadt Polizei Zürich,ADD
-228,60,Switzerland ,Sunrise Communications AG,ADD
-238,07,Denmark ,Mundio Mobile (Denmark) Limited,SUP
-238,05,enmark ,Dansk Beredskabskommunikation,ADD
-238,09,enmark ,Dansk Beredskabskommunikation,ADD
-238,23,enmark ,Banedanmark,ADD
-238,01,Denmark ,TDC A/S,LIR
-238,02,Denmark ,Telenor,LIR
-238,03,Denmark ,Syniverse Technologies,LIR
-238,08,Denmark ,Voxbone,LIR
-238,10,Denmark ,TDC A/S,LIR
-238,11,Denmark ,Dansk Beredskabskommunikation,LIR
-238,12,Denmark ,Lycamobile Denmark Ltd.,LIR
-238,28,Denmark ,LINK Mobility A/S,LIR
-238,77,Denmark ,Telenor,LIR
-437,03,Kyrgyzstan ,7 Mobile,ADD
-437,05,Kyrgyzstan ,Alfa Telecom,ADD
-437,06,Kyrgyzstan ,Kyrgyztelecom,ADD
-437,09,Kyrgyzstan ,Nur Telecom,ADD
-437,10,Kyrgyzstan ,Saima Telecom,ADD
-437,11,Kyrgyzstan ,iTel,ADD
-437,01,Kyrgyzstan ,Sky Mobile,LIR
-214,12,Spain ,,ADD
-282,11,Georgia ,Mobilive LTD,ADD
-649,06,Namibia ,MTN Namibia,ADD
-293,40,Slovenia ,A1 Slovenija d.d.,LIR
-293,41,Slovenia ,Telekom Slovenije d.d.,LIR
-293,70,Slovenia ,Telemach d.o.o.,LIR
-248,12,Estonia ,Ntel Solutions OÜ,ADD
-248,13,Estonia ,Telia Eesti AS,ADD
-248,14,Estonia ,Estonian Crafts OÜ,ADD
-651,10,Lesotho ,VODACOM LESOTHO,ADD
-414,22,Myanmar ,"Fortune Telecom Co., Ltd",ADD
-414,23,Myanmar ,"Global Technology Co., Ltd",ADD
-902,01,shared code ,,ADD
-505,45,ustralia ,CLERMONT COAL OPERATIONS PTY Limited,ADD
-214,51,Spain ,ADMINISTRADOR DE INFRAESTRUCTURAS,ADD
-302,600,Canada ,Iristel Inc.,ADD
-240,13,Sweden ,A3 Företag AB,LIR
-240,15,Sweden ,Sierra Wireless Sweden AB,LIR
-228,10,witzerland ,Stadt Polizei Zürich,SUP
-901,61,"International Mobile, shared code ",MTN Management Services,ADD
-248,15,Estonia ,Premium Net International S.R.L. Eesti filiaal,ADD
-240,34,Sweden ,Trafikverket centralfunktion IT,ADD
-230,09,Czech Rep.  ,,SUP
-230,06,Czech Rep.  ,Nordic Telecom 5G a.s.,ADD
-238,04,Denmark  ,NextGen Mobile Ltd T/A CardBoardFish,SUP
-288,03,Faroe Islands ,Sp/f Tosa,ADD
-901,62,"International Mobile, shared code  ",,ADD
-901,63,"International Mobile, shared code  ",,ADD
-901,64,"International Mobile, shared code  ",,ADD
-991,01,"telecommunication service, shared c",,ode
-248,16,Estonia ,SmartTel Plus OÜ,ADD
-216,04,Hungary ,Invitech ICT Services Ltd.,LIR
-655,65,South Africa ,Vodacom Pty Ltd,ADD
-901,65,shared code ,Plintron Global Technology Solutions Private Limited,ADD
-901,66,shared code ,"Limitless Mobile, LLC",ADD
-214,36,pain  ,"OPEN CABLE TELECOMUNICACIONES, S.L.",SUP
-228,62,Switzerland,Telecom26 AG,ADD
-505,46,ustralia ,ANGLOGOLD ASHANTI AUSTRALIA LTD,ADD
-635,13,Rwanda ,TIGO RWANDA LTD,SUP
-635,14,Rwanda ,AIRTEL RWANDA Ltd,SUP
-635,13,Rwanda ,AIRTEL RWANDA Ltd,ADD
-228,63,Switzerland ,Fink Telecom Services,ADD
-240,30,weden ,NextGen Mobile Ltd.,SUP
-240,63,Sweden ,Fink Telecom Services,ADD
-216,04,Hungary ,Invitech ICT Services Ltd.,SUP
-639,08,Kenya ,Sema Mobile Services Limited,SUP
-282,12,Georgia ,"""Datacomm"" LTD",ADD
-280,23,Cyprus ,Mundio Mobile Cyprus Ltd,SUP
-280,02,Cyprus ,CYTA,ADD
-413,09,Sri Lanka ,,ADD
-641,06,ganda ,Afrimax Uganda Limited,SUP
-641,26,ganda ,Lycamobile Network services Uganda Limited,SUP
-724,06,Brazil ,Telefônica Brasil S.A.,LIR
-724,10,Brazil ,Telefônica Brasil S.A.,LIR
-724,11,Brazil ,Telefônica Brasil S.A.,LIR
-724,23,Brazil ,Telefônica Brasil S.A.,LIR
-266,03,Gibraltar ,GibFibre Ltd (trading as “Gibfibrespeed”),ADD
-214,13,Spain ,"SYMA MOBILE ESPAÑA, S.L.",ADD
-214,24,Spain ,"VODAFONE ESPAÑA, S.A.U.",LIR
-228,64,Switzerland ,NTH AG,ADD
-901,67,"International Mobile, shared code ",1NCE GmbH,ADD
-901,68,"International Mobile, shared code ",Maersk Line A/S,ADD
-238,96,enmark ,Telia Danmark,ADD
-655,04,outh Africa ,Sasol (Pty) Ltd,SUP
-655,11,outh Africa ,SAPS Gauteng,SUP
-655,17,outh Africa ,Sishen Iron Ore Company (Ltd) Pty,SUP
-655,21,outh Africa ,Cape Town Metropolitan Council,SUP
-655,41,outh Africa ,South African Police Service,SUP
-655,75,outh Africa ,Airport Company South Africa (ACSA),SUP
-240,48,Sweden ,Tismi BV,ADD
-282,13,Georgia ,"""Asanet"" LTD",ADD
-214,23,Spain ,"Xfera Móviles, S.A.U.",ADD
-214,38,Spain ,"Telefónica Móviles España, SAU",ADD
-255,09,Ukraine ,"""Farlep-Invest"", PrJSC",ADD
-255,10,Ukraine ,"""Atlantis Telecom"", LLC",ADD
-505,12,Australia ,Vodafone Hutchison Australia Pty Ltd,LIR
-350,15,Bermuda ,FKB Net Ltd.,ADD
-302,330,Canada ,Blue Canada Wireless Inc,ADD
-346,001,Cayman Islands ,"WestTel Ltd., trading as Logic",ADD
-238,17,enmark ,Gotanet AB,ADD
-214,36,Spain ,ALAI OPERADOR DE,ADD
-748,00,ruguay ,Ancel - TDMA,SUP
-748,03,ruguay ,Ancel,SUP
-748,01,Uruguay ,Administración Nacional de,LIR
-248,15,Estonia ,Premium Net International S.R.L. Eesti filiaal,SUP
-248,05,Estonia ,CSC Telecom Estonia OÜ,ADD
-214,29,pain ,"NEO-SKY 2002, S.A.",SUP
-214,37,pain ,"Vodafone España, SAU",SUP
-214,29,Spain ,"XFERA MÓVILES, S.A.U.",ADD
-417,02,yrian Arab Republic ,Spacetel Syria,SUP
-417,02,Syrian Arab Republic ,MTN Syria,ADD
-302,550,Canada ,Star Solutions International Inc.,ADD
-302,721,Canada ,Rogers Communications Canada Inc. (Wireless),ADD
-901,88,shared code,,LIR
-552,99,Palau ,Palau Mobile Communications Inc. (PMCI),ADD
-634,07,Sudan ,Sudanese Telecommunication Co. LTD,ADD
-240,41,weden ,Shyam Telecom UK Ltd,SUP
-901,69,code ,Legos,ADD
-505,47,ustralia ,Woodside Energy Limited,ADD
-724,54,Brazil ,TIM S.A.,LIR
-221,07,Kosovo* ,Dukagjini Telecommunications LLC,ADD
-505,48,ustralia ,Titan ICT Pty Ltd,ADD
-214,37,Spain ,"VODAFONE ESPAÑA, S.A.U.",ADD
-248,17,Estonia,Baltergo OÜ,ADD
-376,352,Turks and Caicos Islands,IslandCom Communication Ltd.,SUP
-376,360,Turks and Caicos Islands,IslandCom Communication Ltd,SUP
-376,351,Turks and Caicos Islands,Digicel TCI Ltd,ADD
-991,01,"telecommunication service, shared code",(temporary assignment for trial,LIR
-302,150,Canada ,Cogeco Connexion Inc.,ADD
-272,21,Ireland ,Net Feasa Limited,ADD
-282,14,Georgia ,"""Datahouseglobal” LTD",ADD
-413,03,Sri Lanka ,,LIR
-214,32,pain ,"Telefónica Móviles España, SAU",SUP
-228,61,witzerland ,Compatel Ltd,SUP
-633,05,Seychelles ,Intelvision Ltd,ADD
-240,39,Sweden ,Primlight AB,LIR
-282,12,Georgia ,"""Telecom1"" LTD",LIR
-452,09,Viet Nam ,REDDI,ADD
-901,70,"International Mobile, shared code ",Clementvale Baltic OÜ,ADD
-901,41,"nternational Mobile, shared code ",One Network B.V.,LIR
-248,18,Estonia ,CLOUD COMMUNICATIONS OÜ,ADD
-216,71,Hungary ,Vodafone Hungary Ltd,LIR
-901,71,"International Mobile, shared code ",Tampnet AS,ADD
-649,07,Namibia ,Capricorn Connect,ADD
-640,01,Tanzania ,Shared Network Tanzania Limited,SUP
-640,08,Tanzania ,Benson Informatics Limited (Smart),SUP
-640,14,Tanzania ,MO Mobile Holding Limited,ADD
-310,040,nited States ,MTA Communications dba MTA Wireless,SUP
-310,060,nited States ,Consolidated Telcom,SUP
-310,300,nited States ,Blanca Telephone Company,SUP
-310,610,nited States ,Elkhart Telephone Co. Inc. dba Epic Touch Co.,SUP
-310,780,nited States ,D.D. Inc,SUP
-311,200,nited States ,ARINC,SUP
-311,300,nited States ,Nexus Communications Inc,SUP
-311,500,nited States ,Mosaic Telecom Inc,SUP
-311,960,nited States ,Lycamobile USA Inc,SUP
-312,050,nited States ,Fuego Wireless LLC,SUP
-312,070,nited States ,Adams Networks Inc,SUP
-312,140,nited States ,Cleveland Unlimited Inc,SUP
-312,340,nited States ,MTA Communications dba MTA Wireless,SUP
-312,440,nited States ,Consolidated Telcom,SUP
-312,740,nited States ,"KDDI America, Inc dba Locus Telecommunications",SUP
-310,330,United States ,Wireless Partners LLC,ADD
-310,340,United States ,"Limitless Mobile, LLC",ADD
-310,591,United States ,Verizon Wireless,ADD
-310,592,United States ,Verizon Wireless,ADD
-310,593,United States ,Verizon Wireless,ADD
-310,594,United States ,Verizon Wireless,ADD
-310,595,United States ,Verizon Wireless,ADD
-310,596,United States ,Verizon Wireless,ADD
-310,597,United States ,Verizon Wireless,ADD
-310,598,United States ,Verizon Wireless,ADD
-310,599,United States ,Verizon Wireless,ADD
-310,810,United States ,Pacific Lightwave Inc.,ADD
-310,891,United States ,Verizon Wireless,ADD
-310,892,United States ,Verizon Wireless,ADD
-310,893,United States ,Verizon Wireless,ADD
-310,894,United States ,Verizon Wireless,ADD
-310,895,United States ,Verizon Wireless,ADD
-376,351,Turks and Caicos Islands ,Digicel TCI Ltd,SUP
-376,360,Turks and Caicos Islands ,Digicel,ADD
-655,76,South Africa ,Comsol Networks (Pty) Ltd,ADD
-901,74,"International Mobile, shared code ",Etisalat,ADD
-901,49,"nternational Mobile, shared code ",,LIR
-230,07,Czech Rep. ,T-Mobile Czech Republic a.s.,ADD
-230,02,Czech Rep. ,O2 Czech Republic a.s.,LIR
-230,04,Czech Rep. ,Nordic Telecom s.r.o.,LIR
-230,98,Czech Rep. ,"Sprava zeleznic, statni organizace",LIR
-454,35,"Hong Kong, China ",Webbing Hong Kong Limited,ADD
-901,75,"International Mobile, shared code ",Podsystem Ltd.,ADD
-901,76,"International Mobile, shared code ",A1 Telekom Austria AG,ADD
-302,330,Canada,Blue Canada Wireless Inc,SUP
-425,22,Israel,Maskyoo Telephonia Ltd.,ADD
-228,59,Switzerland,"Vectone Mobile Limited, London",ADD
-214,14,Spain ,"AVATEL MÓVIL, S.L.U.",ADD
-901,77,"International Mobile, shared code ",Bouygues Telecom,ADD
-248,19,Estonia ,OkTelecom OÜ,ADD
-334,100,Mexico ,TELECOMUNICACIONES DE MÉXICO,ADD
-334,110,Mexico ,"MAXCOM TELECOMUNICACIONES, S.A.B. DE C.V.",ADD
-334,120,Mexico ,"QUICKLY PHONE, S.A. DE C.V.",ADD
-334,130,Mexico ,"AXTEL, S.A.B. DE C.V.",ADD
-334,140,Mexico ,"ALTÁN REDES, S.A.P.I. DE C.V.",ADD
-334,150,Mexico ,"ULTRAVISIÓN, S.A. DE C.V.",ADD
-334,160,Mexico ,"CABLEVISIÓN RED, S.A. DE C.V.",ADD
-334,170,Mexico ,"OXIO MOBILE, S.A. DE C.V.",ADD
-334,010,Mexico ,"AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.",LIR
-334,030,Mexico ,"PEGASO PCS, S.A. DE C.V.",LIR
-724,21,LI,,GUE
-639,11,Jambo Telcoms Limi,,ted
-639,12,Infura Limi,,ted
-505,18,Australia,Pactel International Pty Ltd,SUP
-282,22,Georgia,"""Myphone"" LTD",ADD
-422,06,Oman,Vodafone Oman,ADD
-901,72,"nternational Mobile, shared code",,LIR
-505,49,ustralia,Field Solutions Group Pty Ltd,ADD
-206,03,Belgium,Citymesh,ADD
-206,11,Belgium,L-Mobi Mobile,ADD
-206,22,Belgium,FEBO Telecom,ADD
-206,29,Belgium,TISMI,ADD
-206,99,Belgium,e-BO Enterprises,ADD
-270,77,Belgium,Proximus Luxembourg S.A.,LIR
-248,20,Estonia,DOTT Telecom OÜ,ADD
-270,77,uxembourg,Proximus Luxembourg S.A.,LIR
-204,06,Netherlands,Mundio Mobile (Netherlands) Ltd,SUP
-204,17,Netherlands,Intercity Mobile Communications B.V.,SUP
-204,29,Netherlands,Private Mobile Ltd,SUP
-204,60,Netherlands,Nextgen Mobile Ltd,SUP
-204,61,Netherlands,BodyTrace Netherlands B.V.,SUP
-204,65,Netherlands,AGMS Nederland B.V.,SUP
-204,68,Netherlands,Roamware (Netherlands) B.V.,SUP
-204,00,Netherlands,Intovoice B.V.,ADD
-204,11,Netherlands,Greenet Netwerk B.V.,ADD
-204,14,Netherlands,Venus & Mercury Telecom,ADD
-204,27,Netherlands,L-Mobi Mobile B.V.,ADD
-204,29,Netherlands,Tismi B.V.,ADD
-204,30,Netherlands,ASpider Solutions Nederland B.V.,ADD
-204,32,Netherlands,Cubic Telecom Limited,ADD
-204,33,Netherlands,Truphone B.V.,ADD
-204,61,Netherlands,Alcadis B.V.,ADD
-204,63,Netherlands,Messagebird BV,ADD
-204,91,Netherlands,Enexis Netbeheer B.V.,ADD
-248,21,Estonia,Tismi B.V.,ADD
-278,01,Malta,Epic Communications Ltd,LIR
-278,77,Malta,Melita Ltd,LIR
-342,820,Barbados,Sunbeach Communications,SUP
-342,800,Barbados,Ozone,ADD
-342,820,Barbados,Neptune Communications Inc.,ADD
-342,600,Barbados,Cable & Wireless,LIR
-228,66,Switzerland,Inovia Services SA,ADD
-505,51,ustralia ,Fortescue Metals Group Ltd,ADD
-631,05,ngola,AFRICELL,ADD
-724,17,Brazil,SURF TELECOM S.A.,ADD
-214,12,pain,,SUP
-240,49,Sweden,Telia Sverige AB,ADD
-240,14,Sweden,Tele2 Sverige AB,LIR
-901,53,LI,,R *
-991,01,"service, shared codeS",(end of temporary assignment for trial on,UP*
-454,09,"Hong Kong, China",CMMobile Global Communications Ltd,SUP
-454,23,"Hong Kong, China",Lycamobile Hong Kong Ltd,SUP
-454,36,"Hong Kong, China",Easco Telecommunications Limited,ADD
-454,12,"Hong Kong, China",China Mobile Hong Kong Company Limited,LIR
-454,13,"Hong Kong, China",China Mobile Hong Kong Company Limited,LIR
-454,21,"Hong Kong, China",21 ViaNet Group Limited,LIR
-454,30,"Hong Kong, China",China Mobile Hong Kong Company Limited,LIR
-270,05,Luxembourg,Luxembourg Online S.A.,ADD
-505,52,ustralia,Optitel Pty Ltd,ADD
-302,996,Canada,Powertech Labs (experimental),ADD
-238,88,enmark,Cobira ApS,ADD
-350,007,Bermuda,Paradise Mobile,ADD
-228,08,Switzerland,Sunrise Communications AG,LIR
-901,80,"International Mobile, shared code",Flo Live Limited,ADD
-901,81,"International Mobile, shared code",Airnity SAS,ADD
-276,04,Albania,Mobile 4 AL,SUP
-276,01,Albania,ONE TELECOMMUNICATIONS  sh.a,LIR
-276,03,Albania,ALBTELECOM sh.a.,LIR
-214,30,pain,Compatel Limited,SUP
-641,18,ganda,Suretelecom Uganda Limited,SUP
-641,20,ganda,Hamilton Telecom Limited,SUP
-248,22,Estonia,M2MConnect OÜ,ADD
-278,11,Malta,YOM,SUP
-230,09,Czech Rep.,"Uniphone, s.r.o.",ADD
-655,77,South Africa,K2015315513 (Pty) Ltd t\a One Telecom (Pty) Ltd,ADD
-302,998,Canada,,ADD
-272,68,Ireland,,ADD
-537,04,Papua New Guinea,Digitec Communication Limited,ADD
-214,12,Spain,"VENUS MOVIL, S.L. UNIPERSONAL",ADD
-901,82,"International Mobile, shared code",Eseye Limited,ADD
-901,83,"International Mobile, shared code",iBasis Netherlands BV,ADD
-505,54,ustralia,Nokia Solutions and Networks Australia Pty Ltd,ADD
-302,350,Canada,Naskapi Imuun Inc.,ADD
-655,03,South Africa,Telkom SA SOC Ltd,ADD
-228,69,Switzerland,MTEL Schweiz GmbH,ADD
-228,70,Switzerland,Tismi BV,ADD
-334,180,Mexico,"FREEDOMPOP MÉXICO, S.A. DE C.V.",ADD
-334,190,Mexico,"VIASAT TECNOLOGÍA, S.A. DE C.V.",ADD
-645,07,Zambia,Liquid Telecom Zambia Limited,ADD
-645,01,Zambia,Airtel Zambia Limited,LIR
-645,02,Zambia,MTN Zambia Limited,LIR
-402,77,Bhutan,Tashi InfoComm Limited (Tashi Cell),ADD
-402,11,Bhutan,Bhutan Telecom Limited (Bmobile),LIR
-402,17,Bhutan,Bhutan Telecom Limited (Bmobile),LIR
-338,040,Jamaica,Symbiote Investment Limited,SUP
-338,080,Jamaica,Rock Mobile Limited,ADD
-441,10,Japan,UQ Communications Inc.,SUP
-440,13,Japan,NTT Communications Corporation,ADD
-440,14,Japan,GRAPE ONE LTD.,ADD
-440,15,Japan,BB Backbone Corp.,ADD
-440,16,Japan,Nokia Innovations Japan G.K.,ADD
-440,17,Japan,OSAKA GAS BUSINESS CREATE CORPORATION,ADD
-440,18,Japan,"Kintetsu Cable Network, Ltd",ADD
-440,19,Japan,NEC Networks & System Integration Corporation,ADD
-440,22,Japan,JTOWER Inc.,ADD
-440,23,Japan,FUJITSU LIMITED,ADD
-441,200,Japan,"SORACOM, Inc.",ADD
-441,201,Japan,"Aurens Co.,Ltd.",ADD
-441,202,Japan,Sony Wireless Communications Inc.,ADD
-441,203,Japan,GujoCity,ADD
-441,204,Japan,Wicom Inc.,ADD
-441,205,Japan,KATCH NETWORK INC.,ADD
-441,206,Japan,MITSUBISHI ELECTRIC CORPORATION,ADD
-440,07,Japan,"closip, Inc.",LIR
-901,88,Coordinat,,ion
-413,03,ri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd.,SUP
-413,09,ri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd.,SUP
-342,646,Barbados,KW Telecommunications Inc.,ADD
-901,84,shared code,"TELEFONICA MOVILES ESPAÑA, S.A. UNIPERSONAL (TME)",ADD
-901,85,shared code,Telefónica Germany GmbH & Co. OHG,ADD
-206,04,Belgium,MWINGZ (Proximus/Orange Belgium),ADD
-206,34,Belgium,ONOFFAPP,ADD
-530,07,New Zealand,Bluereach Limited,SUP
-530,07,New Zealand,Dense Air New Zealand Ltd,ADD
-206,04,Belgium,MWINGZ (Proximus/Orange Belgium),ADD
-206,34,Belgium,ONOFFAPP,ADD
-530,07,New Zealand,Bluereach Limited,SUP
-530,07,New Zealand,Dense Air New Zealand Ltd,ADD
-248,24,Estonia,Novametro OÜ,ADD
-248,25,Estonia,Eurofed OÜ,ADD
-714,02,Panama,"Grupo de Comunicaciones Digitales, S.A. (TIGO)",LIR
-714,020,Panama,"Grupo de Comunicaciones Digitales, S.A. (TIGO)",LIR
-425,27,Israel,BITIT Ltd.,ADD
-240,41,Sweden,Telenor Sverige AB,ADD
-417,03,Syrian Arab Republic,WAFA Telecom,ADD
-901,29,shared codeS,Telenor Connexion AB,UP*
-901,33,shared codeS,"Smart Communications, Inc",UP*
-901,47,shared codeS,Ooredoo,UP*
-901,57,shared codeS,SAP,UP*
-901,70,shared codeS,Clementvale Baltic OÜ,UP*
-901,86,shared codeA,BJT PARTNERS SAS,DD*
-901,87,shared codeA,"Cisco Systems, Inc.",DD*
-238,77,Denmark,Telenor,SUP
-441,91,Japan,,SUP
-441,207,Japan,"Mitsui Knowledge Industry Co., Ltd.",ADD
-441,208,Japan,CHUDENKO CORPORATION,ADD
-441,209,Japan,Cable Television TOYAMA Inc.,ADD
-440,01,Japan,KDDI CORPORATION,LIR
-204,01,Netherlands,RadioAccess Network Services B.V.,SUP
-204,17,Netherlands,Lebara Ltd,ADD
-204,62,Netherlands,RGTN Wholesale Netherlands B.V.,ADD
-204,24,Netherlands,PM Factory B.V.,LIR
-901,89,"International Mobile, shared c",DIDWW Ireland Limited,ode
-901,90,"International Mobile, shared c",Truphone Limited,ode
-901,91,"International Mobile, shared c",World Mobile Group Limited,ode
-208,93,France,Thales communications & Security,SUP
-208,95,France,Orange,SUP
-208,98,France,Société Air France,SUP
-208,12,France,Truphone France,ADD
-208,34,France,Cellhire (France),ADD
-208,35,France,Free mobile,ADD
-208,36,France,Free mobile,ADD
-208,37,France,IP Directions,ADD
-208,38,France,Lebara France Limited,ADD
-208,39,France,Netwo,ADD
-208,501,France,Butachimie,ADD
-208,502,France,EDF,ADD
-208,701,France,GIP Vendée numérique,ADD
-208,702,France,17-Numerique,ADD
-208,703,France,Nivertel,ADD
-208,704,France,Axione Limousin,ADD
-208,705,France,Hautes-Pyrénées Numérique,ADD
-208,706,France,Tours Métropole Numérique,ADD
-208,707,France,Sartel THD,ADD
-208,708,France,Melis@ territoires ruraux,ADD
-208,709,France,Quimper communauté télécom,ADD
-208,710,France,Losange,ADD
-208,711,France,Nomotech,ADD
-293,11,Slovenia,BeeIN d.o.o.,ADD
-293,21,Slovenia,Novatel d.o.o.,ADD
-248,26,Estonia,IT-Decision Telecom OÜ,ADD
-738,00,Guyana,E-Networks Inc.,ADD
-901,51,"International Mobile, shared code",VisionNG,SUP
-901,92,"International Mobile, shared code",Phonegroup SA,ADD
-901,93,"International Mobile, shared code",SkyFive AG,ADD
+MCC,MNC,destination,network_name,op,bulletin no.
+432,08,Iran (Islamic Republic of) ,Shatel Mobile,ADD,1139
+432,50,Iran (Islamic Republic of) ,Arya Resaneh Tadbir (Shatel),ADD,1139
+293,20,Slovenia ,Compatel Limited,ADD,1139
+238,42,Denmark ,Brandtel ApS,SUP,1140
+238,42,Denmark ,Greenwave Mobile IoT ApS,ADD,1140
+639,01,Kenya ,Safaricom Limited,ADD,1140
+639,04,Kenya ,Mobile Pay Kenya Limited,ADD,1140
+639,05,Kenya ,Airtel Networks Kenya Ltd,ADD,1140
+639,06,Kenya ,Finserve Africa Limited,ADD,1140
+639,07,Kenya ,Telkom Kenya Limited,ADD,1140
+639,08,Kenya ,Sema Mobile Services Limited,ADD,1140
+639,09,Kenya ,Homeland Media Group Limited,ADD,1140
+639,10,Kenya ,Jamii Telecommunications Limited,ADD,1140
+639,11,Kenya ,WiAfrica Kenya Limited,ADD,1140
+639,03,Kenya ,Airtel Networks Kenya Ltd,LIR,1140
+610,02,Mali ,Orange Mali Sa,ADD,1140
+610,03,Mali ,ATEL-SA,ADD,1140
+228,59,Switzerland ,Mundio Mobile Limited,SUP,1140
+505,43,Australia ,Arrow Energy Pty Ltd,ADD,1141
+302,420,Canada ,A.B.C. Allen Business Communications Ltd.,ADD,1141
+206,00,Belgium ,Proximus,SUP,1142
+206,08,Belgium ,Nethys,ADD,1142
+206,25,Belgium ,Voyacom,ADD,1142
+206,28,Belgium ,BICS,ADD,1142
+206,30,Belgium ,Unleashed,ADD,1142
+206,33,Belgium ,Ericsson *test use only*,ADD,1142
+206,50,Belgium ,IP Nexia,ADD,1142
+206,05,Belgium ,Telenet,LIR,1142
+206,10,Belgium ,Orange Belgium,LIR,1142
+206,20,Belgium ,Telenet Group,LIR,1142
+302,491,Canada ,Freedom Mobile Inc.,ADD,1142
+425,29,Israel ,CG Networks,ADD,1142
+238,17,Denmark ,Naka AG,SUP,1143
+212,10,Monaco ,Monaco Telecom,ADD,1143
+440,07,Japan ,"LTE-X, Inc.",ADD,1144
+505,44,Australia ,ROY HILL IRON ORE PTY LTD,ADD,1145
+619,07,Sierra Leone ,QCELL SIERRA LEONE,ADD,1145
+730,22,Chile ,CELLPLUS SPA,ADD,1146
+730,23,Chile ,CLARO SERVICIOS EMPRESARIALES S.A.,ADD,1146
+208,12,France ,Hewlett-Packard France,SUP,1146
+208,18,France ,Voxbone,SUP,1146
+208,23,France ,Omea Telecom,SUP,1146
+208,29,France ,Cubic Telecom France,SUP,1146
+208,90,France ,Images & Réseaux,SUP,1146
+208,92,France ,Plate-forme telecom,SUP,1146
+208,19,France ,Altitude Infrastructure,ADD,1146
+208,32,France ,Orange,ADD,1146
+208,86,France ,Nomotech,ADD,1146
+208,87,France ,Régie Autonome des Transports Parisiens,ADD,1146
+208,89,France ,Fondation b-com,ADD,1146
+208,93,France ,Thales communications & Security,ADD,1146
+208,95,France ,Orange,ADD,1146
+208,96,France ,Axione,ADD,1146
+208,97,France ,Thales communications & Security,ADD,1146
+208,98,France ,Société Air France,ADD,1146
+208,08,France ,Société Française du Radiotéléphone,LIR,1146
+208,09,France ,Société Française du Radiotéléphone,LIR,1146
+208,11,France ,Société Française du Radiotéléphone,LIR,1146
+208,13,France ,Société Française du Radiotéléphone,LIR,1146
+208,27,France ,Coriolis Telecom,LIR,1146
+208,30,France ,Syma Mobile,LIR,1146
+208,31,France ,Vectone Mobile,LIR,1146
+647,03,in the Indian Ocean ,Telco OI,ADD,1146
+647,04,in the Indian Ocean ,Zeop Mobile,ADD,1146
+647,00,in the Indian Ocean ,Orange,LIR,1146
+340,09,Guadeloupe ,Free Caraïbe,ADD,1146
+340,20,Guadeloupe ,Digicel Antilles Françaises Guyane,LIR,1146
+268,12,Portugal ,"Infraestruturas de Portugal, S.A.",LIR,1146
+655,05,South Africa ,Telkom SA Ltd,ADD,1147
+655,75,South Africa ,Airport Company South Africa (ACSA),ADD,1147
+901,59,"International Mobile, shared code",MessageBird B.V.,ADD,1147
+901,60,"International Mobile, shared code",OneWeb,ADD,1147
+248,11,Estonia ,UAB Raystorm Eesti filiaal,ADD,1148
+414,20,Myanmar ,"Amara Communication Co.,Ltd",ADD,1149
+414,21,Myanmar ,"Amara Communication Co.,Ltd",ADD,1149
+282,10,Georgia ,Premium Net International SRL LTD,ADD,1150
+214,37,Spain ,"VODAFONE ESPAÑA, S.A.U.",ADD,1151
+228,10,Switzerland ,Stadt Polizei Zürich,ADD,1152
+228,60,Switzerland ,Sunrise Communications AG,ADD,1152
+238,07,Denmark ,Mundio Mobile (Denmark) Limited,SUP,1153
+238,05,Denmark ,Dansk Beredskabskommunikation,ADD,1153
+238,09,Denmark ,Dansk Beredskabskommunikation,ADD,1153
+238,23,Denmark ,Banedanmark,ADD,1153
+238,01,Denmark ,TDC A/S,LIR,1153
+238,02,Denmark ,Telenor,LIR,1153
+238,03,Denmark ,Syniverse Technologies,LIR,1153
+238,08,Denmark ,Voxbone,LIR,1153
+238,10,Denmark ,TDC A/S,LIR,1153
+238,11,Denmark ,Dansk Beredskabskommunikation,LIR,1153
+238,12,Denmark ,Lycamobile Denmark Ltd.,LIR,1153
+238,28,Denmark ,LINK Mobility A/S,LIR,1153
+238,77,Denmark ,Telenor,LIR,1153
+437,03,Kyrgyzstan ,7 Mobile,ADD,1153
+437,05,Kyrgyzstan ,Alfa Telecom,ADD,1153
+437,06,Kyrgyzstan ,Kyrgyztelecom,ADD,1153
+437,09,Kyrgyzstan ,Nur Telecom,ADD,1153
+437,10,Kyrgyzstan ,Saima Telecom,ADD,1153
+437,11,Kyrgyzstan ,iTel,ADD,1153
+437,01,Kyrgyzstan ,Sky Mobile,LIR,1153
+214,12,Spain ,,ADD,1153
+282,11,Georgia ,Mobilive LTD,ADD,1154
+649,06,Namibia ,MTN Namibia,ADD,1154
+293,40,Slovenia ,A1 Slovenija d.d.,LIR,1154
+293,41,Slovenia ,Telekom Slovenije d.d.,LIR,1154
+293,70,Slovenia ,Telemach d.o.o.,LIR,1154
+248,12,Estonia ,Ntel Solutions OÜ,ADD,1155
+248,13,Estonia ,Telia Eesti AS,ADD,1155
+248,14,Estonia ,Estonian Crafts OÜ,ADD,1155
+651,10,Lesotho ,VODACOM LESOTHO,ADD,1155
+414,22,Myanmar ,"Fortune Telecom Co., Ltd",ADD,1156
+414,23,Myanmar ,"Global Technology Co., Ltd",ADD,1156
+902,01,"International Mobile, shared code",,ADD,1156
+505,45,Australia ,CLERMONT COAL OPERATIONS PTY Limited,ADD,1157
+214,51,Spain ,ADMINISTRADOR DE INFRAESTRUCTURAS,ADD,1157
+302,600,Canada ,Iristel Inc.,ADD,1159
+240,13,Sweden ,A3 Företag AB,LIR,1159
+240,15,Sweden ,Sierra Wireless Sweden AB,LIR,1159
+228,10,Switzerland ,Stadt Polizei Zürich,SUP,1159
+901,61,"International Mobile, shared code",MTN Management Services,ADD,1159
+248,15,Estonia ,Premium Net International S.R.L. Eesti filiaal,ADD,1160
+240,34,Sweden ,Trafikverket centralfunktion IT,ADD,1160
+230,09,Czech Rep.  ,,SUP,1161
+230,06,Czech Rep.  ,Nordic Telecom 5G a.s.,ADD,1161
+238,04,Denmark  ,NextGen Mobile Ltd T/A CardBoardFish,SUP,1161
+288,03,Faroe Islands ,Sp/f Tosa,ADD,1161
+901,62,"International Mobile, shared code",,ADD,1161
+901,63,"International Mobile, shared code",,ADD,1161
+901,64,"International Mobile, shared code",,ADD,1161
+991,01,"International Mobile, shared code",,ode,1161
+248,16,Estonia ,SmartTel Plus OÜ,ADD,1166
+216,04,Hungary ,Invitech ICT Services Ltd.,LIR,1166
+655,65,South Africa ,Vodacom Pty Ltd,ADD,1166
+901,65,"International Mobile, shared code",Plintron Global Technology Solutions Private Limited,ADD,1166
+901,66,"International Mobile, shared code","Limitless Mobile, LLC",ADD,1166
+214,36,Spain  ,"OPEN CABLE TELECOMUNICACIONES, S.L.",SUP,1167
+228,62,Switzerland,Telecom26 AG,ADD,1167
+505,46,Australia ,ANGLOGOLD ASHANTI AUSTRALIA LTD,ADD,1168
+635,13,Rwanda ,TIGO RWANDA LTD,SUP,1168
+635,14,Rwanda ,AIRTEL RWANDA Ltd,SUP,1168
+635,13,Rwanda ,AIRTEL RWANDA Ltd,ADD,1168
+228,63,Switzerland ,Fink Telecom Services,ADD,1168
+240,30,Sweden ,NextGen Mobile Ltd.,SUP,1169
+240,63,Sweden ,Fink Telecom Services,ADD,1169
+216,04,Hungary ,Invitech ICT Services Ltd.,SUP,1170
+639,08,Kenya ,Sema Mobile Services Limited,SUP,1170
+282,12,Georgia ,"""Datacomm"" LTD",ADD,1171
+280,23,Cyprus ,Mundio Mobile Cyprus Ltd,SUP,1173
+280,02,Cyprus ,CYTA,ADD,1173
+413,09,Sri Lanka ,,ADD,1174
+641,06,Uganda ,Afrimax Uganda Limited,SUP,1174
+641,26,Uganda ,Lycamobile Network services Uganda Limited,SUP,1174
+724,06,Brazil ,Telefônica Brasil S.A.,LIR,1175
+724,10,Brazil ,Telefônica Brasil S.A.,LIR,1175
+724,11,Brazil ,Telefônica Brasil S.A.,LIR,1175
+724,23,Brazil ,Telefônica Brasil S.A.,LIR,1175
+266,03,Gibraltar ,GibFibre Ltd (trading as “Gibfibrespeed”),ADD,1175
+214,13,Spain ,"SYMA MOBILE ESPAÑA, S.L.",ADD,1175
+214,24,Spain ,"VODAFONE ESPAÑA, S.A.U.",LIR,1175
+228,64,Switzerland ,NTH AG,ADD,1175
+901,67,"International Mobile, shared code",1NCE GmbH,ADD,1175
+901,68,"International Mobile, shared code",Maersk Line A/S,ADD,1175
+238,96,Denmark ,Telia Danmark,ADD,1176
+655,04,South Africa ,Sasol (Pty) Ltd,SUP,1176
+655,11,South Africa ,SAPS Gauteng,SUP,1176
+655,17,South Africa ,Sishen Iron Ore Company (Ltd) Pty,SUP,1176
+655,21,South Africa ,Cape Town Metropolitan Council,SUP,1176
+655,41,South Africa ,South African Police Service,SUP,1176
+655,75,South Africa ,Airport Company South Africa (ACSA),SUP,1176
+240,48,Sweden ,Tismi BV,ADD,1176
+282,13,Georgia ,"""Asanet"" LTD",ADD,1177
+214,23,Spain ,"Xfera Móviles, S.A.U.",ADD,1177
+214,38,Spain ,"Telefónica Móviles España, SAU",ADD,1177
+255,09,Ukraine ,"""Farlep-Invest"", PrJSC",ADD,1178
+255,10,Ukraine ,"""Atlantis Telecom"", LLC",ADD,1178
+505,12,Australia ,Vodafone Hutchison Australia Pty Ltd,LIR,1179
+350,15,Bermuda ,FKB Net Ltd.,ADD,1179
+302,330,Canada ,Blue Canada Wireless Inc,ADD,1180
+346,001,Cayman Islands ,"WestTel Ltd., trading as Logic",ADD,1183
+238,17,Denmark ,Gotanet AB,ADD,1183
+214,36,Spain ,ALAI OPERADOR DE,ADD,1183
+748,00,Uruguay ,Ancel - TDMA,SUP,1183
+748,03,Uruguay ,Ancel,SUP,1183
+748,01,Uruguay ,Administración Nacional de,LIR,1183
+248,15,Estonia ,Premium Net International S.R.L. Eesti filiaal,SUP,1184
+248,05,Estonia ,CSC Telecom Estonia OÜ,ADD,1185
+214,29,Spain ,"NEO-SKY 2002, S.A.",SUP,1185
+214,37,Spain ,"Vodafone España, SAU",SUP,1185
+214,29,Spain ,"XFERA MÓVILES, S.A.U.",ADD,1185
+417,02,Syrian Arab Republic ,Spacetel Syria,SUP,1185
+417,02,Syrian Arab Republic ,MTN Syria,ADD,1185
+302,550,Canada ,Star Solutions International Inc.,ADD,1186
+302,721,Canada ,Rogers Communications Canada Inc. (Wireless),ADD,1186
+901,88,"International Mobile, shared code",,LIR,1186
+552,99,Palau ,Palau Mobile Communications Inc. (PMCI),ADD,1187
+634,07,Sudan ,Sudanese Telecommunication Co. LTD,ADD,1187
+240,41,Sweden ,Shyam Telecom UK Ltd,SUP,1187
+901,69,"International Mobile, shared code",Legos,ADD,1187
+505,47,Australia ,Woodside Energy Limited,ADD,1188
+724,54,Brazil ,TIM S.A.,LIR,1188
+221,07,Kosovo* ,Dukagjini Telecommunications LLC,ADD,1188
+505,48,Australia ,Titan ICT Pty Ltd,ADD,1189
+214,37,Spain ,"VODAFONE ESPAÑA, S.A.U.",ADD,1189
+248,17,Estonia,Baltergo OÜ,ADD,1190
+376,352,Turks and Caicos Islands,IslandCom Communication Ltd.,SUP,1190
+376,360,Turks and Caicos Islands,IslandCom Communication Ltd,SUP,1190
+376,351,Turks and Caicos Islands,Digicel TCI Ltd,ADD,1190
+991,01,"International Mobile, shared code",(temporary assignment for trial,LIR,1190
+302,150,Canada ,Cogeco Connexion Inc.,ADD,1191
+272,21,Ireland ,Net Feasa Limited,ADD,1191
+282,14,Georgia ,"""Datahouseglobal” LTD",ADD,1192
+413,03,Sri Lanka ,,LIR,1192
+214,32,Spain ,"Telefónica Móviles España, SAU",SUP,1193
+228,61,Switzerland ,Compatel Ltd,SUP,1193
+633,05,Seychelles ,Intelvision Ltd,ADD,1194
+240,39,Sweden ,Primlight AB,LIR,1194
+282,12,Georgia ,"""Telecom1"" LTD",LIR,1195
+452,09,Viet Nam ,REDDI,ADD,1195
+901,70,"International Mobile, shared code",Clementvale Baltic OÜ,ADD,1195
+901,41,"International Mobile, shared code",One Network B.V.,LIR,1195
+248,18,Estonia ,CLOUD COMMUNICATIONS OÜ,ADD,1196
+216,71,Hungary ,Vodafone Hungary Ltd,LIR,1196
+901,71,"International Mobile, shared code",Tampnet AS,ADD,1196
+649,07,Namibia ,Capricorn Connect,ADD,1197
+640,01,Tanzania ,Shared Network Tanzania Limited,SUP,1197
+640,08,Tanzania ,Benson Informatics Limited (Smart),SUP,1197
+640,14,Tanzania ,MO Mobile Holding Limited,ADD,1197
+310,040,United States ,MTA Communications dba MTA Wireless,SUP,1198
+310,060,United States ,Consolidated Telcom,SUP,1198
+310,300,United States ,Blanca Telephone Company,SUP,1198
+310,610,United States ,Elkhart Telephone Co. Inc. dba Epic Touch Co.,SUP,1198
+310,780,United States ,D.D. Inc,SUP,1198
+311,200,United States ,ARINC,SUP,1198
+311,300,United States ,Nexus Communications Inc,SUP,1198
+311,500,United States ,Mosaic Telecom Inc,SUP,1198
+311,960,United States ,Lycamobile USA Inc,SUP,1198
+312,050,United States ,Fuego Wireless LLC,SUP,1198
+312,070,United States ,Adams Networks Inc,SUP,1198
+312,140,United States ,Cleveland Unlimited Inc,SUP,1198
+312,340,United States ,MTA Communications dba MTA Wireless,SUP,1198
+312,440,United States ,Consolidated Telcom,SUP,1198
+312,740,United States ,"KDDI America, Inc dba Locus Telecommunications",SUP,1198
+310,330,United States ,Wireless Partners LLC,ADD,1198
+310,340,United States ,"Limitless Mobile, LLC",ADD,1198
+310,591,United States ,Verizon Wireless,ADD,1198
+310,592,United States ,Verizon Wireless,ADD,1198
+310,593,United States ,Verizon Wireless,ADD,1198
+310,594,United States ,Verizon Wireless,ADD,1198
+310,595,United States ,Verizon Wireless,ADD,1198
+310,596,United States ,Verizon Wireless,ADD,1198
+310,597,United States ,Verizon Wireless,ADD,1198
+310,598,United States ,Verizon Wireless,ADD,1198
+310,599,United States ,Verizon Wireless,ADD,1198
+310,810,United States ,Pacific Lightwave Inc.,ADD,1198
+310,891,United States ,Verizon Wireless,ADD,1198
+310,892,United States ,Verizon Wireless,ADD,1198
+310,893,United States ,Verizon Wireless,ADD,1198
+310,894,United States ,Verizon Wireless,ADD,1198
+310,895,United States ,Verizon Wireless,ADD,1198
+376,351,Turks and Caicos Islands ,Digicel TCI Ltd,SUP,1200
+376,360,Turks and Caicos Islands ,Digicel,ADD,1200
+655,76,South Africa ,Comsol Networks (Pty) Ltd,ADD,1201
+901,74,"International Mobile, shared code",Etisalat,ADD,1201
+901,49,"International Mobile, shared code",,LIR,1201
+230,07,Czech Rep. ,T-Mobile Czech Republic a.s.,ADD,1202
+230,02,Czech Rep. ,O2 Czech Republic a.s.,LIR,1202
+230,04,Czech Rep. ,Nordic Telecom s.r.o.,LIR,1202
+230,98,Czech Rep. ,"Sprava zeleznic, statni organizace",LIR,1202
+454,35,"Hong Kong, China ",Webbing Hong Kong Limited,ADD,1202
+901,75,"International Mobile, shared code",Podsystem Ltd.,ADD,1202
+901,76,"International Mobile, shared code",A1 Telekom Austria AG,ADD,1202
+302,330,Canada,Blue Canada Wireless Inc,SUP,1203
+425,22,Israel,Maskyoo Telephonia Ltd.,ADD,1203
+228,59,Switzerland,"Vectone Mobile Limited, London",ADD,1203
+214,14,Spain ,"AVATEL MÓVIL, S.L.U.",ADD,1204
+901,77,"International Mobile, shared code",Bouygues Telecom,ADD,1204
+248,19,Estonia ,OkTelecom OÜ,ADD,1206
+334,100,Mexico ,TELECOMUNICACIONES DE MÉXICO,ADD,1206
+334,110,Mexico ,"MAXCOM TELECOMUNICACIONES, S.A.B. DE C.V.",ADD,1206
+334,120,Mexico ,"QUICKLY PHONE, S.A. DE C.V.",ADD,1206
+334,130,Mexico ,"AXTEL, S.A.B. DE C.V.",ADD,1206
+334,140,Mexico ,"ALTÁN REDES, S.A.P.I. DE C.V.",ADD,1206
+334,150,Mexico ,"ULTRAVISIÓN, S.A. DE C.V.",ADD,1206
+334,160,Mexico ,"CABLEVISIÓN RED, S.A. DE C.V.",ADD,1206
+334,170,Mexico ,"OXIO MOBILE, S.A. DE C.V.",ADD,1206
+334,010,Mexico ,"AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.",LIR,1206
+334,030,Mexico ,"PEGASO PCS, S.A. DE C.V.",LIR,1206
+724,21,LI,,GUE,1207
+639,11,Jambo Telcoms Limi,,ted,1207
+639,12,Infura Limi,,ted,1207
+505,18,Australia,Pactel International Pty Ltd,SUP,1209
+282,22,Georgia,"""Myphone"" LTD",ADD,1209
+422,06,Oman,Vodafone Oman,ADD,1209
+901,72,"International Mobile, shared code",,LIR,1209
+505,49,Australia,Field Solutions Group Pty Ltd,ADD,1210
+206,03,Belgium,Citymesh,ADD,1210
+206,11,Belgium,L-Mobi Mobile,ADD,1210
+206,22,Belgium,FEBO Telecom,ADD,1210
+206,29,Belgium,TISMI,ADD,1210
+206,99,Belgium,e-BO Enterprises,ADD,1210
+270,77,Belgium,Proximus Luxembourg S.A.,LIR,1210
+248,20,Estonia,DOTT Telecom OÜ,ADD,1210
+270,77,Luxembourg,Proximus Luxembourg S.A.,LIR,1210
+204,06,Netherlands,Mundio Mobile (Netherlands) Ltd,SUP,1210
+204,17,Netherlands,Intercity Mobile Communications B.V.,SUP,1210
+204,29,Netherlands,Private Mobile Ltd,SUP,1210
+204,60,Netherlands,Nextgen Mobile Ltd,SUP,1210
+204,61,Netherlands,BodyTrace Netherlands B.V.,SUP,1210
+204,65,Netherlands,AGMS Nederland B.V.,SUP,1210
+204,68,Netherlands,Roamware (Netherlands) B.V.,SUP,1210
+204,00,Netherlands,Intovoice B.V.,ADD,1210
+204,11,Netherlands,Greenet Netwerk B.V.,ADD,1210
+204,14,Netherlands,Venus & Mercury Telecom,ADD,1210
+204,27,Netherlands,L-Mobi Mobile B.V.,ADD,1210
+204,29,Netherlands,Tismi B.V.,ADD,1210
+204,30,Netherlands,ASpider Solutions Nederland B.V.,ADD,1210
+204,32,Netherlands,Cubic Telecom Limited,ADD,1210
+204,33,Netherlands,Truphone B.V.,ADD,1210
+204,61,Netherlands,Alcadis B.V.,ADD,1210
+204,63,Netherlands,Messagebird BV,ADD,1210
+204,91,Netherlands,Enexis Netbeheer B.V.,ADD,1210
+204,02,Netherlands,T-Mobile Netherlands B.V.,LIR,1210
+204,07,Netherlands,Tata Communications MOVE B.V.,LIR,1210
+204,08,Netherlands,KPN B.V.,LIR,1210
+204,18,Netherlands,Ziggo Services B.V.,LIR,1210
+204,23,Netherlands,KORE Wireless Nederland B.V.,LIR,1210
+204,25,Netherlands,CapX Nederland,LIR,1210
+204,69,Netherlands,KPN B.V.,LIR,1210
+240,26,Sweden,Twilio Ireland Ltd.,LIR,1210
+248,21,Estonia,Tismi B.V.,ADD,1211
+278,01,Malta,Epic Communications Ltd,LIR,1211
+278,77,Malta,Melita Ltd,LIR,1211
+342,820,Barbados,Sunbeach Communications,SUP,1212
+342,800,Barbados,Ozone,ADD,1212
+342,820,Barbados,Neptune Communications Inc.,ADD,1212
+342,600,Barbados,Cable & Wireless,LIR,1212
+228,66,Switzerland,Inovia Services SA,ADD,1213
+505,51,Australia ,Fortescue Metals Group Ltd,ADD,1215
+631,05,Angola,AFRICELL,ADD,1216
+724,17,Brazil,SURF TELECOM S.A.,ADD,1216
+214,12,Spain,,SUP,1217
+240,49,Sweden,Telia Sverige AB,ADD,1217
+240,14,Sweden,Tele2 Sverige AB,LIR,1217
+901,53,"International Mobile, shared code",,R *,1217
+991,01,"International Mobile, shared code",(end of temporary assignment for trial on,UP*,1217
+454,09,"Hong Kong, China",CMMobile Global Communications Ltd,SUP,1218
+454,23,"Hong Kong, China",Lycamobile Hong Kong Ltd,SUP,1218
+454,36,"Hong Kong, China",Easco Telecommunications Limited,ADD,1218
+454,12,"Hong Kong, China",China Mobile Hong Kong Company Limited,LIR,1218
+454,13,"Hong Kong, China",China Mobile Hong Kong Company Limited,LIR,1218
+454,21,"Hong Kong, China",21 ViaNet Group Limited,LIR,1218
+454,30,"Hong Kong, China",China Mobile Hong Kong Company Limited,LIR,1218
+270,05,Luxembourg,Luxembourg Online S.A.,ADD,1219
+505,52,Australia,Optitel Pty Ltd,ADD,1220
+302,996,Canada,Powertech Labs (experimental),ADD,1220
+238,88,Denmark,Cobira ApS,ADD,1220
+505,53,Australia,Shell Australia Pty Ltd,ADD,1221
+302,910,Canada,Halton Regional Police Service (reserved),ADD,1221
+302,770,Canada,TNW Wireless Inc.,LIR,1221
+228,67,Switzerland,Datatrade Managed AG,ADD,1221
+228,68,Switzerland,Intellico AG,ADD,1221
+350,007,Bermuda,Paradise Mobile,ADD,1222
+228,08,Switzerland,Sunrise Communications AG,LIR,1222
+901,80,"International Mobile, shared code",Flo Live Limited,ADD,1222
+901,81,"International Mobile, shared code",Airnity SAS,ADD,1222
+276,04,Albania,Mobile 4 AL,SUP,1224
+276,01,Albania,ONE TELECOMMUNICATIONS  sh.a,LIR,1224
+276,03,Albania,ALBTELECOM sh.a.,LIR,1224
+214,30,Spain,Compatel Limited,SUP,1224
+641,18,Uganda,Suretelecom Uganda Limited,SUP,1224
+641,20,Uganda,Hamilton Telecom Limited,SUP,1224
+248,22,Estonia,M2MConnect OÜ,ADD,1225
+278,11,Malta,YOM,SUP,1225
+230,09,Czech Rep.,"Uniphone, s.r.o.",ADD,1226
+655,77,South Africa,K2015315513 (Pty) Ltd t\a One Telecom (Pty) Ltd,ADD,1226
+302,998,Canada,,ADD,1227
+272,68,Ireland,,ADD,1227
+537,04,Papua New Guinea,Digitec Communication Limited,ADD,1227
+214,12,Spain,"VENUS MOVIL, S.L. UNIPERSONAL",ADD,1227
+901,82,"International Mobile, shared code",Eseye Limited,ADD,1227
+901,83,"International Mobile, shared code",iBasis Netherlands BV,ADD,1227
+505,54,Australia,Nokia Solutions and Networks Australia Pty Ltd,ADD,1228
+302,350,Canada,Naskapi Imuun Inc.,ADD,1228
+655,03,South Africa,Telkom SA SOC Ltd,ADD,1228
+228,69,Switzerland,MTEL Schweiz GmbH,ADD,1229
+228,70,Switzerland,Tismi BV,ADD,1229
+334,180,Mexico,"FREEDOMPOP MÉXICO, S.A. DE C.V.",ADD,1230
+334,190,Mexico,"VIASAT TECNOLOGÍA, S.A. DE C.V.",ADD,1230
+645,07,Zambia,Liquid Telecom Zambia Limited,ADD,1230
+645,01,Zambia,Airtel Zambia Limited,LIR,1230
+645,02,Zambia,MTN Zambia Limited,LIR,1230
+402,77,Bhutan,Tashi InfoComm Limited (Tashi Cell),ADD,1231
+402,11,Bhutan,Bhutan Telecom Limited (Bmobile),LIR,1231
+402,17,Bhutan,Bhutan Telecom Limited (Bmobile),LIR,1231
+338,040,Jamaica,Symbiote Investment Limited,SUP,1231
+338,080,Jamaica,Rock Mobile Limited,ADD,1231
+441,10,Japan,UQ Communications Inc.,SUP,1231
+440,13,Japan,NTT Communications Corporation,ADD,1231
+440,14,Japan,GRAPE ONE LTD.,ADD,1231
+440,15,Japan,BB Backbone Corp.,ADD,1231
+440,16,Japan,Nokia Innovations Japan G.K.,ADD,1231
+440,17,Japan,OSAKA GAS BUSINESS CREATE CORPORATION,ADD,1231
+440,18,Japan,"Kintetsu Cable Network, Ltd",ADD,1231
+440,19,Japan,NEC Networks & System Integration Corporation,ADD,1231
+440,22,Japan,JTOWER Inc.,ADD,1231
+440,23,Japan,FUJITSU LIMITED,ADD,1231
+441,200,Japan,"SORACOM, Inc.",ADD,1231
+441,201,Japan,"Aurens Co.,Ltd.",ADD,1231
+441,202,Japan,Sony Wireless Communications Inc.,ADD,1231
+441,203,Japan,GujoCity,ADD,1231
+441,204,Japan,Wicom Inc.,ADD,1231
+441,205,Japan,KATCH NETWORK INC.,ADD,1231
+441,206,Japan,MITSUBISHI ELECTRIC CORPORATION,ADD,1231
+440,07,Japan,"closip, Inc.",LIR,1231
+901,88,"International Mobile, shared code",,ion,1232
+413,03,Sri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd.,SUP,1233
+413,09,Sri Lanka,Hutchison Telecommunications Lanka (Pvt) Ltd.,SUP,1233
+342,646,Barbados,KW Telecommunications Inc.,ADD,1235
+901,84,"International Mobile, shared code","TELEFONICA MOVILES ESPAÑA, S.A. UNIPERSONAL (TME)",ADD,1235
+901,85,"International Mobile, shared code",Telefónica Germany GmbH & Co. OHG,ADD,1235
+206,04,Belgium,MWINGZ (Proximus/Orange Belgium),ADD,1236
+206,34,Belgium,ONOFFAPP,ADD,1236
+530,07,New Zealand,Bluereach Limited,SUP,1236
+530,07,New Zealand,Dense Air New Zealand Ltd,ADD,1236
+206,04,Belgium,MWINGZ (Proximus/Orange Belgium),ADD,1237
+206,34,Belgium,ONOFFAPP,ADD,1237
+530,07,New Zealand,Bluereach Limited,SUP,1237
+530,07,New Zealand,Dense Air New Zealand Ltd,ADD,1237
+248,24,Estonia,Novametro OÜ,ADD,1238
+248,25,Estonia,Eurofed OÜ,ADD,1238
+714,02,Panama,"Grupo de Comunicaciones Digitales, S.A. (TIGO)",LIR,1238
+714,020,Panama,"Grupo de Comunicaciones Digitales, S.A. (TIGO)",LIR,1238
+425,27,Israel,BITIT Ltd.,ADD,1240
+240,41,Sweden,Telenor Sverige AB,ADD,1240
+417,03,Syrian Arab Republic,WAFA Telecom,ADD,1240
+901,29,"International Mobile, shared code",Telenor Connexion AB,UP*,1240
+901,33,"International Mobile, shared code","Smart Communications, Inc",UP*,1240
+901,47,"International Mobile, shared code",Ooredoo,UP*,1240
+901,57,"International Mobile, shared code",SAP,UP*,1240
+901,70,"International Mobile, shared code",Clementvale Baltic OÜ,UP*,1240
+901,86,"International Mobile, shared code",BJT PARTNERS SAS,DD*,1240
+901,87,"International Mobile, shared code","Cisco Systems, Inc.",DD*,1240
+238,77,Denmark,Telenor,SUP,1242
+441,91,Japan,,SUP,1242
+441,207,Japan,"Mitsui Knowledge Industry Co., Ltd.",ADD,1242
+441,208,Japan,CHUDENKO CORPORATION,ADD,1242
+441,209,Japan,Cable Television TOYAMA Inc.,ADD,1242
+440,01,Japan,KDDI CORPORATION,LIR,1242
+204,01,Netherlands,RadioAccess Network Services B.V.,SUP,1242
+204,17,Netherlands,Lebara Ltd,ADD,1242
+204,62,Netherlands,RGTN Wholesale Netherlands B.V.,ADD,1242
+204,24,Netherlands,PM Factory B.V.,LIR,1242
+901,89,"International Mobile, shared code",DIDWW Ireland Limited,ode,1242
+901,90,"International Mobile, shared code",Truphone Limited,ode,1242
+901,91,"International Mobile, shared code",World Mobile Group Limited,ode,1242
+208,93,France,Thales communications & Security,SUP,1243
+208,95,France,Orange,SUP,1243
+208,98,France,Société Air France,SUP,1243
+208,12,France,Truphone France,ADD,1243
+208,34,France,Cellhire (France),ADD,1243
+208,35,France,Free mobile,ADD,1243
+208,36,France,Free mobile,ADD,1243
+208,37,France,IP Directions,ADD,1243
+208,38,France,Lebara France Limited,ADD,1243
+208,39,France,Netwo,ADD,1243
+208,501,France,Butachimie,ADD,1243
+208,502,France,EDF,ADD,1243
+208,701,France,GIP Vendée numérique,ADD,1243
+208,702,France,17-Numerique,ADD,1243
+208,703,France,Nivertel,ADD,1243
+208,704,France,Axione Limousin,ADD,1243
+208,705,France,Hautes-Pyrénées Numérique,ADD,1243
+208,706,France,Tours Métropole Numérique,ADD,1243
+208,707,France,Sartel THD,ADD,1243
+208,708,France,Melis@ territoires ruraux,ADD,1243
+208,709,France,Quimper communauté télécom,ADD,1243
+208,710,France,Losange,ADD,1243
+208,711,France,Nomotech,ADD,1243
+208,19,France,Haute-Garonne numérique,LIR,1243
+208,26,France,Bouygues Telecom Business - Distribution,LIR,1243
+208,28,France,Airmob Infra Full,LIR,1243
+208,30,France,Syma,LIR,1243
+208,33,France,Syndicat mixte La Fibre64,LIR,1243
+208,87,France,Airbus defence and space SAS,LIR,1243
+208,89,France,Hub One,LIR,1243
+208,96,France,Région Bourgogne-Franche-Comté,LIR,1243
+340,11,French Guiana,Guyane Téléphone Mobile,SUP,1243
+742,04,French Guiana,Free Caraïbe,ADD,1243
+340,04,Guadeloupe,Free Caraïbe,SUP,1243
+340,12,Martinique,Martinique Téléphone Mobile,SUP,1243
+308,03,Saint Pierre and Miquelon,SAS SPM Telecom,ADD,1243
+293,11,Slovenia,BeeIN d.o.o.,ADD,1244
+293,21,Slovenia,Novatel d.o.o.,ADD,1244
+248,26,Estonia,IT-Decision Telecom OÜ,ADD,1246
+738,00,Guyana,E-Networks Inc.,ADD,1246
+901,51,"International Mobile, shared code",VisionNG,SUP,1246
+901,92,"International Mobile, shared code",Phonegroup SA,ADD,1246
+901,93,"International Mobile, shared code",SkyFive AG,ADD,1246
