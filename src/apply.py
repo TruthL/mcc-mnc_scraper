@@ -44,7 +44,7 @@ def patch_apply():
                 wiki_df.at[index,'status'] = 'Not operational'
                 wiki_df.at[index,'patched'] = str(number)
             else:
-                print('DELETE(SUP): MCC+MNC ('+ str(mcc)+' '+str(mnc)+') not found')
+                print('DELETE(SUP): MCC+MNC ('+ str(mcc)+' '+str(mnc)+') not found - already deleted')
             # print('delete')
             #change the status to 'Not operational'
         elif op == 'REP':

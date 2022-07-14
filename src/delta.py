@@ -1,4 +1,5 @@
 from PyPDF2 import PdfReader
+from numpy import NaN
 import pandas as pd
 from utils import func, bulletin as bullet, pdf
 import os
@@ -19,7 +20,7 @@ def get_delta():
         files = glob.glob(n_path)
         files.sort()
         for file in files :
-            print(file)
+            # print(file)
             if file == 'data/2021/1214.pdf':
                 continue
             bullet_no = pdf.get_bulletin_num(file,d)
@@ -32,8 +33,8 @@ def get_delta():
                 net_name = row['Operator/Network']
                 if mcc_mnc == '*':
                     continue
-                if string[-1] == '*':
-                    string = string.strip("*")
+                if string != "":
+                    string = pdf.check_unwanted(string)
                 op = string[-3:]
                 dest = string[:-3]
                 l_mcc= mcc_mnc.split()

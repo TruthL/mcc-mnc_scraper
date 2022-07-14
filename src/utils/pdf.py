@@ -83,10 +83,15 @@ def check_mcc_mnc(df,mcc,mnc):
     return df
 
 # without check = 458
-
 def int_range(mcc,destination):
     if int(mcc) >= 900:
         dest = 'International Mobile, shared code'
         return dest
     else: return destination
+
+def check_unwanted(string):
+    char = '*'
+    if string[-1] == char:
+        string = string[:-1]
+    return string
     

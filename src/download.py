@@ -27,7 +27,7 @@ def download_bulletins(list):
         table = soup.find('table')
         rows = table.tbody.find_all('tr')
         head = rows[0].find('strong')
-        print(head)
+        # print(head)
         file_name = bullet.get_file_name(head.get_text())
         print(file_name)
         file_date = bullet.get_date(head.get_text())
@@ -45,6 +45,6 @@ def download_bulletins(list):
         else:
             pdf = base + bullet.pdf_first(soup)
             bullet.download_file(pdf,file_year,file_name)
-            print('no toc')
+            # print('no toc')
 
 #open file instead of downloading and return the pdf
